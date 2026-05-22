@@ -1,0 +1,1050 @@
+{
+  "props": {
+    "pageProps": {
+      "isClientSideNavigation": false,
+      "region": "sk",
+      "locale": "sk-SK",
+      "marcom": {
+        "logo": {
+          "href": "https://tesco.sk"
+        }
+      },
+      "header": {
+        "primaryNav": {
+          "mobileMenuTitle": "_bloks:primary-nav.menu",
+          "moreMenuItem": {
+            "id": "primary-nav/more",
+            "text": "_bloks:primary-nav.more",
+            "href": "/"
+          },
+          "closeLinkText": "_bloks:primary-nav.close-text",
+          "backLinkText": "_bloks:primary-nav.back",
+          "menuItems": [
+            {
+              "id": "primary-nav/groceries",
+              "href": "https://potravinydomov.itesco.sk/groceries",
+              "text": "_bloks:primary-nav.groceries"
+            },
+            {
+              "id": "primary-nav/special-offers",
+              "text": "_bloks:primary-nav.special-offers",
+              "href": "https://www.tesco.sk/akciove-ponuky/letaky-a-katalogy",
+              "children": [
+                {
+                  "id": "primary-nav/special-offers/flyers-and-catalogs",
+                  "href": "https://www.tesco.sk/akciove-ponuky/letaky-a-katalogy",
+                  "text": "_bloks:primary-nav.flyers-and-catalogs"
+                },
+                {
+                  "id": "primary-nav/special-offers/products",
+                  "href": "https://www.tesco.sk/akciove-ponuky/akciove-produkty/tesco-obchod",
+                  "text": "_bloks:primary-nav.products"
+                },
+                {
+                  "id": "primary-nav/special-offers/events-and-competitions",
+                  "href": "https://www.tesco.sk/zones/akciove-ponuky/akcie-a-sutaze",
+                  "text": "_bloks:primary-nav.events-and-competitions"
+                }
+              ]
+            },
+            {
+              "id": "primary-nav/clubcard",
+              "text": "_bloks:primary-nav.clubcard",
+              "href": "https://www.itesco.sk/clubcard",
+              "children": [
+                {
+                  "id": "primary-nav/clubcard/benefits",
+                  "href": "https://www.itesco.sk/clubcard",
+                  "text": "_bloks:primary-nav.clubcard-benefits"
+                },
+                {
+                  "id": "primary-nav/clubcard/mobile-app",
+                  "href": "https://www.itesco.sk/clubcard/mobilna-aplikacia",
+                  "text": "_bloks:primary-nav.clubcard-mobile-app"
+                },
+                {
+                  "id": "primary-nav/clubcard/request",
+                  "href": "https://www.itesco.sk/clubcard/ziskat-vyhody-clubcard",
+                  "text": "_bloks:primary-nav.clubcard-request"
+                },
+                {
+                  "id": "primary-nav/clubcard/my-account",
+                  "href": "https://s.itesco.sk/clubcard/mojucet/home",
+                  "text": "_bloks:primary-nav.clubcard-my-account"
+                },
+                {
+                  "id": "primary-nav/clubcard/faq",
+                  "href": "https://www.tesco.sk/help/pages/clubcard",
+                  "text": "_bloks:primary-nav.clubcard-faq"
+                }
+              ]
+            },
+            {
+              "id": "primary-nav/tesco-brand",
+              "text": "_bloks:primary-nav.tesco-brand",
+              "href": "https://www.tesco.sk/zones/ff",
+              "children": [
+                {
+                  "id": "primary-nav/tesco-brand/f&f-fashion",
+                  "href": "https://www.tesco.sk/zones/ff",
+                  "text": "_bloks:primary-nav.f&f-fashion"
+                },
+                {
+                  "id": "primary-nav/tesco-brand/tesco-finest",
+                  "href": "https://www.tesco.sk/zones/tesco-finest",
+                  "text": "_bloks:primary-nav.tesco-finest"
+                },
+                {
+                  "id": "primary-nav/tesco-brand/grill-master",
+                  "href": "https://www.tesco.sk/zones/hello/sezona/grill-master",
+                  "text": "_bloks:primary-nav.grill-master"
+                },
+                {
+                  "id": "primary-nav/tesco-brand/go-cook",
+                  "href": "https://www.tesco.sk/zones/go-cook",
+                  "text": "_bloks:primary-nav.go-cook"
+                },
+                {
+                  "id": "primary-nav/tesco-brand/fred-and-flo",
+                  "href": "https://www.tesco.sk/zones/sluzby-a-znacky/fred-flo",
+                  "text": "_bloks:primary-nav.fred-and-flo"
+                },
+                {
+                  "id": "primary-nav/tesco-brand/take-away-food",
+                  "href": "https://www.tesco.sk/zones/jednoducho-bez-kompromisov",
+                  "text": "_bloks:primary-nav.take-away-food"
+                },
+                {
+                  "id": "primary-nav/tesco-brand/pro-formula",
+                  "href": "https://www.tesco.sk/zones/proformula",
+                  "text": "_bloks:primary-nav.pro-formula"
+                },
+                {
+                  "id": "primary-nav/tesco-brand/pet-specialist",
+                  "href": "https://www.tesco.sk/zones/sluzby-a-znacky/tesco-znacky/pet-specialist",
+                  "text": "_bloks:primary-nav.pet-specialist"
+                },
+                {
+                  "id": "primary-nav/tesco-brand/special-nutrition",
+                  "href": "https://www.tesco.sk/zones/zdrave-jedlo-dobre-jedlo",
+                  "text": "_bloks:primary-nav.special-nutrition"
+                }
+              ]
+            },
+            {
+              "id": "primary-nav/tesco-services",
+              "text": "_bloks:primary-nav.tesco-services",
+              "href": "https://www.tesco.sk/zones/sluzby-a-znacky/potraviny-domov/vas-prvy-online-nakup",
+              "children": [
+                {
+                  "id": "primary-nav/tesco-services/tesco-online-shopping",
+                  "href": "https://www.tesco.sk/zones/sluzby-a-znacky/potraviny-domov/vas-prvy-online-nakup",
+                  "text": "_bloks:primary-nav.tesco-online-shopping"
+                },
+                {
+                  "id": "primary-nav/tesco-services/tesco-vouchers",
+                  "href": "https://www.tesco.sk/darcekove-poukazky",
+                  "text": "_bloks:primary-nav.tesco-vouchers"
+                },
+                {
+                  "id": "primary-nav/tesco-services/gas-stations",
+                  "href": "https://www.tesco.sk/zones/cerpacie-stanice",
+                  "text": "_bloks:primary-nav.gas-stations"
+                },
+                {
+                  "id": "primary-nav/tesco-services/scan-and-shop",
+                  "href": "https://www.tesco.sk/zones/scan-and-shop",
+                  "text": "_bloks:primary-nav.scan-and-shop"
+                },
+                {
+                  "id": "primary-nav/tesco-services/tesco-mobile",
+                  "href": "https://www.tescomobile.sk",
+                  "text": "_bloks:primary-nav.tesco-mobile"
+                },
+                {
+                  "id": "primary-nav/tesco-services/sign-language-interpreter",
+                  "href": "https://www.tesco.sk/zones/akciove-ponuky/akcie-a-sutaze/online-tlmocnik",
+                  "text": "_bloks:primary-nav.sign-language-interpreter"
+                }
+              ]
+            },
+            {
+              "id": "primary-nav/hello-tesco",
+              "text": "_bloks:primary-nav.hello-tesco",
+              "href": "/hello/jedlo/recepty",
+              "children": [
+                {
+                  "catId": "primary-nav/hello-tesco/recipes",
+                  "name": "_bloks:primary-nav.recipes",
+                  "url": "/hello/jedlo/recepty",
+                  "children": [
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/appetizers",
+                      "name": "_bloks:primary-nav.appetizers",
+                      "url": "/hello/jedlo/recepty/predjedla",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/appetizers/cold",
+                          "name": "_bloks:primary-nav.cold-appetizers",
+                          "url": "/hello/jedlo/recepty/predjedla/studene"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/appetizers/hot",
+                          "name": "_bloks:primary-nav.hot-appetizers",
+                          "url": "/hello/jedlo/recepty/predjedla/teple"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/soups-salads",
+                      "name": "_bloks:primary-nav.soups-salads",
+                      "url": "/hello/jedlo/recepty/polievky-salaty",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/soups-salads/soups",
+                          "name": "_bloks:primary-nav.soups",
+                          "url": "/hello/jedlo/recepty/polievky"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/soups-salads/salads",
+                          "name": "_bloks:primary-nav.salads",
+                          "url": "/hello/jedlo/recepty/salaty"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/main-courses",
+                      "name": "_bloks:primary-nav.main-courses",
+                      "url": "/hello/jedlo/recepty/hlavne-jedla",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/main-courses/meat",
+                          "name": "_bloks:primary-nav.meat-dishes",
+                          "url": "/hello/jedlo/recepty/hlavne-jedla/s-masom"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/main-courses/pasta",
+                          "name": "_bloks:primary-nav.pasta",
+                          "url": "/hello/jedlo/recepty/hlavne-jedla/cestoviny"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/main-courses/fish",
+                          "name": "_bloks:primary-nav.fish",
+                          "url": "/hello/jedlo/recepty/hlavne-jedla/ryba"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/desserts",
+                      "name": "_bloks:primary-nav.desserts",
+                      "url": "/hello/jedlo/recepty/dezerty",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/desserts/baked",
+                          "name": "_bloks:primary-nav.baked",
+                          "url": "/hello/jedlo/recepty/dezerty/pecene"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/desserts/no-bake",
+                          "name": "_bloks:primary-nav.no-bake",
+                          "url": "/hello/jedlo/recepty/dezerty/nepecene"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/drinks",
+                      "name": "_bloks:primary-nav.drinks",
+                      "url": "/hello/jedlo/recepty/napoje",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/drinks/alcoholic",
+                          "name": "_bloks:primary-nav.alcoholic",
+                          "url": "/hello/jedlo/recepty/napoje/alkoholicke"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/drinks/non-alcoholic",
+                          "name": "_bloks:primary-nav.non-alcoholic",
+                          "url": "/hello/jedlo/recepty/napoje/nealkoholicke"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/kids-menu",
+                      "name": "_bloks:primary-nav.kids-menu",
+                      "url": "/hello/jedlo/recepty/detske-jedla",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/kids-menu/appetizers",
+                          "name": "_bloks:primary-nav.kids-appetizers",
+                          "url": "/hello/jedlo/recepty/detske-jedla/prve-jedla"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/kids-menu/main-courses",
+                          "name": "_bloks:primary-nav.kids-main-courses",
+                          "url": "/hello/jedlo/recepty/detske-jedla/hlavne"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/special-diet",
+                      "name": "_bloks:primary-nav.special-diet",
+                      "url": "/hello/jedlo/recepty/diety",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/special-diet/gluten-free",
+                          "name": "_bloks:primary-nav.gluten-free",
+                          "url": "/hello/jedlo/recepty/diety/bezlepkove"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/special-diet/vegan",
+                          "name": "_bloks:primary-nav.vegan",
+                          "url": "/hello/jedlo/recepty/diety/vegan"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/special-diet/lactose-free",
+                          "name": "_bloks:primary-nav.lactose-free",
+                          "url": "/hello/jedlo/recepty/diety/bezlaktozove"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/special-diet/raw",
+                          "name": "_bloks:primary-nav.raw",
+                          "url": "/hello/jedlo/recepty/diety/raw"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/special-diet/vegetarian",
+                          "name": "_bloks:primary-nav.vegetarian",
+                          "url": "/hello/jedlo/recepty/diety/vegetarian"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/special-diet/sugar-free",
+                          "name": "_bloks:primary-nav.sugar-free",
+                          "url": "/hello/jedlo/recepty/diety/bez-cukru"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/seasonal",
+                      "name": "_bloks:primary-nav.seasonal-recipes",
+                      "url": "/hello/jedlo/recepty/sezona",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/seasonal/christmas",
+                          "name": "_bloks:primary-nav.christmas",
+                          "url": "/hello/jedlo/recepty/sezona/vianoce"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/seasonal/easter",
+                          "name": "_bloks:primary-nav.easter",
+                          "url": "/hello/jedlo/recepty/sezona/velka-noc"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/seasonal/valentines-day",
+                          "name": "_bloks:primary-nav.valentines-day",
+                          "url": "/hello/jedlo/recepty/sezona/valentin"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/seasonal/bbq",
+                          "name": "_bloks:primary-nav.bbq",
+                          "url": "/hello/jedlo/recepty/sezona/bbq"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/seasonal/back-to-school",
+                          "name": "_bloks:primary-nav.back-to-school",
+                          "url": "/hello/jedlo/recepty/sezona/spat-do-skoly"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/meat",
+                      "name": "_bloks:primary-nav.meat-recipes",
+                      "url": "/hello/jedlo/recepty/maso",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/meat/poultry",
+                          "name": "_bloks:primary-nav.poultry",
+                          "url": "/hello/jedlo/recepty/maso/hydina"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/meat/beef",
+                          "name": "_bloks:primary-nav.beef",
+                          "url": "/hello/jedlo/recepty/maso/hovadzina"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/meat/pork",
+                          "name": "_bloks:primary-nav.pork",
+                          "url": "/hello/jedlo/recepty/maso/bravcove"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/meat/fish",
+                          "name": "_bloks:primary-nav.fish",
+                          "url": "/hello/jedlo/recepty/maso/ryby"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/meat/other-meat",
+                          "name": "_bloks:primary-nav.other-meat",
+                          "url": "/hello/jedlo/recepty/maso/ostatne"
+                        }
+                      ]
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/recipes/other",
+                      "name": "_bloks:primary-nav.other",
+                      "url": "/hello/jedlo/recepty/ine",
+                      "children": [
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/other/quick",
+                          "name": "_bloks:primary-nav.quick-meals",
+                          "url": "/hello/jedlo/recepty/ine/rychla-priprava"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/other/video",
+                          "name": "_bloks:primary-nav.video-recipes",
+                          "url": "/hello/jedlo/recepty/ine/video-recepty"
+                        },
+                        {
+                          "catId": "primary-nav/hello-tesco/recipes/other/under-price",
+                          "name": "_bloks:primary-nav.recipes-under-cost",
+                          "url": "/hello/jedlo/recepty/ine/recepty-do-5"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "catId": "primary-nav/hello-tesco/tips",
+                  "name": "_bloks:primary-nav.tips",
+                  "url": "/hello/jedlo/tipy-a-rady"
+                },
+                {
+                  "catId": "primary-nav/hello-tesco/healthy-lifestyle",
+                  "name": "_bloks:primary-nav.healthy-lifestyle",
+                  "url": "/hello/zdravy-zivot",
+                  "children": [
+                    {
+                      "catId": "primary-nav/hello-tesco/healthy-lifestyle/fit-lifestyle",
+                      "name": "_bloks:primary-nav.fit-lifestyle",
+                      "url": "/hello/zdravy-zivot/zdravy-styl"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/healthy-lifestyle/healthy-food",
+                      "name": "_bloks:primary-nav.healthy-food",
+                      "url": "/hello/zdravy-zivot/zdrave-jedlo"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/healthy-lifestyle/health",
+                      "name": "_bloks:primary-nav.health",
+                      "url": "/hello/zdravy-zivot/zdravie"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/healthy-lifestyle/relaxation",
+                      "name": "_bloks:primary-nav.relaxation",
+                      "url": "/hello/zdravy-zivot/relax"
+                    }
+                  ]
+                },
+                {
+                  "catId": "primary-nav/hello-tesco/baby",
+                  "name": "_bloks:primary-nav.baby",
+                  "url": "/hello/dieta",
+                  "children": [
+                    {
+                      "catId": "primary-nav/hello-tesco/baby/newborn",
+                      "name": "_bloks:primary-nav.newborn",
+                      "url": "/hello/dieta/novorodenec"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/baby/toddler",
+                      "name": "_bloks:primary-nav.toddler",
+                      "url": "/hello/dieta/batola"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/baby/preschooler",
+                      "name": "_bloks:primary-nav.preschooler",
+                      "url": "/hello/dieta/predskolak"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/baby/schoolchild",
+                      "name": "_bloks:primary-nav.schoolchild",
+                      "url": "/hello/dieta/skolak"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/baby/pregnancy",
+                      "name": "_bloks:primary-nav.pregnancy",
+                      "url": "/hello/dieta/tehotenstvo"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/baby/child-health",
+                      "name": "_bloks:primary-nav.child-health",
+                      "url": "/hello/dieta/detske-zdravie"
+                    },
+                    {
+                      "catId": "primary-nav/hello-tesco/baby/kids-menu",
+                      "name": "_bloks:primary-nav.kids-menu-baby",
+                      "url": "/hello/jedlo/recepty/detske-jedla"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "primary-nav/how-we-help",
+              "text": "_bloks:primary-nav.how-we-help",
+              "href": "https://corporate.tesco.sk/spravne-zaciatky",
+              "children": [
+                {
+                  "id": "primary-nav/how-we-help/tesco-help",
+                  "href": "https://corporate.tesco.sk/spravne-zaciatky",
+                  "text": "_bloks:primary-nav.tesco-help"
+                },
+                {
+                  "id": "primary-nav/how-we-help/consumer-choice",
+                  "href": "https://www.tesco.sk/zones/volba-spotrebitelov",
+                  "text": "_bloks:primary-nav.consumer-choice"
+                },
+                {
+                  "id": "primary-nav/how-we-help/food-collection",
+                  "href": "https://www.tesco.sk/zones/potravinova-zbierka",
+                  "text": "_bloks:primary-nav.food-collection"
+                },
+                {
+                  "id": "primary-nav/how-we-help/food-wasting",
+                  "href": "https://corporate.tesco.sk/strategia-udrzatelnosti/planeta/plytvanie-potravinami",
+                  "text": "_bloks:primary-nav.food-wasting"
+                },
+                {
+                  "id": "primary-nav/how-we-help/period-poverty",
+                  "href": "https://corporate.tesco.sk/strategia-udrzatelnosti/komunity/podpora-lokalnych-projektov/podpora-dostojnej-menstruacie",
+                  "text": "_bloks:primary-nav.period-poverty"
+                }
+              ]
+            }
+          ]
+        },
+        "globalNav": [
+          {
+            "id": "global-nav/appbar-sign-in",
+            "href": "https://www.tesco.sk/account/login/sk-SK",
+            "text": "_marcom:appbar.sign-in"
+          },
+          {
+            "id": "global-nav/appbar-sign-out",
+            "href": "https://www.tesco.sk/account/login/sk-SK/logout",
+            "text": "_marcom:appbar.sign-out"
+          },
+          {
+            "id": "global-nav/appbar-find-a-store",
+            "href": "https://www.tesco.sk/obchody",
+            "text": "_marcom:appbar.find-a-store",
+            "icon": "locator"
+          },
+          {
+            "id": "global-nav/appbar-contact-us",
+            "href": "https://www.tesco.sk/kontakty",
+            "text": "_marcom:appbar.contact-us"
+          },
+          {
+            "id": "global-nav/appbar-help",
+            "href": "https://www.tesco.sk/help",
+            "text": "_marcom:appbar.help"
+          },
+          {
+            "id": "global-nav/appbar-my-account",
+            "href": "https://www.tesco.sk/account/dashboard/sk-SK",
+            "text": "_marcom:appbar.my-account",
+            "icon": "account"
+          }
+        ]
+      },
+      "footer": {
+        "followus": "footer.follow-us",
+        "copyright": "footer.copyright",
+        "socials": {
+          "facebook": "https://www.facebook.com/tescosk",
+          "youtube": "https://www.youtube.com/channel/UCxawZ7dnJJHDsoK9MZBbaSQ",
+          "instagram": "https://www.instagram.com/tesco.svk",
+          "tiktok": "https://www.tiktok.com/@tesco.slovensko"
+        },
+        "content": [
+          {
+            "header": "footer.about-tesco",
+            "links": [
+              {
+                "text": "footer.about-us",
+                "href": "https://corporate.tesco.sk/o-nas"
+              },
+              {
+                "text": "footer.career",
+                "href": "https://kariera.tesco.sk"
+              },
+              {
+                "text": "footer.press-news",
+                "href": "https://corporate.tesco.sk/novinky"
+              },
+              {
+                "text": "footer.responsible-company",
+                "href": "https://corporate.tesco.sk/strategia-udrzatelnosti/planeta"
+              },
+              {
+                "text": "footer.tesco-plc",
+                "href": "https://www.tescoplc.com"
+              }
+            ]
+          },
+          {
+            "header": "footer.support",
+            "links": [
+              {
+                "text": "footer.contact-us",
+                "href": "https://www.tesco.sk/kontakty"
+              },
+              {
+                "text": "footer.store-locator",
+                "href": "https://www.tesco.sk/obchody"
+              },
+              {
+                "text": "footer.faq",
+                "href": "https://www.tesco.sk/help"
+              },
+              {
+                "text": "footer.returns-and-warranty",
+                "href": "https://www.tesco.sk/zones/vratenie-a-zaruka"
+              },
+              {
+                "text": "footer.product-recall",
+                "href": "https://www.tesco.sk/help/pages/dokumenty/oznamenia-a-upozornenia"
+              },
+              {
+                "text": "footer.helpline-for-suppliers",
+                "href": "https://dtube.tesco-europe.com/DTUBE_RESTAPI/supplierhelpline/index.html"
+              },
+              {
+                "text": "footer.ethical-line-for-suppliers",
+                "href": "https://forms.office.com/pages/responsepage.aspx?id=EbTVV67_Wkem4Soarn0g40gw6B3rSVVLjHZ27l3wVc5UMDVJNEdBMDNPMjUxR01CUFVYTTIxTE8zVS4u&route=shorturl"
+              }
+            ]
+          },
+          {
+            "header": "footer.our-offer",
+            "links": [
+              {
+                "text": "footer.leaflet-and-catalogues",
+                "href": "https://www.tesco.sk/akciove-ponuky/letaky-a-katalogy"
+              },
+              {
+                "text": "footer.groceries-shopping",
+                "href": "https://potravinydomov.itesco.sk/groceries/sk-SK"
+              },
+              {
+                "text": "footer.clubcard",
+                "href": "https://www.itesco.sk/clubcard"
+              },
+              {
+                "text": "footer.offer-and-promotion",
+                "href": "https://www.tesco.sk/zones/akciove-ponuky/akcie-a-sutaze"
+              },
+              {
+                "text": "footer.gift-vouchers",
+                "href": "https://www.tesco.sk/darcekove-poukazky"
+              },
+              {
+                "text": "footer.scan-and-shop",
+                "href": "https://www.tesco.sk/zones/scan-and-shop"
+              },
+              {
+                "text": "footer.hello-tesco",
+                "href": "https://www.tesco.sk/hello"
+              },
+              {
+                "text": "footer.tesco-mobile",
+                "href": "https://www.tescomobile.sk"
+              },
+              {
+                "text": "footer.mobile-application",
+                "href": "https://www.tesco.sk/zones/tesco-sr/mobilne-aplikacie"
+              },
+              {
+                "text": "footer.tesco-rentals",
+                "href": "https://www.pasaze.sk"
+              }
+            ]
+          },
+          {
+            "header": "footer.legal-and-settings",
+            "links": [
+              {
+                "text": "footer.terms-conditions",
+                "href": "https://www.tesco.sk/help/pages/dokumenty/pravidla-a-podmienky"
+              },
+              {
+                "text": "footer.privacy-cookie-policy",
+                "href": "https://www.tesco.sk/help/pages/dokumenty/pravidla-pre-ochranu-osobnych-udajov-a-cookies/pravidla-pre-ochranu-osobnych-udajov-a-cookies"
+              },
+              {
+                "text": "footer.cookie-settings",
+                "href": "https://www.tesco.sk/help/sk-SK/manage-cookie-preferences"
+              },
+              {
+                "text": "footer.competition-rules",
+                "href": "https://www.tesco.sk/help/pages/dokumenty/pravidla-sutazi-a-akcii"
+              },
+              {
+                "text": "footer.your-tesco-account",
+                "href": "https://www.itesco.sk/account/dashboard/sk-SK"
+              },
+              {
+                "text": "footer.newsletter-subscription",
+                "href": "https://www.itesco.sk/account/preferences/sk-SK/marketing"
+              }
+            ]
+          }
+        ]
+      },
+      "cookieBanner": {
+        "managePreferencesUrl": "https://www.tesco.sk/help/sk-SK/manage-cookie-preferences",
+        "setPreferencesUrl": "https://www.tesco.sk/help/sk-SK/set-cookie-preferences",
+        "policyUrl": "https://www.tesco.sk/help/pages/dokumenty/pravidla-pre-ochranu-osobnych-udajov-a-cookies/pravidla-pre-ochranu-osobnych-udajov-a-cookies",
+        "businessDataResponsibilityUrl": "https://business.safety.google/intl/sk/privacy"
+      },
+      "cookiePreferencesValue": "",
+      "_nextI18Next": {
+        "initialI18nStore": {
+          "sk-SK": {
+            "translations": {
+              "title": "Katalógy",
+              "close-button": "Zavrieť",
+              "general-error-message": "Ospravedlňujeme sa, niečo sa pokazilo!",
+              "retry": "Skúsiť to znova",
+              "skip-to-page": {
+                "title": "Prejsť na stránku",
+                "error": {
+                  "wrong-page-number": "Zadajte platné číslo stránky"
+                },
+                "enter-page-number": "Zadajte číslo strany"
+              },
+              "download-all": {
+                "title": "Stiahnuť"
+              },
+              "pages-preview": {
+                "title": "Náhľad"
+              },
+              "share-leaflet": {
+                "title": "Zdieľať"
+              },
+              "store-selector": {
+                "title": "Zmena vybraného obchodu",
+                "description": "Nastavte si váš obľúbený obchod. Vedeli ste, že v letáku hypermarketov nájdete až 5× viac produktov v zľave?",
+                "select-store": "Vyberte váš obľúbený obchod",
+                "search": "Vyhľadávanie...",
+                "remove-selected-store": "Odstrániť vybraný obchod"
+              },
+              "baskets": {
+                "no-link": "Chyba: Produkt nie je dostupný",
+                "select-product-heading": "Vyberte variantu produktu",
+                "product-image-not-found": "Obrázok nie je k dispozícii"
+              },
+              "leaflet-list": {
+                "heading-title": "Akciové letáky a katalógy Tesco",
+                "heading-title-selected": "Akciové letáky a katalógy Tesco — {{storeName}}",
+                "sub-heading": "Nové akciové letáky Tesco nájdete na jednom mieste. Prezrite si aktuálne aj budúce online letáky, katalógy a špeciálne ponuky. Nakupujte výhodne a využite Clubcard ceny naplno.",
+                "button-title": "Home",
+                "current-week": "Prelistujte si aktuálne online letáky",
+                "next-week": "Budúci týždeň",
+                "more-information": "Viac informácií",
+                "check-online": "Pozrieť online",
+                "download": "Stiahnuť",
+                "info": "Letáková ponuka platí od {{validityFrom}} od 8:00 hod. do {{validityTo}} alebo do vypredania zásob podľa otváracích hodín jednotlivých obchodov, s výnimkou obmedzenia platnosti na vybraných stránkach. Letáková ponuka nie je platná v predajniach Tesco Expres a platí len v nižšie uvedených obchodoch. Ponuka produktov v letáku sa môže líšiť od ponuky v Tesco Online nákupoch. Ponuka pultového predaja lahôdok a syrov platí len pre obchody s lahôdkovým a syrovým obslužným pultom. Ceny sú uvedené v eurách. Ceny Clubcard platia pri použití vernostnej karty Clubcard. V letáku sú použité ilustračné fotografie. Za prípadné tlačové chyby sa ospravedlňujeme. TESCO STORES SR, a.s., Cesta na Senec 2, 821 04 Bratislava.",
+                "validity-details": "Detaily platnosti",
+                "CAT": {
+                  "leaflet-action": "Katalóg",
+                  "validity": "Tesco Katalóg {{validFromTo}}"
+                },
+                "HM": {
+                  "leaflet-action": "Akciový leták",
+                  "validity": "Tesco Hypermarket {{validFromTo}}"
+                },
+                "SM": {
+                  "leaflet-action": "Akciový leták",
+                  "validity": "Tesco Supermarket {{validFromTo}}"
+                }
+              },
+              "region-filter": {
+                "title": "Pozrite si letáky podľa svojej lokality"
+              },
+              "region-store-list": {
+                "heading-title-region": "Tesco obchody na Slovensku - {{regionName}}",
+                "heading-title-all-regions": "Tesco obchody na Slovensku",
+                "region-list-title": "Podľa regiónu",
+                "all-regions-selection": "Všetky regióny",
+                "search-placeholder": "Výsledky podľa lokality alebo typu obchodu"
+              },
+              "page-meta": {
+                "description": "Všetky aktuálne Letáky a Katalógy TESCO na jednom mieste. ⭐️Vyberte si zo stoviek kvalitných zľavnených produktov. ⭐️Dostupných online aj na predajni.",
+                "keywords": "",
+                "list": {
+                  "title": "Akciové letáky a aktuálne ponuky od {{startDate}} | Tesco",
+                  "title-with-store": "Akciové letáky a aktuálne ponuky od {{startDate}} | {{storeName}}"
+                },
+                "list-by-region": {
+                  "title": "Zoznam obchodov {{region}} | Tesco"
+                },
+                "viewer": {
+                  "title": "Akčný leták {{storeType}} od {{startDate}} | Tesco",
+                  "title-with-store": "Akčný leták {{storeName}} od {{startDate}} | Tesco"
+                }
+              }
+            },
+            "_marcom": {
+              "lang": "sk-SK",
+              "cookies-banner": {
+                "headline": "Nastavenia súkromia",
+                "privacy-settings-description": "My a naši partneri ukladáme informácie v zariadení alebo k nim pristupujeme, napríklad k jedinečným identifikátorom v súboroch cookie, za účelom spracúvania osobných údajov. Svoj súhlas môžete udeliť alebo spravovať voľbou Prijať alebo Odmietnuť všetko, prípadne kedykoľvek v <a href='{{cookieSettingsUrl}}'>Nastavenia cookies</a>. Tieto voľby oznámime našim partnerom a neovplyvnia údaje o prehliadaní. Vaše rozhodnutie však zmení spôsob, akým vám prispôsobíme nakupovanie na našom webe.<br/>Chcete vedieť viac? Prečítajte si naše zásady týkajúce sa <a href='{{privacyPolicyUrl}}'>súborov cookies</a>.",
+                "data-processing-title": "My a naši partneri spracúvame údaje s cieľom",
+                "data-processing-description": "Používať presné údaje o geolokácii. Aktívne skenovať charakteristiky zariadenia na identifikáciu. Ukladať a/alebo pristupovať k informáciám na zariadení. Personalizovaná reklama a obsah, meranie reklamy a obsahu, prieskum publika a vývoj služieb.<br/><a href='{{businessDataResponsibilityUrl}}'>Zodpovednosť za firemné údaje</a>",
+                "button-accept": "Prijať všetky cookies",
+                "button-reject": "Odmietnuť súbory cookie",
+                "warning": "Ak chcete používať túto funkciu, musíte prijať zásady súborov cookie pre reklamy."
+              },
+              "time": {
+                "duration": {
+                  "weeks": {
+                    "short": "t",
+                    "short-value": "{{count}}t"
+                  },
+                  "days": {
+                    "short": "d",
+                    "short-value": "{{count}}d"
+                  },
+                  "hours": {
+                    "short": "h",
+                    "short-value": "{{count}}h"
+                  },
+                  "minutes": {
+                    "short": "m",
+                    "short-value": "{{count}}m"
+                  },
+                  "seconds": {
+                    "short": "s",
+                    "short-value": "{{count}}s"
+                  }
+                }
+              },
+              "appbar": {
+                "sign-in": "Prihlásiť sa",
+                "sign-out": "Odhlásiť sa",
+                "find-a-store": "Nájsť obchod",
+                "contact-us": "Kontaktujte nás",
+                "help": "Pomoc",
+                "my-account": "Môj účet"
+              }
+            }
+          },
+          "en-GB": {
+            "translations": {
+              "skip-to-page": {
+                "error": {
+                  "wrong-page-number": "Please enter a valid page number."
+                },
+                "enter-page-number": "Enter page number",
+                "close": "Close"
+              },
+              "store-selector": {
+                "description": "Set your favorite store. Did you know that you can find up to 5x more products at a discount in a hypermarket newspaper?",
+                "select-store": "Choose your favorite store",
+                "search": "Search...",
+                "remove-selected-store": "Delete the selected store"
+              },
+              "baskets": {
+                "no-link": "Error: No link to the product",
+                "select-product-heading": "Select product variant",
+                "product-image-not-found": "Product image not found"
+              },
+              "leaflet-list": {
+                "heading-title": "Discover our catalogs {{storeName}}",
+                "button-title": "Home",
+                "current-week": "Current week",
+                "next-week": "Next week",
+                "more-information": "More information",
+                "check-online": "Check Online",
+                "download": "Download",
+                "info": "TBD",
+                "validity-details": "Validity details"
+              },
+              "region-filter": {
+                "title": ""
+              },
+              "region-store-list": {
+                "heading-title-region": "Tesco stores in UK - {{regionName}}",
+                "heading-title-all-regions": "Tesco stores in UK",
+                "region-list-title": "List of regions",
+                "all-regions-selection": "All regions"
+              }
+            },
+            "_marcom": {
+              "lang": "en-GB",
+              "time": {
+                "duration": {
+                  "weeks": {
+                    "short": "w",
+                    "short-value": "{{count}}w"
+                  },
+                  "days": {
+                    "short": "d",
+                    "short-value": "{{count}}d"
+                  },
+                  "hours": {
+                    "short": "h",
+                    "short-value": "{{count}}h"
+                  },
+                  "minutes": {
+                    "short": "m",
+                    "short-value": "{{count}}m"
+                  },
+                  "seconds": {
+                    "short": "s",
+                    "short-value": "{{count}}s"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "initialLocale": "sk-SK",
+        "ns": [
+          "translations",
+          "_marcom"
+        ],
+        "userConfig": {
+          "i18n": {
+            "defaultLocale": "en-GB",
+            "locales": [
+              "cs-CZ",
+              "hu-HU",
+              "en-GB",
+              "sk-SK",
+              "en-IE"
+            ],
+            "domains": [
+              {
+                "domain": "www.tesco.com",
+                "defaultLocale": "en-GB"
+              },
+              {
+                "domain": "www.tesco.hu",
+                "defaultLocale": "hu-HU"
+              },
+              {
+                "domain": "www.tesco.ie",
+                "defaultLocale": "en-IE"
+              },
+              {
+                "domain": "www.itesco.cz",
+                "defaultLocale": "cs-CZ"
+              },
+              {
+                "domain": "www.tesco.sk",
+                "defaultLocale": "sk-SK"
+              }
+            ],
+            "localeDetection": false
+          },
+          "interpolation": {
+            "prefix": "{{",
+            "suffix": "}}"
+          },
+          "appendNamespaceToMissingKey": true,
+          "defaultNS": "translations",
+          "localePath": "./public/locales",
+          "default": {
+            "i18n": {
+              "defaultLocale": "en-GB",
+              "locales": [
+                "cs-CZ",
+                "hu-HU",
+                "en-GB",
+                "sk-SK",
+                "en-IE"
+              ],
+              "domains": [
+                {
+                  "domain": "www.tesco.com",
+                  "defaultLocale": "en-GB"
+                },
+                {
+                  "domain": "www.tesco.hu",
+                  "defaultLocale": "hu-HU"
+                },
+                {
+                  "domain": "www.tesco.ie",
+                  "defaultLocale": "en-IE"
+                },
+                {
+                  "domain": "www.itesco.cz",
+                  "defaultLocale": "cs-CZ"
+                },
+                {
+                  "domain": "www.tesco.sk",
+                  "defaultLocale": "sk-SK"
+                }
+              ],
+              "localeDetection": false
+            },
+            "interpolation": {
+              "prefix": "{{",
+              "suffix": "}}"
+            },
+            "appendNamespaceToMissingKey": true,
+            "defaultNS": "translations",
+            "localePath": "./public/locales"
+          }
+        }
+      },
+      "__APOLLO_STATE__": {},
+      "isLoggedIn": false
+    },
+    "__N_SSP": true
+  },
+  "page": "/viewer",
+  "query": {
+    "leafletType": "hypermarkety",
+    "leafletSlug": "tesco-letak-2026-05-14",
+    "pageNumber": "1"
+  },
+  "buildId": "kggYDT5t5SIcS-1MmgHYH",
+  "assetPrefix": "/akciove-ponuky/letaky-a-katalogy",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "gssp": true,
+  "appGip": true,
+  "locale": "sk-SK",
+  "locales": [
+    "en-GB",
+    "cs-CZ",
+    "hu-HU",
+    "sk-SK",
+    "en-IE"
+  ],
+  "defaultLocale": "sk-SK",
+  "domainLocales": [
+    {
+      "domain": "www.tesco.com",
+      "defaultLocale": "en-GB"
+    },
+    {
+      "domain": "www.tesco.hu",
+      "defaultLocale": "hu-HU"
+    },
+    {
+      "domain": "www.tesco.ie",
+      "defaultLocale": "en-IE"
+    },
+    {
+      "domain": "www.itesco.cz",
+      "defaultLocale": "cs-CZ"
+    },
+    {
+      "domain": "www.tesco.sk",
+      "defaultLocale": "sk-SK"
+    }
+  ],
+  "scriptLoader": []
+}

@@ -1,0 +1,92 @@
+import pdfplumber
+import re
+import json
+from pathlib import Path
+from typing import List, Dict
+def extract_kaufland_flyer(pdf_path: str) -> str:
+    products = []
+    current_validity = None
+    with pdfplumber.open(pdf_path) as pdf:
+        for page_num, page in enumerate(pdf.pages, 1):
+            # Get full text
+            text = page.extract_text() or ""
+            if not current_validity:
+                date_match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})\s*–\s*(\d{1,2}\.\d{1,2}\.\d{4})', text)
+                if date_match:
+                    current_validity = f"{date_match.group(1)} – {date_match.group(2)}"
+            tables = page.extract_tables()
+            for table in tables:
+                for row in table:
+                    if not row:
+                        continue
+                    row_text = " | ".join([str(cell).strip() for cell in row if cell])
+                    if not row_text:
+                        continue
+                    price_pattern = re.search(r'(\d+[\.,]?\d*)\s*€', row_text)
+                    if price_pattern:
+                        product = {
+                            "page": page_num,
+                            "raw_text": row_text[:300],  # truncate
+                            "name": clean_product_name(row_text),
+                            "price": price_pattern.group(1).replace(',', '.'),
+                            "validity": current_validity,
+                            "unit": extract_unit(row_text),
+                            "discount": extract_discount(row_text)
+                        }
+                        products.append(product)
+            lines = text.split('\n')
+            for line in lines:
+                line = line.strip()
+                if len(line) < 10:
+                    continue
+                
+                price_match = re.search(r'(\d+[\.,]?\d*)\s*€', line)
+                if price_match and any(word in line.lower() for word in ['kg', 'ks', 'l', 'ml', 'g', 'bal']):
+                    product = {
+                        "page": page_num,
+                        "raw_text": line[:300],
+                        "name": clean_product_name(line),
+                        "price": price_match.group(1).replace(',', '.'),
+                        "validity": current_validity,
+                        "unit": extract_unit(line),
+                        "discount": extract_discount(line)
+                    }
+                    products.append(product)
+    
+    return products
+def clean_product_name(text: str) -> str:
+    """Remove prices and common noise from product name."""
+    # Remove prices
+    text = re.sub(r'\d+[\.,]?\d*\s*€', '', text)
+    # Remove common extra words
+    text = re.sub(r'\s+', ' ', text.strip())
+    return text[:150]  # limit length
+
+
+def extract_unit(text: str) -> str:
+    """Extract common units like 1kg, 500g, 1l etc."""
+    unit_match = re.search(r'(\d+[\.,]?\d*)\s*(kg|g|l|ml|ks|bal|por)', text.lower())
+    return unit_match.group(0) if unit_match else ""
+
+
+def extract_discount(text: str) -> str:
+    """Try to extract discount like -30% or old price."""
+    discount_match = re.search(r'[-+]?\d+%', text)
+    return discount_match.group(0) if discount_match else ""
+
+
+if __name__ == "__main__":
+    pdf_file = "Kaufland-14-05-2026-20-05-2026-00.pdf"
+    if not Path(pdf_file).exists():
+        print(f"File {pdf_file} not found!")
+        print("Download a Kaufland leták PDF first and place it in the folder.")
+    else:
+        print("Extracting data...")
+        data = extract_kaufland_flyer(pdf_file)
+        
+        print(f"Extracted {len(data)} potential offers.")
+        with open("kaufland_offers.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+           
+        for item in data[:5]:
+            print(item)

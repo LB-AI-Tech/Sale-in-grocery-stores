@@ -1,0 +1,3330 @@
+[
+  {
+    "name": "Uhorka šalátová",
+    "category": "Ovocie a Zelenina",
+    "current_price": "14,99",
+    "original_price": "1",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:24.922775"
+  },
+  {
+    "name": "Uhorka šalátová",
+    "category": "Ovocie a Zelenina",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:24.927912"
+  },
+  {
+    "name": "Čerstvé zo Slovenska",
+    "category": "Ostatné",
+    "current_price": "5,56",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:24.994385"
+  },
+  {
+    "name": "Šunka z morčacích pŕs",
+    "category": "Mäso",
+    "current_price": "6,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:25.069891"
+  },
+  {
+    "name": "Staropramen",
+    "category": "Nápoje",
+    "current_price": "0,78",
+    "original_price": "10",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:25.303633"
+  },
+  {
+    "name": "Svetlé pivo",
+    "category": "Nápoje",
+    "current_price": "10",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:25.311529"
+  },
+  {
+    "name": "Franz JosefTuniakový šalát",
+    "category": "Ovocie a Zelenina",
+    "current_price": "9,31",
+    "original_price": "1",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:25.870883"
+  },
+  {
+    "name": "K-ClassicPasírované paradajky",
+    "category": "Ovocie a Zelenina",
+    "current_price": "0,88",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:25.960223"
+  },
+  {
+    "name": "BudišMinerálna voda",
+    "category": "Ostatné",
+    "current_price": "0,23",
+    "original_price": "1,5",
+    "unit": "1,5 l",
+    "timestamp": "2026-05-17T22:27:26.065162"
+  },
+  {
+    "name": "Hrozno biele bezjadierkové",
+    "category": "Ostatné",
+    "current_price": "20",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:26.434440"
+  },
+  {
+    "name": "Bravčové stehno",
+    "category": "Mäso",
+    "current_price": "20",
+    "original_price": "1",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:26.504387"
+  },
+  {
+    "name": "Írske hovädzie stehno orech",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:26.579905"
+  },
+  {
+    "name": "Oravská slanina",
+    "category": "Ostatné",
+    "current_price": "9,45",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:26.656277"
+  },
+  {
+    "name": "K-ClassicTrvanlivé mlieko polotučné",
+    "category": "Mliečne výrobky",
+    "current_price": "1,5",
+    "original_price": "1",
+    "unit": "1 l",
+    "timestamp": "2026-05-17T22:27:26.788648"
+  },
+  {
+    "name": "Cheddar Mild",
+    "category": "Ostatné",
+    "current_price": "4",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:26.955279"
+  },
+  {
+    "name": "Rajo Active ProteinOchutený tvaroh",
+    "category": "Mliečne výrobky",
+    "current_price": "6,95",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:27.127412"
+  },
+  {
+    "name": "K-ClassicMexická zeleninová zmes",
+    "category": "Ostatné",
+    "current_price": "2,12",
+    "original_price": "750",
+    "unit": "750 g",
+    "timestamp": "2026-05-17T22:27:27.198259"
+  },
+  {
+    "name": "Mylord PremiumAljašská treska porcie",
+    "category": "Ostatné",
+    "current_price": "6,66",
+    "original_price": "900",
+    "unit": "900 g",
+    "timestamp": "2026-05-17T22:27:27.284601"
+  },
+  {
+    "name": "GamberinaMrazený krém",
+    "category": "Ostatné",
+    "current_price": "12,63",
+    "original_price": "300",
+    "unit": "300 g",
+    "timestamp": "2026-05-17T22:27:27.354010"
+  },
+  {
+    "name": "SojaproduktTofu",
+    "category": "Ostatné",
+    "current_price": "3,25",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:27.425582"
+  },
+  {
+    "name": "Pierre BaguetteBageta Debrecínska",
+    "category": "Pečivo",
+    "current_price": "9,95",
+    "original_price": "210",
+    "unit": "240 g",
+    "timestamp": "2026-05-17T22:27:27.485051"
+  },
+  {
+    "name": "DIJOMaxi Tortilla",
+    "category": "Ostatné",
+    "current_price": "4,02",
+    "original_price": "570",
+    "unit": "570 g",
+    "timestamp": "2026-05-17T22:27:27.546968"
+  },
+  {
+    "name": "Sweet Baby Ray´sOmáčka",
+    "category": "Ostatné",
+    "current_price": "8,71",
+    "original_price": "510",
+    "unit": "510 g",
+    "timestamp": "2026-05-17T22:27:27.601795"
+  },
+  {
+    "name": "Matjesové rezyzo sleďa obyčajného",
+    "category": "Ostatné",
+    "current_price": "5,20",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:27.660447"
+  },
+  {
+    "name": "Otma GurmánKečup",
+    "category": "Ostatné",
+    "current_price": "3,13",
+    "original_price": "860",
+    "unit": "860 g",
+    "timestamp": "2026-05-17T22:27:27.735095"
+  },
+  {
+    "name": "K-ClassicHrášok",
+    "category": "Ostatné",
+    "current_price": "2,81",
+    "original_price": "800",
+    "unit": "800 g",
+    "timestamp": "2026-05-17T22:27:27.796903"
+  },
+  {
+    "name": "K-ClassicTuniakové paté",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "10,42",
+    "original_price": "95",
+    "unit": "95 g",
+    "timestamp": "2026-05-17T22:27:27.855493"
+  },
+  {
+    "name": "K-ClassicMandle blanšírované",
+    "category": "Ostatné",
+    "current_price": "19,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:27.935557"
+  },
+  {
+    "name": "HAMÉNátierka",
+    "category": "Ostatné",
+    "current_price": "7,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:28.005765"
+  },
+  {
+    "name": "Bell ZvolenOlej",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "20",
+    "original_price": "1",
+    "unit": "1 l",
+    "timestamp": "2026-05-17T22:27:28.100531"
+  },
+  {
+    "name": "Kráľovský cheesecakes višňami",
+    "category": "Ostatné",
+    "current_price": "7,06",
+    "original_price": "650",
+    "unit": "650 g",
+    "timestamp": "2026-05-17T22:27:28.154256"
+  },
+  {
+    "name": "Višňová taštičkas belgickou čokoládou",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "4,67",
+    "original_price": "90",
+    "unit": "90 g",
+    "timestamp": "2026-05-17T22:27:28.233207"
+  },
+  {
+    "name": "BauliKváskový croissant",
+    "category": "Ostatné",
+    "current_price": "8,30",
+    "original_price": "6",
+    "unit": "50 g",
+    "timestamp": "2026-05-17T22:27:28.305281"
+  },
+  {
+    "name": "Kváskový chlebík slnečnicový",
+    "category": "Ostatné",
+    "current_price": "3,48",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:27:28.377090"
+  },
+  {
+    "name": "VAMEXChlieb proteínový",
+    "category": "Pečivo",
+    "current_price": "4,87",
+    "original_price": "450",
+    "unit": "450 g",
+    "timestamp": "2026-05-17T22:27:28.451380"
+  },
+  {
+    "name": "Ritter SportČokoláda",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "15,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:28.566726"
+  },
+  {
+    "name": "PringlesSnack",
+    "category": "Ostatné",
+    "current_price": "15,09",
+    "original_price": "165",
+    "unit": "165 g",
+    "timestamp": "2026-05-17T22:27:28.652774"
+  },
+  {
+    "name": "CarlaDezert",
+    "category": "Ostatné",
+    "current_price": "24,92",
+    "original_price": "120",
+    "unit": "120 g",
+    "timestamp": "2026-05-17T22:27:28.721903"
+  },
+  {
+    "name": "K-ClassicOvocné tyčinky",
+    "category": "Ostatné",
+    "current_price": "11,67",
+    "original_price": "5",
+    "unit": "30 g",
+    "timestamp": "2026-05-17T22:27:28.785366"
+  },
+  {
+    "name": "LIPOŽelé cukrovinka",
+    "category": "Ostatné",
+    "current_price": "5,00",
+    "original_price": "150",
+    "unit": "150 g",
+    "timestamp": "2026-05-17T22:27:28.847851"
+  },
+  {
+    "name": "Zlatý BažantNealkoholický radler",
+    "category": "Ostatné",
+    "current_price": "1,70",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:28.917292"
+  },
+  {
+    "name": "GambrinusSvetlé pivo",
+    "category": "Nápoje",
+    "current_price": "10",
+    "original_price": "10",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:28.981396"
+  },
+  {
+    "name": "VineaHroznový nápoj",
+    "category": "Ostatné",
+    "current_price": "0,79",
+    "original_price": "1,5",
+    "unit": "1,5 l",
+    "timestamp": "2026-05-17T22:27:29.039231"
+  },
+  {
+    "name": "Mixni to!Nápojový koncentrát",
+    "category": "Ostatné",
+    "current_price": "1,70",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:29.097259"
+  },
+  {
+    "name": "Gibson´sLiehovina",
+    "category": "Ostatné",
+    "current_price": "16,13",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:29.283918"
+  },
+  {
+    "name": "Aloe veraNealkoholický nápoj",
+    "category": "Ostatné",
+    "current_price": "1,53",
+    "original_price": "1,5",
+    "unit": "1,5 l",
+    "timestamp": "2026-05-17T22:27:29.354857"
+  },
+  {
+    "name": "BruncvíkSvetlé pivo",
+    "category": "Nápoje",
+    "current_price": "0,78",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:29.419623"
+  },
+  {
+    "name": "BruncvíkSvetlý ležiak",
+    "category": "Ostatné",
+    "current_price": "0,84",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:29.480164"
+  },
+  {
+    "name": "BruncvíkPolotmavý ležiak",
+    "category": "Ostatné",
+    "current_price": "0,88",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:29.542635"
+  },
+  {
+    "name": "BruncvíkTmavý ležiak",
+    "category": "Ostatné",
+    "current_price": "0,98",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:29.603239"
+  },
+  {
+    "name": "BruncvíkNealkoholické svetlé pivo",
+    "category": "Nápoje",
+    "current_price": "0,56",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:29.686487"
+  },
+  {
+    "name": "VoscariniVíno",
+    "category": "Nápoje",
+    "current_price": "2,52",
+    "original_price": "0,75",
+    "unit": "0,75 l",
+    "timestamp": "2026-05-17T22:27:29.761484"
+  },
+  {
+    "name": "VoscariniVíno",
+    "category": "Nápoje",
+    "current_price": "2,13",
+    "original_price": "1,5",
+    "unit": "1,5 l",
+    "timestamp": "2026-05-17T22:27:29.822894"
+  },
+  {
+    "name": "VoscariniVínny koktail",
+    "category": "Ostatné",
+    "current_price": "2,65",
+    "original_price": "0,75",
+    "unit": "0,75 l",
+    "timestamp": "2026-05-17T22:27:29.885173"
+  },
+  {
+    "name": "K-ClassicSirup",
+    "category": "Ostatné",
+    "current_price": "4,13",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:29.945933"
+  },
+  {
+    "name": "CoolMiešaný nealkoholický nápoj",
+    "category": "Ostatné",
+    "current_price": "1,58",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:30.001947"
+  },
+  {
+    "name": "LeonsteinerRadler",
+    "category": "Ostatné",
+    "current_price": "1,10",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:30.062830"
+  },
+  {
+    "name": "ListerineÚstna voda",
+    "category": "Ostatné",
+    "current_price": "8,78",
+    "original_price": "500",
+    "unit": "500 ml",
+    "timestamp": "2026-05-17T22:27:30.126057"
+  },
+  {
+    "name": "HelloOvocná desiata",
+    "category": "Ostatné",
+    "current_price": "3,40",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:30.205977"
+  },
+  {
+    "name": "BatisteSuchý šampón",
+    "category": "Ostatné",
+    "current_price": "16,45",
+    "original_price": "200",
+    "unit": "200 ml",
+    "timestamp": "2026-05-17T22:27:30.278720"
+  },
+  {
+    "name": "Switch OnFólie na vákuovanie",
+    "category": "Ostatné",
+    "current_price": "1,66",
+    "original_price": "3",
+    "unit": "3 kus",
+    "timestamp": "2026-05-17T22:27:30.433621"
+  },
+  {
+    "name": "Switch OnFólie na vákuovanie",
+    "category": "Ostatné",
+    "current_price": "2,50",
+    "original_price": "2",
+    "unit": "2 kus",
+    "timestamp": "2026-05-17T22:27:30.509372"
+  },
+  {
+    "name": "ParksideInvertná zváračka",
+    "category": "Ostatné",
+    "current_price": "5",
+    "original_price": "1",
+    "unit": "1 balenie",
+    "timestamp": "2026-05-17T22:27:30.602368"
+  },
+  {
+    "name": "ParksideVodováha s uhlomerom",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:30.697244"
+  },
+  {
+    "name": "ParksideVodováhy",
+    "category": "Ostatné",
+    "current_price": "3",
+    "original_price": "",
+    "unit": "3 kus",
+    "timestamp": "2026-05-17T22:27:30.771386"
+  },
+  {
+    "name": "ParksideUpínacie svorky",
+    "category": "Ostatné",
+    "current_price": "3,00",
+    "original_price": "2",
+    "unit": "2 kus",
+    "timestamp": "2026-05-17T22:27:30.848876"
+  },
+  {
+    "name": "ParksideUpínacie svorky",
+    "category": "Ostatné",
+    "current_price": "1,50",
+    "original_price": "4",
+    "unit": "4 kus",
+    "timestamp": "2026-05-17T22:27:30.931315"
+  },
+  {
+    "name": "RajoTvaroh jemný hrudkovitý",
+    "category": "Mliečne výrobky",
+    "current_price": "3,96",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:31.243417"
+  },
+  {
+    "name": "LučinaMäkký nezrejúci syr",
+    "category": "Mliečne výrobky",
+    "current_price": "12,42",
+    "original_price": "120",
+    "unit": "120 g",
+    "timestamp": "2026-05-17T22:27:31.503318"
+  },
+  {
+    "name": "Dr.OetkerPizza Feliciana",
+    "category": "Ostatné",
+    "current_price": "6,12",
+    "original_price": "320",
+    "unit": "360 g",
+    "timestamp": "2026-05-17T22:27:31.567278"
+  },
+  {
+    "name": "ÖlzSuper mäkký sendvič",
+    "category": "Ostatné",
+    "current_price": "2,79",
+    "original_price": "750",
+    "unit": "750 g",
+    "timestamp": "2026-05-17T22:27:31.630378"
+  },
+  {
+    "name": "Vizard Medovník",
+    "category": "Ostatné",
+    "current_price": "8,88",
+    "original_price": "900",
+    "unit": "900 g",
+    "timestamp": "2026-05-17T22:27:31.684462"
+  },
+  {
+    "name": "MányaJazmínová ryža",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:31.747028"
+  },
+  {
+    "name": "HaméNátierka",
+    "category": "Ostatné",
+    "current_price": "6,19",
+    "original_price": "160",
+    "unit": "160 g",
+    "timestamp": "2026-05-17T22:27:31.803010"
+  },
+  {
+    "name": "BORGESOlivový olej",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "9,78",
+    "original_price": "500",
+    "unit": "500 ml",
+    "timestamp": "2026-05-17T22:27:31.863098"
+  },
+  {
+    "name": "JojoCukríky",
+    "category": "Ostatné",
+    "current_price": "9,88",
+    "original_price": "70",
+    "unit": "80 g",
+    "timestamp": "2026-05-17T22:27:31.925864"
+  },
+  {
+    "name": "NescaféInstantná káva",
+    "category": "Ostatné",
+    "current_price": "29,95",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:31.988098"
+  },
+  {
+    "name": "Opavia BrumíkJemné pečivo",
+    "category": "Pečivo",
+    "current_price": "9,93",
+    "original_price": "150",
+    "unit": "150 g",
+    "timestamp": "2026-05-17T22:27:32.102337"
+  },
+  {
+    "name": "GreisingerMini slaninové párky",
+    "category": "Ostatné",
+    "current_price": "9,56",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:32.200923"
+  },
+  {
+    "name": "BergerŠunka morčacia(=",
+    "category": "Mäso",
+    "current_price": "17,90",
+    "original_price": "1",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:32.264386"
+  },
+  {
+    "name": "Bravčová krkovičkabez kosti, v celku",
+    "category": "Mäso",
+    "current_price": "20",
+    "original_price": "1",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:32.321663"
+  },
+  {
+    "name": "K-ClassicArašidy v cestíčku",
+    "category": "Ostatné",
+    "current_price": "4,45",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:32.380659"
+  },
+  {
+    "name": "KvaskoPšeničný chlieb",
+    "category": "Pečivo",
+    "current_price": "3,35",
+    "original_price": "505",
+    "unit": "505 g",
+    "timestamp": "2026-05-17T22:27:32.446094"
+  },
+  {
+    "name": "Púchovský uherák",
+    "category": "Ostatné",
+    "current_price": "12,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:32.513291"
+  },
+  {
+    "name": "K-ClassicTrstinový cukor",
+    "category": "Ostatné",
+    "current_price": "1,78",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:32.592077"
+  },
+  {
+    "name": "AustriaMozartove gule",
+    "category": "Ostatné",
+    "current_price": "16,25",
+    "original_price": "264",
+    "unit": "264 g",
+    "timestamp": "2026-05-17T22:27:32.654872"
+  },
+  {
+    "name": "SchweppesLimonáda",
+    "category": "Ostatné",
+    "current_price": "0,93",
+    "original_price": "1,5",
+    "unit": "1,5 l",
+    "timestamp": "2026-05-17T22:27:32.712746"
+  },
+  {
+    "name": "MariannaŠošovica",
+    "category": "Ostatné",
+    "current_price": "2,60",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:32.769346"
+  },
+  {
+    "name": "PerníkářPerník",
+    "category": "Ostatné",
+    "current_price": "4,17",
+    "original_price": "60",
+    "unit": "60 g",
+    "timestamp": "2026-05-17T22:27:32.827407"
+  },
+  {
+    "name": "Stará MamaPirohy zemiakovo-bryndzové",
+    "category": "Ostatné",
+    "current_price": "2,70",
+    "original_price": "2",
+    "unit": "2 kg",
+    "timestamp": "2026-05-17T22:27:32.886287"
+  },
+  {
+    "name": "MilkTrvanlivé mlieko",
+    "category": "Mliečne výrobky",
+    "current_price": "3,5",
+    "original_price": "1",
+    "unit": "1 l",
+    "timestamp": "2026-05-17T22:27:32.967394"
+  },
+  {
+    "name": "Čerstvé ovocie a zelenina, Kvety",
+    "category": "Ostatné",
+    "current_price": "1,29",
+    "original_price": "14.05",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.015815"
+  },
+  {
+    "name": "Čerstvé ovocie a zelenina, Kvety",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:33.019564"
+  },
+  {
+    "name": "Dipladénia",
+    "category": "Ostatné",
+    "current_price": "1,29",
+    "original_price": "14",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.033583"
+  },
+  {
+    "name": "Dipladénia",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "14",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.036903"
+  },
+  {
+    "name": "(Dipladenia) priemer kvetináča:",
+    "category": "Ostatné",
+    "current_price": "14",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:33.060954"
+  },
+  {
+    "name": "Frézie v kvetináči",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "13",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.087027"
+  },
+  {
+    "name": "(Freesia) priemer kvetináča:",
+    "category": "Ostatné",
+    "current_price": "13",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:33.110620"
+  },
+  {
+    "name": "Konifery mix",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.133763"
+  },
+  {
+    "name": "Klinček záhradný",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "9",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.178500"
+  },
+  {
+    "name": "(Dianthus caryophyllus) priemer kvetináča:",
+    "category": "Ostatné",
+    "current_price": "9",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:33.200091"
+  },
+  {
+    "name": "Javor dlaňovitolistý",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "10,5",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.241141"
+  },
+  {
+    "name": "(Acer palmatum) priemer kvetináča:",
+    "category": "Ostatné",
+    "current_price": "10,5",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:33.283035"
+  },
+  {
+    "name": "Bugénvilea",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "14",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.317125"
+  },
+  {
+    "name": "(Bougainvillea Purple) priemer kvetináča:",
+    "category": "Ostatné",
+    "current_price": "14",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:33.345345"
+  },
+  {
+    "name": "Levanduľa úzkolistá",
+    "category": "Ostatné",
+    "current_price": "1,00",
+    "original_price": "6",
+    "unit": "6 kus",
+    "timestamp": "2026-05-17T22:27:33.371052"
+  },
+  {
+    "name": "(Lavandula angustifolia)",
+    "category": "Ostatné",
+    "current_price": "6",
+    "original_price": "",
+    "unit": "6 kus",
+    "timestamp": "2026-05-17T22:27:33.398016"
+  },
+  {
+    "name": "Jablko červené",
+    "category": "Ovocie a Zelenina",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:33.480908"
+  },
+  {
+    "name": "Paprika farebná",
+    "category": "Ovocie a Zelenina",
+    "current_price": "3,18",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:33.581638"
+  },
+  {
+    "name": "Marhule slovenské",
+    "category": "Ostatné",
+    "current_price": "3,98",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:33.633962"
+  },
+  {
+    "name": "Čerstvé zo SlovenskaParadajky cherry strapcové",
+    "category": "Ovocie a Zelenina",
+    "current_price": "5,56",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:33.680741"
+  },
+  {
+    "name": "Šalát ľadový",
+    "category": "Ovocie a Zelenina",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:33.907405"
+  },
+  {
+    "name": "Kapusta biela",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:34.083276"
+  },
+  {
+    "name": "Dyňa červená mini",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:34.198606"
+  },
+  {
+    "name": "Čučoriedky",
+    "category": "Ovocie a Zelenina",
+    "current_price": "9,52",
+    "original_price": "125",
+    "unit": "125 g",
+    "timestamp": "2026-05-17T22:27:34.443588"
+  },
+  {
+    "name": "Mäso, hydina, údeniny",
+    "category": "Mäso",
+    "current_price": "5,89",
+    "original_price": "14.05",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:34.853222"
+  },
+  {
+    "name": "Mäso, hydina, údeniny",
+    "category": "Mäso",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:34.856425"
+  },
+  {
+    "name": "Chilli šunka",
+    "category": "Mäso",
+    "current_price": "5,89",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:34.867408"
+  },
+  {
+    "name": "Chilli šunka",
+    "category": "Mäso",
+    "current_price": "8,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:34.870787"
+  },
+  {
+    "name": "Anglická slanina",
+    "category": "Ostatné",
+    "current_price": "6,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:34.937522"
+  },
+  {
+    "name": "Bravčová slanina",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:34.983339"
+  },
+  {
+    "name": "Bravčová hruď",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.031887"
+  },
+  {
+    "name": "K-Favourites",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.200043"
+  },
+  {
+    "name": "Bravčové rebierka z bôčika",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.327075"
+  },
+  {
+    "name": "Údený mäsitý špic",
+    "category": "Ostatné",
+    "current_price": "4,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:35.375553"
+  },
+  {
+    "name": "Bravčová krkovičkamarináde",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "1",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.428963"
+  },
+  {
+    "name": "Bravčové rebierkav BBQ marináde",
+    "category": "Mäso",
+    "current_price": "9,32",
+    "original_price": "750",
+    "unit": "750 g",
+    "timestamp": "2026-05-17T22:27:35.476478"
+  },
+  {
+    "name": "Gril mix klobáskapapriková  a biely bavor",
+    "category": "Mäso",
+    "current_price": "6,98",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:35.522277"
+  },
+  {
+    "name": "Dedova šunková lahôdka",
+    "category": "Ostatné",
+    "current_price": "7,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:35.569514"
+  },
+  {
+    "name": "HSHKráľovské kuracie stehnácena za",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.616222"
+  },
+  {
+    "name": "HSHKuracie stehná hornécena za",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.665579"
+  },
+  {
+    "name": "HSHKráľovská polievková zmescena za",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.713740"
+  },
+  {
+    "name": "LACNÉ!Kurča bez drobovcena za",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.764377"
+  },
+  {
+    "name": "Kurča bez drobovcena za",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.783323"
+  },
+  {
+    "name": "Bravčové stehnobez kosti, v celku",
+    "category": "Mäso",
+    "current_price": "20",
+    "original_price": "1",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.863744"
+  },
+  {
+    "name": "K-PurlandKuracie rezne prsnécena za",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:35.987959"
+  },
+  {
+    "name": "K-PurlandKuracie dolné stehnácena za",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:36.034678"
+  },
+  {
+    "name": "K-PurlandKuracia polievková zmescena za",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:36.080847"
+  },
+  {
+    "name": "K-PurlandKuracie horné alebo dolné",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:36.154505"
+  },
+  {
+    "name": "MecomLovecká saláma",
+    "category": "Mäso",
+    "current_price": "8,63",
+    "original_price": "520",
+    "unit": "520 g",
+    "timestamp": "2026-05-17T22:27:36.219374"
+  },
+  {
+    "name": "Hungaria saláma",
+    "category": "Mäso",
+    "current_price": "12,98",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:27:36.269170"
+  },
+  {
+    "name": "Cabaj čáporská klobása",
+    "category": "Mäso",
+    "current_price": "6,22",
+    "original_price": "690",
+    "unit": "690 g",
+    "timestamp": "2026-05-17T22:27:36.319447"
+  },
+  {
+    "name": "Mangalica klobása",
+    "category": "Mäso",
+    "current_price": "11,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:36.435686"
+  },
+  {
+    "name": "Chorizo saláma",
+    "category": "Mäso",
+    "current_price": "10,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:36.535927"
+  },
+  {
+    "name": "Česká šunka",
+    "category": "Mäso",
+    "current_price": "8,20",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:36.586522"
+  },
+  {
+    "name": "Cisárske párky",
+    "category": "Ostatné",
+    "current_price": "7,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:36.684339"
+  },
+  {
+    "name": "MecomKlobásky mix",
+    "category": "Mäso",
+    "current_price": "8,92",
+    "original_price": "380",
+    "unit": "380 g",
+    "timestamp": "2026-05-17T22:27:36.736753"
+  },
+  {
+    "name": "Kuracie horné stehnácena za",
+    "category": "Mäso",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:36.784328"
+  },
+  {
+    "name": "ChoduraGril párky",
+    "category": "Ostatné",
+    "current_price": "11,07",
+    "original_price": "270",
+    "unit": "270 g",
+    "timestamp": "2026-05-17T22:27:36.835652"
+  },
+  {
+    "name": "Bavorské klobásky",
+    "category": "Mäso",
+    "current_price": "9,00",
+    "original_price": "210",
+    "unit": "210g",
+    "timestamp": "2026-05-17T22:27:36.886494"
+  },
+  {
+    "name": "Klobása na grilrôzne druhy",
+    "category": "Mäso",
+    "current_price": "8,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:36.959892"
+  },
+  {
+    "name": "Čerstvé ryby",
+    "category": "Ostatné",
+    "current_price": "1,04",
+    "original_price": "14.05",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:37.016240"
+  },
+  {
+    "name": "Čerstvé ryby",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:37.020373"
+  },
+  {
+    "name": "K-Blue Bay",
+    "category": "Ostatné",
+    "current_price": "1,04",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:37.034369"
+  },
+  {
+    "name": "K-Blue Bay",
+    "category": "Ostatné",
+    "current_price": "18,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:37.037932"
+  },
+  {
+    "name": "Pstruh celý pitvaný",
+    "category": "Ostatné",
+    "current_price": "7,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:37.085178"
+  },
+  {
+    "name": "Čerstvé výrobky",
+    "category": "Ostatné",
+    "current_price": "4,69",
+    "original_price": "14.05",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:37.132511"
+  },
+  {
+    "name": "Čerstvé výrobky",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:37.135477"
+  },
+  {
+    "name": "Milsy Bánovecká",
+    "category": "Mliečne výrobky",
+    "current_price": "5,95",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:37.376846"
+  },
+  {
+    "name": "Hollandia Gazdovský",
+    "category": "Ostatné",
+    "current_price": "1,58",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:37.435791"
+  },
+  {
+    "name": "Müller Müllermilch",
+    "category": "Ostatné",
+    "current_price": "2,23",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:27:37.570242"
+  },
+  {
+    "name": "K-Classic Emmental",
+    "category": "Ostatné",
+    "current_price": "9,23",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:27:37.660911"
+  },
+  {
+    "name": "Váječné bielka",
+    "category": "Ostatné",
+    "current_price": "2,98",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:37.737760"
+  },
+  {
+    "name": "Tami PlesnivecMäkký zrejúci syr s plesňou",
+    "category": "Mliečne výrobky",
+    "current_price": "14,88",
+    "original_price": "80",
+    "unit": "80 g",
+    "timestamp": "2026-05-17T22:27:37.848774"
+  },
+  {
+    "name": "StarbucksKávový nápoj",
+    "category": "Ostatné",
+    "current_price": "9,05",
+    "original_price": "220",
+    "unit": "220 ml",
+    "timestamp": "2026-05-17T22:27:37.910789"
+  },
+  {
+    "name": "K-ClassicSmotana na varenie",
+    "category": "Mliečne výrobky",
+    "current_price": "2,18",
+    "original_price": "500",
+    "unit": "500 ml",
+    "timestamp": "2026-05-17T22:27:37.965143"
+  },
+  {
+    "name": "HeraRastlinná tuková nátierka",
+    "category": "Ostatné",
+    "current_price": "4,58",
+    "original_price": "2",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:38.089875"
+  },
+  {
+    "name": "NikaTermix do vrecka",
+    "category": "Ostatné",
+    "current_price": "9,88",
+    "original_price": "80",
+    "unit": "80 g",
+    "timestamp": "2026-05-17T22:27:38.151397"
+  },
+  {
+    "name": "Pribináček KapsíkTvarohovo-smotanový dezert(=",
+    "category": "Mliečne výrobky",
+    "current_price": "14,14",
+    "original_price": "1",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:38.205425"
+  },
+  {
+    "name": "Very RiceRyžový dezert",
+    "category": "Ostatné",
+    "current_price": "7,08",
+    "original_price": "120",
+    "unit": "120 g",
+    "timestamp": "2026-05-17T22:27:38.261835"
+  },
+  {
+    "name": "BabičkaMiláčik",
+    "category": "Ostatné",
+    "current_price": "11,13",
+    "original_price": "80",
+    "unit": "80 g",
+    "timestamp": "2026-05-17T22:27:38.334765"
+  },
+  {
+    "name": "Tvarohový dezertrôzne druhy",
+    "category": "Mliečne výrobky",
+    "current_price": "6,58",
+    "original_price": "120",
+    "unit": "120 g",
+    "timestamp": "2026-05-17T22:27:38.367110"
+  },
+  {
+    "name": "Eidam na vyprážaniePolotvrdý zrejúci syr",
+    "category": "Mliečne výrobky",
+    "current_price": "9,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:38.423761"
+  },
+  {
+    "name": "GoudaPolotvrdý zrejúci syr",
+    "category": "Mliečne výrobky",
+    "current_price": "7,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:38.469822"
+  },
+  {
+    "name": "LeerdammerPolotvrdý zrejúci syr",
+    "category": "Mliečne výrobky",
+    "current_price": "11,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:38.519395"
+  },
+  {
+    "name": "Koliba Mozzarella",
+    "category": "Mliečne výrobky",
+    "current_price": "9,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:38.563639"
+  },
+  {
+    "name": "MADETACisársky syr",
+    "category": "Mliečne výrobky",
+    "current_price": "8,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:38.610795"
+  },
+  {
+    "name": "EhrmannProteínový pudingový dezert",
+    "category": "Ostatné",
+    "current_price": "8,45",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:38.713955"
+  },
+  {
+    "name": "Leerdammer",
+    "category": "Ostatné",
+    "current_price": "20,63",
+    "original_price": "80",
+    "unit": "80 g",
+    "timestamp": "2026-05-17T22:27:38.760998"
+  },
+  {
+    "name": "Mrazené výrobky",
+    "category": "Ostatné",
+    "current_price": "4,99",
+    "original_price": "14.05",
+    "unit": "75 g",
+    "timestamp": "2026-05-17T22:27:39.052459"
+  },
+  {
+    "name": "Mrazené výrobky",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:39.055997"
+  },
+  {
+    "name": "Friends Asia",
+    "category": "Ostatné",
+    "current_price": "4,99",
+    "original_price": "75",
+    "unit": "75 g",
+    "timestamp": "2026-05-17T22:27:39.067369"
+  },
+  {
+    "name": "Friends Asia",
+    "category": "Ostatné",
+    "current_price": "26,53",
+    "original_price": "75",
+    "unit": "75 g",
+    "timestamp": "2026-05-17T22:27:39.070466"
+  },
+  {
+    "name": "Mylord Premium",
+    "category": "Ostatné",
+    "current_price": "6,66",
+    "original_price": "900",
+    "unit": "900 g",
+    "timestamp": "2026-05-17T22:27:39.327260"
+  },
+  {
+    "name": "Vajíčkový šalát",
+    "category": "Ovocie a Zelenina",
+    "current_price": "7,99",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:39.468161"
+  },
+  {
+    "name": "Vajíčkový šalát",
+    "category": "Ovocie a Zelenina",
+    "current_price": "6,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:39.471394"
+  },
+  {
+    "name": "Sojaprodukt",
+    "category": "Ostatné",
+    "current_price": "3,25",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:39.519440"
+  },
+  {
+    "name": "Pierre Baguette",
+    "category": "Ostatné",
+    "current_price": "9,95",
+    "original_price": "210",
+    "unit": "240 g",
+    "timestamp": "2026-05-17T22:27:39.682072"
+  },
+  {
+    "name": "Indiana JerkySušené mäso",
+    "category": "Ostatné",
+    "current_price": "25",
+    "original_price": "",
+    "unit": "25 g",
+    "timestamp": "2026-05-17T22:27:40.010607"
+  },
+  {
+    "name": "Violife MediterraneanRastlinný výrobok",
+    "category": "Ostatné",
+    "current_price": "14,95",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:40.193129"
+  },
+  {
+    "name": "Trvanlivé potraviny",
+    "category": "Ostatné",
+    "current_price": "4,29",
+    "original_price": "14.05",
+    "unit": "260 g",
+    "timestamp": "2026-05-17T22:27:40.229361"
+  },
+  {
+    "name": "Trvanlivé potraviny",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:40.233013"
+  },
+  {
+    "name": "RibeiraFazuľa",
+    "category": "Ostatné",
+    "current_price": "6,23",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:27:40.748546"
+  },
+  {
+    "name": "VitanaPoctivá polievka",
+    "category": "Ostatné",
+    "current_price": "11,24",
+    "original_price": "82",
+    "unit": "97 g",
+    "timestamp": "2026-05-17T22:27:40.838676"
+  },
+  {
+    "name": "SPAKDressing",
+    "category": "Ostatné",
+    "current_price": "7,16",
+    "original_price": "250",
+    "unit": "250 ml",
+    "timestamp": "2026-05-17T22:27:40.887701"
+  },
+  {
+    "name": "K-ClassicRyža",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:41.146708"
+  },
+  {
+    "name": "GianaTuniak drvený",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "12,42",
+    "original_price": "170",
+    "unit": "170 g",
+    "timestamp": "2026-05-17T22:27:41.194741"
+  },
+  {
+    "name": "Hamburgerové žemle",
+    "category": "Ostatné",
+    "current_price": "4,97",
+    "original_price": "6",
+    "unit": "6 ks",
+    "timestamp": "2026-05-17T22:27:41.436739"
+  },
+  {
+    "name": "so sezamom",
+    "category": "Ostatné",
+    "current_price": "6",
+    "original_price": "",
+    "unit": "6 ks",
+    "timestamp": "2026-05-17T22:27:41.459503"
+  },
+  {
+    "name": "Toustís svetlý",
+    "category": "Ostatné",
+    "current_price": "5,03",
+    "original_price": "336",
+    "unit": "336 g",
+    "timestamp": "2026-05-17T22:27:41.484292"
+  },
+  {
+    "name": "Kráľovský cheesecake",
+    "category": "Ostatné",
+    "current_price": "7,06",
+    "original_price": "650",
+    "unit": "650 g",
+    "timestamp": "2026-05-17T22:27:41.564085"
+  },
+  {
+    "name": "Maková taštička",
+    "category": "Ostatné",
+    "current_price": "5,18",
+    "original_price": "85",
+    "unit": "85 g",
+    "timestamp": "2026-05-17T22:27:41.685693"
+  },
+  {
+    "name": "Kváskový chlieb Delikates",
+    "category": "Pečivo",
+    "current_price": "3,56",
+    "original_price": "405",
+    "unit": "405 g",
+    "timestamp": "2026-05-17T22:27:41.732954"
+  },
+  {
+    "name": "Ražná kocka",
+    "category": "Ostatné",
+    "current_price": "4,00",
+    "original_price": "70",
+    "unit": "70 g",
+    "timestamp": "2026-05-17T22:27:41.780553"
+  },
+  {
+    "name": "Makovka maslová",
+    "category": "Mliečne výrobky",
+    "current_price": "4,14",
+    "original_price": "70",
+    "unit": "70 g",
+    "timestamp": "2026-05-17T22:27:41.829863"
+  },
+  {
+    "name": "Vianočka maslovás hrozienkami a mandľami",
+    "category": "Pečivo",
+    "current_price": "4,48",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:27:41.876426"
+  },
+  {
+    "name": "Borek so syrom a špenátom",
+    "category": "Mliečne výrobky",
+    "current_price": "5,22",
+    "original_price": "90",
+    "unit": "90 g",
+    "timestamp": "2026-05-17T22:27:41.932923"
+  },
+  {
+    "name": "Donut plnenýkakaovým krémom",
+    "category": "Pečivo",
+    "current_price": "9,40",
+    "original_price": "67",
+    "unit": "67 g",
+    "timestamp": "2026-05-17T22:27:41.979231"
+  },
+  {
+    "name": "VamexVáš závin",
+    "category": "Ostatné",
+    "current_price": "6,48",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:27:42.037658"
+  },
+  {
+    "name": "Cesnakový uzol",
+    "category": "Ostatné",
+    "current_price": "5,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:42.098033"
+  },
+  {
+    "name": "Fitness žemľa",
+    "category": "Ostatné",
+    "current_price": "2,13",
+    "original_price": "75",
+    "unit": "75 g",
+    "timestamp": "2026-05-17T22:27:42.156747"
+  },
+  {
+    "name": "Donuts jahodovou náplňou",
+    "category": "Ovocie a Zelenina",
+    "current_price": "8,99",
+    "original_price": "69",
+    "unit": "69 g",
+    "timestamp": "2026-05-17T22:27:42.218698"
+  },
+  {
+    "name": "Syrový slimák",
+    "category": "Mliečne výrobky",
+    "current_price": "7,29",
+    "original_price": "85",
+    "unit": "85 g",
+    "timestamp": "2026-05-17T22:27:42.276694"
+  },
+  {
+    "name": "VAMEXGápelský koláč",
+    "category": "Pečivo",
+    "current_price": "7,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:42.333966"
+  },
+  {
+    "name": "NelapekPrémiová Vianočka",
+    "category": "Pečivo",
+    "current_price": "4,54",
+    "original_price": "350",
+    "unit": "350 g",
+    "timestamp": "2026-05-17T22:27:42.394209"
+  },
+  {
+    "name": "Drevorubačský chlieb",
+    "category": "Pečivo",
+    "current_price": "1,85",
+    "original_price": "405",
+    "unit": "405 g",
+    "timestamp": "2026-05-17T22:27:42.453330"
+  },
+  {
+    "name": "Pinsa Pollo s kuracím mäsom",
+    "category": "Mäso",
+    "current_price": "8,50",
+    "original_price": "140",
+    "unit": "140 g",
+    "timestamp": "2026-05-17T22:27:42.805466"
+  },
+  {
+    "name": "Káva, čaj, sladké, slané",
+    "category": "Ostatné",
+    "current_price": "1,79",
+    "original_price": "14.05",
+    "unit": "90 g",
+    "timestamp": "2026-05-17T22:27:42.863799"
+  },
+  {
+    "name": "Káva, čaj, sladké, slané",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:42.868106"
+  },
+  {
+    "name": "Orion Študentká pečať",
+    "category": "Ostatné",
+    "current_price": "16,56",
+    "original_price": "90",
+    "unit": "90 g",
+    "timestamp": "2026-05-17T22:27:43.096905"
+  },
+  {
+    "name": "Sedita Horalky",
+    "category": "Ostatné",
+    "current_price": "8,76",
+    "original_price": "5",
+    "unit": "50 g",
+    "timestamp": "2026-05-17T22:27:43.160995"
+  },
+  {
+    "name": "Namex Pepe",
+    "category": "Ostatné",
+    "current_price": "4,30",
+    "original_price": "300",
+    "unit": "300 g",
+    "timestamp": "2026-05-17T22:27:43.322756"
+  },
+  {
+    "name": "DoritosTortila chipsy",
+    "category": "Mliečne výrobky",
+    "current_price": "14,90",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:43.353018"
+  },
+  {
+    "name": "Čokoládová tyčinka",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "13,53",
+    "original_price": "36,5",
+    "unit": "57 g",
+    "timestamp": "2026-05-17T22:27:43.410811"
+  },
+  {
+    "name": "TchiboZrnková káva",
+    "category": "Ostatné",
+    "current_price": "19,98",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:43.570215"
+  },
+  {
+    "name": "MerciDezert",
+    "category": "Ostatné",
+    "current_price": "21,98",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:27:43.731995"
+  },
+  {
+    "name": "Kinder CrispyČokoládové tyčinky",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "20,53",
+    "original_price": "170",
+    "unit": "170 g",
+    "timestamp": "2026-05-17T22:27:43.794057"
+  },
+  {
+    "name": "Slovakia VrúbkyZemiakové lupienky",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "13,25",
+    "original_price": "120",
+    "unit": "120 g",
+    "timestamp": "2026-05-17T22:27:43.825992"
+  },
+  {
+    "name": "MAX SPORTProteínová tyčinka",
+    "category": "Ostatné",
+    "current_price": "15,00",
+    "original_price": "50",
+    "unit": "50 g",
+    "timestamp": "2026-05-17T22:27:43.869187"
+  },
+  {
+    "name": "FARMA TEKVIČKATekvicové jadierka",
+    "category": "Ostatné",
+    "current_price": "13,16",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:43.944569"
+  },
+  {
+    "name": "NESVADSKÉ OBLÁTKY",
+    "category": "Ostatné",
+    "current_price": "12,38",
+    "original_price": "80",
+    "unit": "80 g",
+    "timestamp": "2026-05-17T22:27:43.999019"
+  },
+  {
+    "name": "BIOTATRYBIO čaj jarná očista",
+    "category": "Ostatné",
+    "current_price": "30",
+    "original_price": "30",
+    "unit": "30 g",
+    "timestamp": "2026-05-17T22:27:44.099879"
+  },
+  {
+    "name": "BIO čaj jarná očista",
+    "category": "Ostatné",
+    "current_price": "30",
+    "original_price": "",
+    "unit": "30 g",
+    "timestamp": "2026-05-17T22:27:44.107942"
+  },
+  {
+    "name": "FigaroČokopiškótyKúp",
+    "category": "Ostatné",
+    "current_price": "6,77",
+    "original_price": "2",
+    "unit": "147 g",
+    "timestamp": "2026-05-17T22:27:44.416379"
+  },
+  {
+    "name": "JacobsInstantná káva",
+    "category": "Ostatné",
+    "current_price": "0,25",
+    "original_price": "20",
+    "unit": "20 ks",
+    "timestamp": "2026-05-17T22:27:44.479829"
+  },
+  {
+    "name": "Ľubovnianka",
+    "category": "Ostatné",
+    "current_price": "1,64",
+    "original_price": "2",
+    "unit": "2 l",
+    "timestamp": "2026-05-17T22:27:44.527138"
+  },
+  {
+    "name": "Ľubovnianka",
+    "category": "Ostatné",
+    "current_price": "0,20",
+    "original_price": "2",
+    "unit": "2 l",
+    "timestamp": "2026-05-17T22:27:44.530541"
+  },
+  {
+    "name": "Zlatý Bažant",
+    "category": "Ostatné",
+    "current_price": "1,70",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:44.576301"
+  },
+  {
+    "name": "Karpatské KB",
+    "category": "Ostatné",
+    "current_price": "10,70",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:44.700329"
+  },
+  {
+    "name": "Budweiser Budvar",
+    "category": "Ostatné",
+    "current_price": "1,25",
+    "original_price": "12",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:44.765818"
+  },
+  {
+    "name": "Svetlé pivo",
+    "category": "Nápoje",
+    "current_price": "12",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:44.774784"
+  },
+  {
+    "name": "Captain Jack",
+    "category": "Ostatné",
+    "current_price": "2,58",
+    "original_price": "0,33",
+    "unit": "0,33 l",
+    "timestamp": "2026-05-17T22:27:44.852676"
+  },
+  {
+    "name": "ORAVSKÁ červená edícia",
+    "category": "Ostatné",
+    "current_price": "0,66",
+    "original_price": "1,5",
+    "unit": "1,5 l",
+    "timestamp": "2026-05-17T22:27:44.903263"
+  },
+  {
+    "name": "BraníkSvetlý ležiak",
+    "category": "Ostatné",
+    "current_price": "0,79",
+    "original_price": "1,5",
+    "unit": "1,5 l",
+    "timestamp": "2026-05-17T22:27:45.026063"
+  },
+  {
+    "name": "AperolAperitív",
+    "category": "Ostatné",
+    "current_price": "15,70",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:45.060061"
+  },
+  {
+    "name": "KlasikBorovička",
+    "category": "Ostatné",
+    "current_price": "10,38",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:45.199360"
+  },
+  {
+    "name": "ZubrowkaVodka",
+    "category": "Ostatné",
+    "current_price": "11,41",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:45.251502"
+  },
+  {
+    "name": "BošáckaSlivovica",
+    "category": "Ostatné",
+    "current_price": "21,41",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:45.297190"
+  },
+  {
+    "name": "BruncvíkSvetlé pivo",
+    "category": "Nápoje",
+    "current_price": "0,98",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:45.582379"
+  },
+  {
+    "name": "ZAMIOŠtava",
+    "category": "Ostatné",
+    "current_price": "7,84",
+    "original_price": "100",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:45.753360"
+  },
+  {
+    "name": "StarobrnoSvetlé pivo",
+    "category": "Nápoje",
+    "current_price": "1,18",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:46.361536"
+  },
+  {
+    "name": "KrušoviceSvetlé pivo",
+    "category": "Nápoje",
+    "current_price": "1,58",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:46.421120"
+  },
+  {
+    "name": "StaropramenSvetlé pivo",
+    "category": "Nápoje",
+    "current_price": "0,78",
+    "original_price": "10",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:46.498443"
+  },
+  {
+    "name": "BecherovkaBylinný likér",
+    "category": "Nápoje",
+    "current_price": "13,98",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:46.910981"
+  },
+  {
+    "name": "Fernet BavorákMiešaný alk. nápoj",
+    "category": "Ostatné",
+    "current_price": "7,96",
+    "original_price": "0,25",
+    "unit": "0,25 l",
+    "timestamp": "2026-05-17T22:27:46.965424"
+  },
+  {
+    "name": "Drogéria, Potrava pre zvieratá",
+    "category": "Ostatné",
+    "current_price": "16,99",
+    "original_price": "14.05",
+    "unit": "81 kus",
+    "timestamp": "2026-05-17T22:27:47.070664"
+  },
+  {
+    "name": "Drogéria, Potrava pre zvieratá",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:47.075975"
+  },
+  {
+    "name": "BEBA Comfort",
+    "category": "Ostatné",
+    "current_price": "17,49",
+    "original_price": "800",
+    "unit": "800 g",
+    "timestamp": "2026-05-17T22:27:47.533223"
+  },
+  {
+    "name": "VeetDepilačné prúžky",
+    "category": "Ostatné",
+    "current_price": "0,33",
+    "original_price": "12",
+    "unit": "20 kus",
+    "timestamp": "2026-05-17T22:27:47.580004"
+  },
+  {
+    "name": "PanteneŠampón alebo Kondicionér",
+    "category": "Ostatné",
+    "current_price": "8,98",
+    "original_price": "220",
+    "unit": "400 ml",
+    "timestamp": "2026-05-17T22:27:47.625303"
+  },
+  {
+    "name": "NiveaTelové mlieko",
+    "category": "Mliečne výrobky",
+    "current_price": "14,48",
+    "original_price": "400",
+    "unit": "400 ml",
+    "timestamp": "2026-05-17T22:27:47.667871"
+  },
+  {
+    "name": "Pampers PremiumPlienky",
+    "category": "Ostatné",
+    "current_price": "0,20",
+    "original_price": "58",
+    "unit": "88 kus",
+    "timestamp": "2026-05-17T22:27:47.862967"
+  },
+  {
+    "name": "JarProstriedok na riad",
+    "category": "Ostatné",
+    "current_price": "2,44",
+    "original_price": "1,35",
+    "unit": "1,35 l",
+    "timestamp": "2026-05-17T22:27:47.909500"
+  },
+  {
+    "name": "BrefWC blok",
+    "category": "Ostatné",
+    "current_price": "19,95",
+    "original_price": "4",
+    "unit": "50 g",
+    "timestamp": "2026-05-17T22:27:47.969441"
+  },
+  {
+    "name": "GOURMETGold Multip",
+    "category": "Ostatné",
+    "current_price": "6,16",
+    "original_price": "8",
+    "unit": "85 g",
+    "timestamp": "2026-05-17T22:27:47.999744"
+  },
+  {
+    "name": "SanytolDezinfekčný prostriedok",
+    "category": "Ostatné",
+    "current_price": "4,98",
+    "original_price": "500",
+    "unit": "500 ml",
+    "timestamp": "2026-05-17T22:27:48.048825"
+  },
+  {
+    "name": "ArielPrací prášok",
+    "category": "Ostatné",
+    "current_price": "0,22",
+    "original_price": "40",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:48.109841"
+  },
+  {
+    "name": "ShebaKapsičky pre mačky",
+    "category": "Ostatné",
+    "current_price": "5,29",
+    "original_price": "40",
+    "unit": "85 g",
+    "timestamp": "2026-05-17T22:27:48.154436"
+  },
+  {
+    "name": "K-ClassicToaletný papier",
+    "category": "Ostatné",
+    "current_price": "0,21",
+    "original_price": "8",
+    "unit": "8 kus",
+    "timestamp": "2026-05-17T22:27:48.186031"
+  },
+  {
+    "name": "Biotech USAProteín",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:48.299208"
+  },
+  {
+    "name": "Elektro, kancelária, médiá",
+    "category": "Ostatné",
+    "current_price": "11,99",
+    "original_price": "14.05",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:48.454743"
+  },
+  {
+    "name": "Elektro, kancelária, médiá",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:48.459811"
+  },
+  {
+    "name": "Berlinger Haus",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:48.717006"
+  },
+  {
+    "name": "Zastrihávač vlasov HC",
+    "category": "Ostatné",
+    "current_price": "15",
+    "original_price": "3505",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:48.836325"
+  },
+  {
+    "name": "Zastrihávač fúzov BT",
+    "category": "Ostatné",
+    "current_price": "14",
+    "original_price": "3206",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:48.894653"
+  },
+  {
+    "name": "VartaBatérie Longlife Power, AA",
+    "category": "Ostatné",
+    "current_price": "0,33",
+    "original_price": "24",
+    "unit": "24 kus",
+    "timestamp": "2026-05-17T22:27:49.001544"
+  },
+  {
+    "name": "Dom, domácnosť",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:49.297724"
+  },
+  {
+    "name": "Teplovzdušná pištoľ PHLGB",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "2000",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:49.662875"
+  },
+  {
+    "name": "Ponorné čerpadlo PETPS",
+    "category": "Ostatné",
+    "current_price": "2",
+    "original_price": "400",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:49.770501"
+  },
+  {
+    "name": "ParksideSolárna sprcha",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:49.815950"
+  },
+  {
+    "name": "ParksideVysokotlakový čistič",
+    "category": "Ostatné",
+    "current_price": "21",
+    "original_price": "170",
+    "unit": "21 balenie",
+    "timestamp": "2026-05-17T22:27:49.865617"
+  },
+  {
+    "name": "Vysokotlakový čistič",
+    "category": "Ostatné",
+    "current_price": "2",
+    "original_price": "170",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:49.871307"
+  },
+  {
+    "name": "ParksideLazúra na plot",
+    "category": "Ostatné",
+    "current_price": "3,00",
+    "original_price": "1",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:49.922253"
+  },
+  {
+    "name": "ParksideStavebná hadicaprevádzkový tlak:",
+    "category": "Ostatné",
+    "current_price": "6",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:49.973038"
+  },
+  {
+    "name": "prevádzkový tlak:",
+    "category": "Ostatné",
+    "current_price": "6",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:49.985629"
+  },
+  {
+    "name": "ParksidePonorné čerpadlo",
+    "category": "Ostatné",
+    "current_price": "21",
+    "original_price": "400",
+    "unit": "21 kus",
+    "timestamp": "2026-05-17T22:27:50.026263"
+  },
+  {
+    "name": "Ponorné čerpadlo",
+    "category": "Ostatné",
+    "current_price": "2",
+    "original_price": "400",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.032342"
+  },
+  {
+    "name": "ParksideSúprava štetcov",
+    "category": "Ostatné",
+    "current_price": "10",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.078798"
+  },
+  {
+    "name": "ParksideAku vibračná prísavka",
+    "category": "Ostatné",
+    "current_price": "11",
+    "original_price": "20",
+    "unit": "11 kus",
+    "timestamp": "2026-05-17T22:27:50.130224"
+  },
+  {
+    "name": "Aku vibračná prísavka",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "20",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.136997"
+  },
+  {
+    "name": "ParksideAku sponkovačka",
+    "category": "Ostatné",
+    "current_price": "11",
+    "original_price": "20",
+    "unit": "11 kus",
+    "timestamp": "2026-05-17T22:27:50.232960"
+  },
+  {
+    "name": "Aku sponkovačka",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "20",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.242209"
+  },
+  {
+    "name": "ParksideAku vŕtací skrutkovač",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 balenie",
+    "timestamp": "2026-05-17T22:27:50.289605"
+  },
+  {
+    "name": "ParksideAku nožnice na trávnik",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 balenie",
+    "timestamp": "2026-05-17T22:27:50.338458"
+  },
+  {
+    "name": "ParksideAku ventilátor",
+    "category": "Ostatné",
+    "current_price": "21",
+    "original_price": "20",
+    "unit": "21 kus",
+    "timestamp": "2026-05-17T22:27:50.387553"
+  },
+  {
+    "name": "Aku ventilátor",
+    "category": "Ostatné",
+    "current_price": "2",
+    "original_price": "20",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.397644"
+  },
+  {
+    "name": "ParksideZáhradný drvič PEMH",
+    "category": "Ostatné",
+    "current_price": "21",
+    "original_price": "2400",
+    "unit": "21 kus",
+    "timestamp": "2026-05-17T22:27:50.446693"
+  },
+  {
+    "name": "Záhradný drvič PEMH",
+    "category": "Ostatné",
+    "current_price": "2",
+    "original_price": "2400",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.453115"
+  },
+  {
+    "name": "ParksideAku uhlová brúska",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 balenie",
+    "timestamp": "2026-05-17T22:27:50.497773"
+  },
+  {
+    "name": "ParksideAku priamočiara píla",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 balenie",
+    "timestamp": "2026-05-17T22:27:50.533746"
+  },
+  {
+    "name": "Akumulátor PAP",
+    "category": "Ostatné",
+    "current_price": "3",
+    "original_price": "20",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.628359"
+  },
+  {
+    "name": "ParksideAkumulátor PAP",
+    "category": "Ostatné",
+    "current_price": "11",
+    "original_price": "20",
+    "unit": "11 kus",
+    "timestamp": "2026-05-17T22:27:50.660120"
+  },
+  {
+    "name": "Akumulátor PAP",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "20",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.684305"
+  },
+  {
+    "name": "ParksideAku strunová kosačka",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:50.726890"
+  },
+  {
+    "name": "ParksideUniverzálny podstavec",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "1550",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:50.779585"
+  },
+  {
+    "name": "ParksideŠpirála na čistenie potrubí",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:50.896795"
+  },
+  {
+    "name": "ParksideVidlicovo-prstencové kľúče",
+    "category": "Ostatné",
+    "current_price": "25",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:50.951619"
+  },
+  {
+    "name": "Uhlová brúska PWS",
+    "category": "Ostatné",
+    "current_price": "5",
+    "original_price": "230",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:51.029110"
+  },
+  {
+    "name": "ParksideLaserová vodováha PLLM",
+    "category": "Ostatné",
+    "current_price": "11",
+    "original_price": "10",
+    "unit": "11 kus",
+    "timestamp": "2026-05-17T22:27:51.150629"
+  },
+  {
+    "name": "Laserová vodováha PLLM",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "10",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:51.160614"
+  },
+  {
+    "name": "ParksideRúrkový zverák",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.211464"
+  },
+  {
+    "name": "Kontrolná kamera",
+    "category": "Ostatné",
+    "current_price": "4",
+    "original_price": "2.8",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:51.344087"
+  },
+  {
+    "name": "ParksideRezačka na plastové rúrky",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.518883"
+  },
+  {
+    "name": "ParksideRezačka na rúrky",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.578464"
+  },
+  {
+    "name": "ParksideOhýbacie kliešte na rúry",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.635813"
+  },
+  {
+    "name": "ParksideSúprava obrubovačiek",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 balenie",
+    "timestamp": "2026-05-17T22:27:51.695310"
+  },
+  {
+    "name": "ParksideOpaskové kliešte",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.763187"
+  },
+  {
+    "name": "ParksideKombinačky",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.821192"
+  },
+  {
+    "name": "ParksideKliešte",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.880174"
+  },
+  {
+    "name": "ParksideKliešte s bočným strihom",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.942907"
+  },
+  {
+    "name": "ParksideBetonárske kliešte",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:51.995252"
+  },
+  {
+    "name": "ParksideNastaviteľný vidlicový kľúč",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:52.050214"
+  },
+  {
+    "name": "ParksideVodoinštalatérske kliešte",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:52.103834"
+  },
+  {
+    "name": "ParksideSortiment hadicových spôn",
+    "category": "Ostatné",
+    "current_price": "19",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:52.254003"
+  },
+  {
+    "name": "ParksideSortiment hadicových spôn",
+    "category": "Ostatné",
+    "current_price": "26",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:52.418092"
+  },
+  {
+    "name": "ParksideDiamantové vrtáky",
+    "category": "Ostatné",
+    "current_price": "5",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:52.468668"
+  },
+  {
+    "name": "ParksidePracovné LED svetlo",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:52.694338"
+  },
+  {
+    "name": "ParksideSúprava vrtákov",
+    "category": "Ostatné",
+    "current_price": "15",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:52.843409"
+  },
+  {
+    "name": "ParksideSúprava HSS vrtákov",
+    "category": "Ostatné",
+    "current_price": "15",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:52.951017"
+  },
+  {
+    "name": "ParksideHasák",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:52.999688"
+  },
+  {
+    "name": "ParksideInštalatérske kliešte",
+    "category": "Ostatné",
+    "current_price": "3",
+    "original_price": "",
+    "unit": "3 kus",
+    "timestamp": "2026-05-17T22:27:53.053369"
+  },
+  {
+    "name": "Hrniec s pokrievkou, Ø",
+    "category": "Ostatné",
+    "current_price": "28",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:53.641734"
+  },
+  {
+    "name": "Hrniec s pokrievkou, Ø",
+    "category": "Ostatné",
+    "current_price": "20",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:53.700789"
+  },
+  {
+    "name": "Hrniec s pokrievkou, Ø",
+    "category": "Ostatné",
+    "current_price": "24",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:53.746807"
+  },
+  {
+    "name": "Livington Sumo SlicerKompaktný strúhač",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 balenie",
+    "timestamp": "2026-05-17T22:27:54.167862"
+  },
+  {
+    "name": "Parák, priemer:",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "23",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:54.218268"
+  },
+  {
+    "name": "Parák, priemer:",
+    "category": "Ostatné",
+    "current_price": "23",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:54.224764"
+  },
+  {
+    "name": "Ostrič nožov",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:54.270298"
+  },
+  {
+    "name": "Parák, priemer:",
+    "category": "Ostatné",
+    "current_price": "27,5",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:54.366103"
+  },
+  {
+    "name": "Rozprašovač na olej a ocot",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:54.464959"
+  },
+  {
+    "name": "Casa SiSušiak na bielizeň",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:54.885522"
+  },
+  {
+    "name": "K-ClassicSúprava sieťok na pranie",
+    "category": "Ostatné",
+    "current_price": "3",
+    "original_price": "",
+    "unit": "3 kus",
+    "timestamp": "2026-05-17T22:27:55.045745"
+  },
+  {
+    "name": "K-ClassicSúprava sieťok na pranie",
+    "category": "Ostatné",
+    "current_price": "2",
+    "original_price": "",
+    "unit": "2 kus",
+    "timestamp": "2026-05-17T22:27:55.149702"
+  },
+  {
+    "name": "Liv &BoSúprava vákuových vakov",
+    "category": "Ostatné",
+    "current_price": "0,70",
+    "original_price": "10",
+    "unit": "10 kus",
+    "timestamp": "2026-05-17T22:27:56.292442"
+  },
+  {
+    "name": "K-ClassicRamienka na odev",
+    "category": "Ostatné",
+    "current_price": "0,20",
+    "original_price": "10",
+    "unit": "10 kus",
+    "timestamp": "2026-05-17T22:27:56.343833"
+  },
+  {
+    "name": "Oblečenie, auto, voľný čas, hry",
+    "category": "Ostatné",
+    "current_price": "15,99",
+    "original_price": "14.05",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:27:56.532830"
+  },
+  {
+    "name": "Oblečenie, auto, voľný čas, hry",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "14.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:56.535930"
+  },
+  {
+    "name": "Zázrivský korbáčik",
+    "category": "Pečivo",
+    "current_price": "11,96",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:57.833573"
+  },
+  {
+    "name": "Karička Maxi",
+    "category": "Ostatné",
+    "current_price": "7,93",
+    "original_price": "140",
+    "unit": "140 g",
+    "timestamp": "2026-05-17T22:27:57.946363"
+  },
+  {
+    "name": "Danone Actimel",
+    "category": "Ostatné",
+    "current_price": "3,74",
+    "original_price": "8",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:27:58.133387"
+  },
+  {
+    "name": "GalbaniMascarpone",
+    "category": "Ostatné",
+    "current_price": "7,98",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:27:58.203361"
+  },
+  {
+    "name": "RajoKyslá smotana",
+    "category": "Mliečne výrobky",
+    "current_price": "3,96",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:27:58.262492"
+  },
+  {
+    "name": "MilkoTvarohový krém Maťko",
+    "category": "Mliečne výrobky",
+    "current_price": "4,54",
+    "original_price": "130",
+    "unit": "130 g",
+    "timestamp": "2026-05-17T22:27:58.369719"
+  },
+  {
+    "name": "K-ClassicGrécky jogurt",
+    "category": "Mliečne výrobky",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:58.418948"
+  },
+  {
+    "name": "K-ClassicMozzarella",
+    "category": "Mliečne výrobky",
+    "current_price": "8,25",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:27:58.532758"
+  },
+  {
+    "name": "K-FavouritesGrana Padano DOP syr",
+    "category": "Mliečne výrobky",
+    "current_price": "16,60",
+    "original_price": "150",
+    "unit": "150 g",
+    "timestamp": "2026-05-17T22:27:58.637490"
+  },
+  {
+    "name": "Maggi Stir-FryRezance",
+    "category": "Ostatné",
+    "current_price": "6,97",
+    "original_price": "118",
+    "unit": "185 g",
+    "timestamp": "2026-05-17T22:27:59.214266"
+  },
+  {
+    "name": "Rio MareTuniak",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "28,75",
+    "original_price": "160",
+    "unit": "160 g",
+    "timestamp": "2026-05-17T22:27:59.270658"
+  },
+  {
+    "name": "IdeálCestoviny",
+    "category": "Trvanlivé / Snacks",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:27:59.549111"
+  },
+  {
+    "name": "AmundsenVodka",
+    "category": "Ostatné",
+    "current_price": "11,41",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:59.579230"
+  },
+  {
+    "name": "Villa Vino RačaVíno",
+    "category": "Nápoje",
+    "current_price": "6,65",
+    "original_price": "0,75",
+    "unit": "0,75 l",
+    "timestamp": "2026-05-17T22:27:59.629574"
+  },
+  {
+    "name": "Božkov RepublicaRumový likér",
+    "category": "Ostatné",
+    "current_price": "18,56",
+    "original_price": "0,7",
+    "unit": "0,7 l",
+    "timestamp": "2026-05-17T22:27:59.677619"
+  },
+  {
+    "name": "CorgoňSvetlé pivo",
+    "category": "Nápoje",
+    "current_price": "1,10",
+    "original_price": "10",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:59.721519"
+  },
+  {
+    "name": "Pilsner UrquellSvetlý ležiak",
+    "category": "Nápoje",
+    "current_price": "2,18",
+    "original_price": "4,4",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:27:59.771900"
+  },
+  {
+    "name": "Svetlý ležiak",
+    "category": "Ostatné",
+    "current_price": "4,4",
+    "original_price": "",
+    "unit": "",
+    "timestamp": "2026-05-17T22:27:59.794856"
+  },
+  {
+    "name": "Pepsi alebo MirindaLimonáda",
+    "category": "Ostatné",
+    "current_price": "0,75",
+    "original_price": "4",
+    "unit": "2 l",
+    "timestamp": "2026-05-17T22:27:59.836262"
+  },
+  {
+    "name": "HubertŠumivé víno",
+    "category": "Nápoje",
+    "current_price": "5,32",
+    "original_price": "0,75",
+    "unit": "0,75 l",
+    "timestamp": "2026-05-17T22:27:59.869934"
+  },
+  {
+    "name": "Eduscho Mocca GrandeMletá káva",
+    "category": "Ostatné",
+    "current_price": "13,98",
+    "original_price": "2",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:28:00.050277"
+  },
+  {
+    "name": "Happy DayŠťava",
+    "category": "Nápoje",
+    "current_price": "1",
+    "original_price": "100",
+    "unit": "1 l",
+    "timestamp": "2026-05-17T22:28:00.208413"
+  },
+  {
+    "name": "HellEnergetický nápoj",
+    "category": "Ostatné",
+    "current_price": "1,98",
+    "original_price": "0,5",
+    "unit": "0,5 l",
+    "timestamp": "2026-05-17T22:28:00.266701"
+  },
+  {
+    "name": "Viedenské párky XXL",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:28:00.369384"
+  },
+  {
+    "name": "Ponuka OD DO",
+    "category": "Ostatné",
+    "current_price": "2,49",
+    "original_price": "17.05",
+    "unit": "280 g",
+    "timestamp": "2026-05-17T22:28:00.622221"
+  },
+  {
+    "name": "Ponuka OD DO",
+    "category": "Ostatné",
+    "current_price": "20.05",
+    "original_price": "17.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:28:00.626940"
+  },
+  {
+    "name": "Slanina na opekanie",
+    "category": "Ostatné",
+    "current_price": "6,90",
+    "original_price": "700",
+    "unit": "700 g",
+    "timestamp": "2026-05-17T22:28:00.703388"
+  },
+  {
+    "name": "Zeler stopkatý",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:28:00.880807"
+  },
+  {
+    "name": "Mango zrelé",
+    "category": "Ovocie a Zelenina",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kus",
+    "timestamp": "2026-05-17T22:28:00.930380"
+  },
+  {
+    "name": "Hrušky zelené",
+    "category": "Ovocie a Zelenina",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:28:00.977256"
+  },
+  {
+    "name": "Jablko Evelina",
+    "category": "Ovocie a Zelenina",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:28:01.021909"
+  },
+  {
+    "name": "K-BioCitróny",
+    "category": "Ostatné",
+    "current_price": "2,78",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:28:01.068059"
+  },
+  {
+    "name": "Čerstvé zo SlovenskaParadajky koktailové",
+    "category": "Ovocie a Zelenina",
+    "current_price": "3,65",
+    "original_price": "600",
+    "unit": "600 g",
+    "timestamp": "2026-05-17T22:28:01.118801"
+  },
+  {
+    "name": "Vlašský šaláts lahôdkovou salámou",
+    "category": "Ovocie a Zelenina",
+    "current_price": "3,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:28:01.235261"
+  },
+  {
+    "name": "Tyčinkaso zelenými olivami",
+    "category": "Ostatné",
+    "current_price": "6,88",
+    "original_price": "80",
+    "unit": "80 g",
+    "timestamp": "2026-05-17T22:28:01.281196"
+  },
+  {
+    "name": "Rožtekorechový alebo makový",
+    "category": "Ostatné",
+    "current_price": "6,70",
+    "original_price": "88",
+    "unit": "88 g",
+    "timestamp": "2026-05-17T22:28:01.333365"
+  },
+  {
+    "name": "MADETAKamadet",
+    "category": "Ostatné",
+    "current_price": "10,50",
+    "original_price": "100",
+    "unit": "100 g",
+    "timestamp": "2026-05-17T22:28:01.383609"
+  },
+  {
+    "name": "TamiTatranské maslo",
+    "category": "Mliečne výrobky",
+    "current_price": "5,56",
+    "original_price": "82",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:28:01.442062"
+  },
+  {
+    "name": "K-ClassicMozzarella Mini",
+    "category": "Mliečne výrobky",
+    "current_price": "6,32",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:28:01.491944"
+  },
+  {
+    "name": "K-ClassicSmotanový jogurt",
+    "category": "Mliečne výrobky",
+    "current_price": "1,93",
+    "original_price": "150",
+    "unit": "150 g",
+    "timestamp": "2026-05-17T22:28:01.535227"
+  },
+  {
+    "name": "K-ClassicAcidofilné mlieko",
+    "category": "Mliečne výrobky",
+    "current_price": "1,11",
+    "original_price": "950",
+    "unit": "950 g",
+    "timestamp": "2026-05-17T22:28:01.586215"
+  },
+  {
+    "name": "FrozittaPolievka držková",
+    "category": "Ostatné",
+    "current_price": "3,76",
+    "original_price": "450",
+    "unit": "450 g",
+    "timestamp": "2026-05-17T22:28:01.649738"
+  },
+  {
+    "name": "K-FavouritesUhorky",
+    "category": "Ostatné",
+    "current_price": "5,21",
+    "original_price": "330",
+    "unit": "330 g",
+    "timestamp": "2026-05-17T22:28:01.696511"
+  },
+  {
+    "name": "K-ClassicMakrela filety",
+    "category": "Ostatné",
+    "current_price": "12,65",
+    "original_price": "170",
+    "unit": "170 g",
+    "timestamp": "2026-05-17T22:28:01.800863"
+  },
+  {
+    "name": "ChioPopcorn",
+    "category": "Ostatné",
+    "current_price": "9,38",
+    "original_price": "80",
+    "unit": "80 g",
+    "timestamp": "2026-05-17T22:28:01.917924"
+  },
+  {
+    "name": "K-ClassicKrekery",
+    "category": "Ostatné",
+    "current_price": "4,45",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:28:02.078415"
+  },
+  {
+    "name": "K-ClassicŽelé banány v čokoláde",
+    "category": "Ovocie a Zelenina",
+    "current_price": "6,95",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:28:02.133612"
+  },
+  {
+    "name": "MaggiInstantná polievka",
+    "category": "Ostatné",
+    "current_price": "8,31",
+    "original_price": "59,2",
+    "unit": "59,2 g",
+    "timestamp": "2026-05-17T22:28:02.193210"
+  },
+  {
+    "name": "K-ClassicOmáčka",
+    "category": "Ostatné",
+    "current_price": "3,98",
+    "original_price": "400",
+    "unit": "400 ml",
+    "timestamp": "2026-05-17T22:28:02.269044"
+  },
+  {
+    "name": "Nestlé AnticolCukríky",
+    "category": "Ostatné",
+    "current_price": "17,00",
+    "original_price": "50",
+    "unit": "50 g",
+    "timestamp": "2026-05-17T22:28:02.328601"
+  },
+  {
+    "name": "MariannaPohánka",
+    "category": "Ostatné",
+    "current_price": "3,58",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:28:02.388101"
+  },
+  {
+    "name": "BlockOblátky plnené krémom",
+    "category": "Ostatné",
+    "current_price": "4,73",
+    "original_price": "400",
+    "unit": "400 g",
+    "timestamp": "2026-05-17T22:28:02.437445"
+  },
+  {
+    "name": "Bergen CookiesSušienky",
+    "category": "Ostatné",
+    "current_price": "6,18",
+    "original_price": "225",
+    "unit": "225 g",
+    "timestamp": "2026-05-17T22:28:02.483621"
+  },
+  {
+    "name": "K-ClassicKešu orechy",
+    "category": "Ostatné",
+    "current_price": "12,45",
+    "original_price": "200",
+    "unit": "200 g",
+    "timestamp": "2026-05-17T22:28:02.541944"
+  },
+  {
+    "name": "K-ClassicMimelli Mliečny dezert",
+    "category": "Ostatné",
+    "current_price": "3,19",
+    "original_price": "4",
+    "unit": "90 g",
+    "timestamp": "2026-05-17T22:28:02.586382"
+  },
+  {
+    "name": "Mlyn PernerPšeničná múka",
+    "category": "Ostatné",
+    "current_price": "1",
+    "original_price": "",
+    "unit": "1 kg",
+    "timestamp": "2026-05-17T22:28:02.633366"
+  },
+  {
+    "name": "Rajo Probia NatureJogurt biely",
+    "category": "Mliečne výrobky",
+    "current_price": "2,15",
+    "original_price": "135",
+    "unit": "135 g",
+    "timestamp": "2026-05-17T22:28:02.679962"
+  },
+  {
+    "name": "ÖlzMliečne žemle",
+    "category": "Ostatné",
+    "current_price": "6,54",
+    "original_price": "350",
+    "unit": "350 g",
+    "timestamp": "2026-05-17T22:28:02.730090"
+  },
+  {
+    "name": "K-ClassicMajonéza",
+    "category": "Ostatné",
+    "current_price": "4,36",
+    "original_price": "250",
+    "unit": "250 ml",
+    "timestamp": "2026-05-17T22:28:02.775528"
+  },
+  {
+    "name": "K-ClassicEidam blok",
+    "category": "Mliečne výrobky",
+    "current_price": "5,16",
+    "original_price": "250",
+    "unit": "250 g",
+    "timestamp": "2026-05-17T22:28:02.848323"
+  },
+  {
+    "name": "MarlexTočená saláma",
+    "category": "Mäso",
+    "current_price": "3,70",
+    "original_price": "700",
+    "unit": "700 g",
+    "timestamp": "2026-05-17T22:28:03.043742"
+  },
+  {
+    "name": "GašparíkHusacia paštéta",
+    "category": "Ostatné",
+    "current_price": "13,50",
+    "original_price": "140",
+    "unit": "140 g",
+    "timestamp": "2026-05-17T22:28:03.086788"
+  },
+  {
+    "name": "Viedenské párky",
+    "category": "Ostatné",
+    "current_price": "7,15",
+    "original_price": "460",
+    "unit": "460 g",
+    "timestamp": "2026-05-17T22:28:03.133940"
+  },
+  {
+    "name": "MecomChopok saláma",
+    "category": "Mäso",
+    "current_price": "10,38",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:28:03.179757"
+  },
+  {
+    "name": "MoorozPielmieni",
+    "category": "Ostatné",
+    "current_price": "5,09",
+    "original_price": "450",
+    "unit": "450 g",
+    "timestamp": "2026-05-17T22:28:03.230153"
+  },
+  {
+    "name": "Čerešnička na víkend",
+    "category": "Ostatné",
+    "current_price": "2,99",
+    "original_price": "16.05",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:28:03.870554"
+  },
+  {
+    "name": "Čerešnička na víkend",
+    "category": "Ostatné",
+    "current_price": "17.05",
+    "original_price": "16.05",
+    "unit": "",
+    "timestamp": "2026-05-17T22:28:03.876255"
+  },
+  {
+    "name": "BIO Špargľa zelená",
+    "category": "Ostatné",
+    "current_price": "2,99",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:28:03.888673"
+  },
+  {
+    "name": "BIO Špargľa zelená",
+    "category": "Ostatné",
+    "current_price": "6,38",
+    "original_price": "500",
+    "unit": "500 g",
+    "timestamp": "2026-05-17T22:28:03.892912"
+  }
+]

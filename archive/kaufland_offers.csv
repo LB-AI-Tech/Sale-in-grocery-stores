@@ -1,0 +1,647 @@
+page,name,unit,discount_percent,prices,current_price,original_price,raw_line,validity,category
+1,OD ŠTVRTKA,,,"['14.', '5.', '2026', '20.', '5.', '2026', '20']",20,14.,OD  ŠTVRTKA  14. 5. 2026 DO STREDY 20. 5. 2026  č. 20,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+1,((((====,,,"['1111', '7777,', '55550000', '9999,', '55550000']",55550000,1111,"((((====1111 kkkkgggg KKKKCCCC:::: 7777,,,,55550000 //// BBBBCCCC:::: 9999,,,,55550000)))) ****",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+1,Čučoriedky,,,"['1,19']","1,19",,"Čučoriedky 1,19",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+1,NAD,,,"['20', '1']",1,20,NAD 20 EUR 1,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+1,zo Slovenska,,,"['2,99', '0,15']","0,15","2,99","zo Slovenska             2,99                               obal 0,15",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+1,pultový predaj,,,"['3,29']","3,29",,"pultový predaj     3,29",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+1,SME PRE VÁS AŽ,,,['5'],5,,SME    PRE     VÁS    AŽ            5,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+1,* Porovnanie cien výrobkov je k,,,"['30.', '4.', '2025', '30.', '4.', '2026', '1', '20', '1020', '11']",11,30.,* Porovnanie cien výrobkov je k 30. 4. 2025 a 30. 4. 2026 S1-SK-KW20-LFT-TITULKA-1020-11,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+1,,,,,"3,29","4,99","4,99 -34%
+3,29",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+2,* Porovnanie cien výrobkov je k,,,"['30.', '4.', '2025']",2025,30.,* Porovnanie cien výrobkov je k 30. 4. 2025,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+3,OD ŠTVRTKA,,,"['14.', '5.']",5.,14.,OD  ŠTVRTKA    14. 5.,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+4,N -,,-30%,"['30', '39']",39,30,N                                         -30%                 -39%,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+4,ÁÁÁÁ (=,1 kg,,"['1', '3,18', '1', '3,98']","3,98",1,"ÁÁÁÁ  (=1 kg 3,18)         (=1 kg 3,98)",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+5,"žlté,",,-35%,"['00,', '9999', '35']",35,"00,","žlté,    00,,9999                                                  -35%",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+5,"varný typ A,",,,"['2,29']","2,29",,"varný typ A,                       2,29",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+5,varný typ B,1 kg,,['1'],1,,varný typ B                1 kg                       Špenát baby,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+5,Online leták (=,1 kg,,"['1', '2,18']","2,18",1,"Online leták              (=1 kg KC: 2,18 /",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+5,"zlacnených, ktoré sú osobitnou zľavou označené v predajni (napr. produkty s končiacim sa dátumom minimálnej trvanlivosti). S",,,"['5', '20', '1', '2', '1020', '11']",11,5,"zlacnených, ktoré sú osobitnou zľavou označené v predajni (napr. produkty s končiacim sa dátumom minimálnej trvanlivosti). S5-SK-KW20-LFT-OVO_ZEL_1_2_R-1020-11",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+5,,,,,"1,19","2,19","2,19 -45%
+1,19",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+5,,,,,"1,99","3,29","3,29 -39%
+1,99",14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+5,eemmeerr kkvveettiinnááččaa::,,,,44,11,eemmeerr kkvveettiinnááččaa:: 11 | 44 ccmm,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+7,priemer kvetináča: priemer kvetináča:,6 kus,,['6'],6,,priemer kvetináča:          priemer kvetináča:        6 kusov v balení,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+7,vlastným programom už od roku,,,['2006.'],2006.,,vlastným programom už od roku 2006.,14. 5. 2026 - 20. 5. 2026,Ovocie a Zelenina
+9,vianočka,400 g,,['400'],400,,vianočka               400 g                            rôzne druhy,14. 5. 2026 - 20. 5. 2026,Ostatné
+9,,,,,"1,49","1,89","1,89 -21%
+1,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+11,PONUKA NAVYŠE IBA V ONLINE LETÁKU OD ŠTVRTKA,,,"['14.', '5.']",5.,14.,PONUKA     NAVYŠE    IBA  V ONLINE   LETÁKU              OD  ŠTVRTKA    14. 5.,14. 5. 2026 - 20. 5. 2026,Ostatné
+12,cena za,1 kg,,"['1', '1', '1']",1,1,cena za 1 kg            cena za 1 kg               cena za 1 kg,14. 5. 2026 - 20. 5. 2026,Ostatné
+12,,,,,"13,90","15,90","15,90 -12%
+13,90",14. 5. 2026 - 20. 5. 2026,Ostatné
+13,Hovädzia do vyčerpania zásob,"5,89              Ml",,"['5,89', '5,19']","5,19","5,89","Hovädzia do vyčerpania zásob       5,89              Mleté   5,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+13,cena za,100 g,,['100'],100,,cena za 100 g,14. 5. 2026 - 20. 5. 2026,Ostatné
+14,NEDELE,,,"['17.', '5.']",5.,17.,NEDELE 17. 5.,14. 5. 2026 - 20. 5. 2026,Ostatné
+17,kuracia,,,"['2,57']","2,57",,"kuracia  2,57",14. 5. 2026 - 20. 5. 2026,Ostatné
+17,Kráľovské,,,"['5,24']","5,24",,"Kráľovské 5,24",14. 5. 2026 - 20. 5. 2026,Ostatné
+17,O | D ŠTVRTKA,,,,5.,14.,O | D ŠTVRTKA 14. 5.,14. 5. 2026 - 20. 5. 2026,Ostatné
+17,-,,,,"1,99",22,"-22%
+2,57
+1,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+17,-,,,,"4,19",20,"-20%
+5,24
+4,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+17,-,,,,"6,79",20,"-20%
+8,58
+6,79",14. 5. 2026 - 20. 5. 2026,Ostatné
+18,na vyprážanie,,,"['45', '45']",45,45,na vyprážanie 45 %          45 %                    pultový predaj,14. 5. 2026 - 20. 5. 2026,Ostatné
+18,pultový predaj pultový predaj cena za,100 g,,['100'],100,,pultový predaj              pultový predaj          cena za 100 g,14. 5. 2026 - 20. 5. 2026,Ostatné
+18,Cisársky syr,,,['44'],44,,Cisársky syr 44 %,14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+18,Mozzarella,,,"['45', '48']",48,45,Mozzarella 45 %             Gouda 48 %              údený,14. 5. 2026 - 20. 5. 2026,Ostatné
+18,pultový predaj pultový predaj,100 g,,['100'],100,,pultový predaj             pultový predaj           100 g,14. 5. 2026 - 20. 5. 2026,Ostatné
+18,,,,,"0,59","0,69","0,69 -14%
+0,59",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,-,,,,"1,19",25,"-25%
+1,59
+1,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,,,,,90,,"90 %
+podiel mäsa",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,-,,,,"0,75",36,"-36%
+1,19
+0,75",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,,,,,97,,"97 %
+podiel mäsa",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,-,,,,"0,79",33,"-33%
+1,19
+0,79",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,-,,,,"0,89",31,"-31%
+1,29
+0,89",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,-,,,,"1,05",29,"-29%
+1,49
+1,05",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,,,,,84,,"84 %
+podiel mäsa",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,-,,,,"0,82",31,"-31%
+1,19
+0,82",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,,,,,96,,"96 %
+podiel mäsa",14. 5. 2026 - 20. 5. 2026,Ostatné
+19,,,,,79,,"79 %
+podiel mäsa",14. 5. 2026 - 20. 5. 2026,Ostatné
+20,OD ŠTVRTKA,10 kus,,"['14.', '5.', '10']",10,14.,OD  ŠTVRTKA    14. 5.                                               10 kusov,14. 5. 2026 - 20. 5. 2026,Ostatné
+20,rôzne druhy,,,"['0,59']","0,59",,"rôzne druhy    0,59",14. 5. 2026 - 20. 5. 2026,Ostatné
+20,BC:,,,"['5,56']","5,56",,"BC: 5,56) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+20,Cottage Cheese,,,"['0,69']","0,69",,"Cottage Cheese 0,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+20,Mascarpone,,,"['3,99']","3,99",,"Mascarpone  3,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+20,rôzne druhy,,,"['22,', '9999', '1,59']","1,59","22,","rôzne druhy   22,,9999                   1,59",14. 5. 2026 - 20. 5. 2026,Ostatné
+20,BEŽNÁ CENA,,,,"1,39",,"BEŽNÁ CENA
+1,39",14. 5. 2026 - 20. 5. 2026,Ostatné
+21,rôzne druhy,,,"['1,11']","1,11",,"rôzne druhy 1,11",14. 5. 2026 - 20. 5. 2026,Ostatné
+21,Niva,,,['48'],48,,Niva 48 %                   Tvarohový syr,14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+21,Padano,120 g,-25%,"['32', '2,49', '120', '1,59', '25', '120']",120,32,"Padano 32 % 2,49       120 g     1,59 -25%         120 g       BEŽNÁ CENA",14. 5. 2026 - 20. 5. 2026,Ostatné
+21,Syrové korbáče,,,['25'],25,,Syrové korbáče 25 %,14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+21,BEŽNÁ CENA,,,,"1,99",,"BEŽNÁ CENA
+1,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+21,,,,,"1,39","1,79","1,79 -22%
+1,39",14. 5. 2026 - 20. 5. 2026,Ostatné
+21,,,,,"1,09","1,49","1,49 -26%
+1,09",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,Treska Exklusiv,,,"['1,99']","1,99",,"Treska Exklusiv 1,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,rôzne druhy,,,"['1,09']","1,09",,"rôzne druhy       1,09",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,párky A:,,,"['10,76']","10,76",,"párky                  A: 10,76) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,BC:,,,"['9,97']","9,97",,"BC: 9,97) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,rôzne druhy Mrazený krém,,,"['3,99']","3,99",,"rôzne druhy             Mrazený krém 3,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,((==,500 g,,"['11', '88,', '8888', '8,39', '459', '500', '3,59']","3,59",11,"((==11 kkgg oodd KKCC:: 88,,8888 // 8,39 459 - 500 g                  3,59",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,,250 g,,,"10,76","1,49","1,49
+1,09
+Mini bernské
+párky
+250 g
+(=1 kg KC: 9,56 /
+A: 10,76) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,párky,250 g,,,"10,76",250,"párky
+250 g
+(=1 kg KC: 9,56 /
+A: 10,76) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,,,,,"2,19","2,95","2,95 -25%
+2,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,,,,,"2,69","3,59","3,59 -25%
+2,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,,,,,"8,39","11,49","11,49 -26%
+8,39",14. 5. 2026 - 20. 5. 2026,Ostatné
+22,BEŽNÁ CENA,,,,"3,59",,"BEŽNÁ CENA
+3,59",14. 5. 2026 - 20. 5. 2026,Ostatné
+23,rôzne druhy,,,"['1,29']","1,29",,"rôzne druhy 1,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+23,pevný podiel,,,"['2,99', '1,39']","1,39","2,99","pevný podiel 2,99     rôzne druhy   1,39",14. 5. 2026 - 20. 5. 2026,Ostatné
+23,BEŽNÁ CENA,,,,"2,47",,"BEŽNÁ CENA
+2,47",14. 5. 2026 - 20. 5. 2026,Ostatné
+23,-,,,,"1,39",35,"-35%
+2,17
+1,39",14. 5. 2026 - 20. 5. 2026,Ostatné
+24,tyčinka,,,"['0,69']","0,69",,"tyčinka     0,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+24,rôzne druhy rôzne druhy,,,"['1,35']","1,35",,"rôzne druhy                 rôzne druhy 1,35",14. 5. 2026 - 20. 5. 2026,Ostatné
+24,BC:,,,"['14,60']","14,60",,"BC: 14,60) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+24,Šťava,,,['100'],100,,Šťava 100 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+24,Mletá káva,200 g,-30%,"['6,99', '200', '9,99', '30', '13,99']","13,99","6,99","Mletá káva 6,99        200 g      9,99 -30%         Zrnková káva 13,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+24,,,,,"0,89","1,19","1,19 -25%
+0,89",14. 5. 2026 - 20. 5. 2026,Ostatné
+24,BEŽNÁ CENA,,,,"2,19",,"BEŽNÁ CENA
+2,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+24,,,,,"6,99","9,99","9,99 -30%
+6,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+25,+ záloh za obal,1 l,,"['0,15', '1', '6,65']","6,65","0,15","+ záloh za obal 0,15           (=1 l 6,65)",14. 5. 2026 - 20. 5. 2026,Ostatné
+25,+ záloh za obal,,,"['0,15']","0,15",,"+ záloh za obal 0,15",14. 5. 2026 - 20. 5. 2026,Ostatné
+25,Vodka,,,"['24.', '5.', '20', '20']",20,24.,Vodka                                      24. 5. – 20:20 HOD.,14. 5. 2026 - 20. 5. 2026,Ostatné
+25,rôzne druhy,,,"['26.', '5.', '16', '20']",20,26.,rôzne druhy                                26. 5. – 16:20 HOD.,14. 5. 2026 - 20. 5. 2026,Ostatné
+25,rôzne druhy,,,"['8,99', '18,19']","18,19","8,99","rôzne druhy 8,99            rôzne druhy 18,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+25,+ záloh za obaly,1 l,,"['0,60', '1', '18,56']","18,56","0,60","+ záloh za obaly 0,60       (=1 l 18,56)",14. 5. 2026 - 20. 5. 2026,Ostatné
+25,ŠVÉDSKO VS SLOVENSKO,,,,20,26.,"ŠVÉDSKO VS SLOVENSKO
+26. 5. – 16:20 HOD.",14. 5. 2026 - 20. 5. 2026,Ostatné
+26,(((===,,,"['111', '888,', '666333']",666333,111,"(((===111 kkkggg 888,,,666333)))",14. 5. 2026 - 20. 5. 2026,Ostatné
+26,===,,,,666333,111,"===111 kkkggg 888,,,666333)))",14. 5. 2026 - 20. 5. 2026,Ostatné
+26,,110000 g,,,110000,,110000 gg | vvyyrroobbeenn,14. 5. 2026 - 20. 5. 2026,Ostatné
+27,((==,,-24%,"['11', '1111,', '0000', '0,65', '24']",24,11,"((==11 kkgg KKCC:: 1111,,0000 // 0,65         -24%",14. 5. 2026 - 20. 5. 2026,Ostatné
+27,"pečené, lúpané -",,-26%,['26'],26,,"pečené, lúpané                                      -26%",14. 5. 2026 - 20. 5. 2026,Ostatné
+27,Vlašské rôzne druhy,,,"['1,49']","1,49",,"Vlašské     rôzne druhy  1,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+27,orechy,100 g,,['100'],100,,orechy      100 g,14. 5. 2026 - 20. 5. 2026,Ostatné
+27,pivo,,,['12'],12,,pivo 12 %,14. 5. 2026 - 20. 5. 2026,Nápoje
+27,((==,11 l,,"['11', '11,', '2255']",2255,11,"((==11 ll 11,,2255))",14. 5. 2026 - 20. 5. 2026,Ostatné
+27,alkoholický nápoj,,,"['11,', '4499', '11,', '0044']",0044,"11,","alkoholický nápoj 11,,4499                          zzaa oobbaallyy 11,,0044",14. 5. 2026 - 20. 5. 2026,Nápoje
+27,BC:,,,"['7,96', '7,99', '9,99']","9,99","7,96","BC: 7,96) *                                      7,99       rôzne druhy 9,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+27,+ záloh za obal,,,"['0,15', '4,99', '36', '40', '7,49']","7,49","0,15","+ záloh za obal 0,15 BEŽNÁ CENA                    4,99     36 - 40 % alk. 7,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+27,v ponuke aj,"0,7 l",,"['1,99', '0,7']","0,7","1,99","v ponuke aj         1,99                                    0,7 l",14. 5. 2026 - 20. 5. 2026,Ostatné
+27,nealkoholický (=,1 l,,"['1', '10,70']","10,70",1,"nealkoholický                                               (=1 l 10,70)",14. 5. 2026 - 20. 5. 2026,Ostatné
+27,,,,,"0,65","0,79","0,79 -17%
+0,65",14. 5. 2026 - 20. 5. 2026,Ostatné
+28,Kávový nápoj,,,"['48', '2,99']","2,99",48,"Kávový nápoj              48 %         2,99",14. 5. 2026 - 20. 5. 2026,Nápoje
+28,rôzne druhy,200 g,,"['1,99', '200']",200,"1,99","rôzne druhy  1,99         200 g",14. 5. 2026 - 20. 5. 2026,Ostatné
+28,rôzne druhy,,,"['1,19', '3,49']","3,49","1,19","rôzne druhy     1,19       rôzne druhy   3,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+28,K Ementál,,,['45'],45,,K                                      Ementál 45 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+28,dezert,,,"['2,99', '1', '1', '4,69']","4,69","2,99","dezert  2,99                        1 + 1                   4,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+28,rôzne druhy,,,"['1,99', '3,69']","3,69","1,99","rôzne druhy 1,99                                              3,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+28,CENA ZA,1 kus,,['1'],1,,CENA ZA 1 kus,14. 5. 2026 - 20. 5. 2026,Ostatné
+28,tuk * Cena platí pri kúpe,2 kus,,['2'],2,,tuk    * Cena platí pri kúpe 2 kusov PRI,14. 5. 2026 - 20. 5. 2026,Ostatné
+28,Cena za,1 kus,,"['1', '1', '2,29']","2,29",1,"Cena za 1 kus pri kúpe 1 kusa 2,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+28,Limitovaná ponuka NAD,,,"['20', '1']",1,20,Limitovaná ponuka                                       NAD  20 EUR 1,14. 5. 2026 - 20. 5. 2026,Ostatné
+28,bielky,,,['12'],12,,bielky                      12 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+28,mlieko,,,"['1,5']","1,5",,"mlieko 1,5 %",14. 5. 2026 - 20. 5. 2026,Ostatné
+28,,,,,3399,"0,69","0,69
+00,,3399",14. 5. 2026 - 20. 5. 2026,Ostatné
+29,Závin,,,"['3,69']","3,69",,"Závin  3,69        rôzne druhy",14. 5. 2026 - 20. 5. 2026,Ostatné
+29,rôzne druhy,240 g,-23%,"['2,59', '210', '240', '2,89', '23']",23,"2,59","rôzne druhy 2,59   210 - 240 g 2,89 -23%",14. 5. 2026 - 20. 5. 2026,Ostatné
+29,klobása,,,"['4,29']","4,29",,"klobása       4,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+29,Zemiakové hranolčeky,,,"['2,29', '4,49']","4,49","2,29","Zemiakové hranolčeky 2,29                4,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+29,Od štvrtka,,,"['14.', '5.']",5.,14.,Od štvrtka 14. 5. do,14. 5. 2026 - 20. 5. 2026,Ostatné
+29,stredy,,,"['20.', '5.', '2026']",2026,20.,stredy 20. 5. 2026,14. 5. 2026 - 20. 5. 2026,Ostatné
+29,,,,,"2,22","2,89","2,89 -23%
+2,22",14. 5. 2026 - 20. 5. 2026,Ostatné
+29,-,,,,"5,19",25,"-25%
+6,99
+5,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+29,-,,,,"4,29",28,"-28%
+5,99
+4,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+32,cena za,1 kg,,"['1', '1', '8,90']","8,90",1,"cena za 1 kg                            (=1 kg 8,90)",14. 5. 2026 - 20. 5. 2026,Ostatné
+32,,,,,80,,"80 %
+podiel mäsa",14. 5. 2026 - 20. 5. 2026,Ostatné
+32,-,,,,"1,89",24,"-24%
+2,49
+1,89",14. 5. 2026 - 20. 5. 2026,Ostatné
+32,,,,,86,,"86 %
+podiel mäsa",14. 5. 2026 - 20. 5. 2026,Ostatné
+32,-,,,,"2,99",25,"-25%
+3,99
+2,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+33,Kečup,"0,5 l",,"['0,5']","0,5",,"Kečup                                                0,5 l",14. 5. 2026 - 20. 5. 2026,Ostatné
+33,za obal,,,"['0,15']","0,15",,"za obal 0,15",14. 5. 2026 - 20. 5. 2026,Ostatné
+33,,,,,"4,99","6,39","6,39 -21%
+4,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+33,,,,,"2,99","3,99","3,99 -25%
+2,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+33,,,,,"1,59","1,99","1,99 -20%
+1,59",14. 5. 2026 - 20. 5. 2026,Ostatné
+34,OD ŠTVRTKA,,,"['14.', '5.', '30']",30,14.,OD  ŠTVRTKA    14. 5.                      delaktózovaný              syr 30 %,14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+34,Skyr,200 g,,"['200', '450']",450,200,Skyr                  200 g                      450 g,14. 5. 2026 - 20. 5. 2026,Ostatné
+34,rôzne druhy (=,1 kg,,"['1', '6,95', '1', '4,87']","4,87",1,"rôzne druhy           (=1 kg KC: 6,95 /          (=1 kg KC: 4,87 /",14. 5. 2026 - 20. 5. 2026,Ostatné
+34,Aktivovať -,,,['50'],50,,Aktivovať -50,14. 5. 2026 - 20. 5. 2026,Ostatné
+34,Predajňa,,,"['14.', '5.', '20.', '5.', '2026']",2026,14.,Predajňa 14. 5. – 20. 5. 2026 Predajňa,14. 5. 2026 - 20. 5. 2026,Ostatné
+34,SSúúťťaažž ttrrvváá oodd,,,"['2233.', '44.', '2200.', '55.', '22002266']",22002266,2233.,SSúúťťaažž ttrrvváá oodd 2233.. 44.. ddoo 2200.. 55.. 22002266,14. 5. 2026 - 20. 5. 2026,Ostatné
+34,,,,,"2,29","2,99","2,99 -23%
+2,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+36,BC:,,,"['11,23', '9,52', '6,11']","6,11","11,23","BC: 11,23) *             BC: 9,52) *               BC: 6,11) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+36,BEŽNÁ CENA,,,,"3,37",,"BEŽNÁ CENA
+3,37",14. 5. 2026 - 20. 5. 2026,Ostatné
+36,BEŽNÁ CENA,,,,"6,19",,"BEŽNÁ CENA
+6,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+36,BEŽNÁ CENA,,,,"0,55",,"BEŽNÁ CENA
+0,55",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,BC:,,,"['5,44']","5,44",,"BC: 5,44) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,BEŽNÁ CENA BEŽNÁ CENA BEŽNÁ CENA,,,"['22,', '8899']",8899,"22,","BEŽNÁ CENA        BEŽNÁ CENA        BEŽNÁ CENA             22,,8899",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,BC:,,,"['21,95']","21,95",,"BC: 21,95) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,BEŽNÁ CENA,,,,"0,45",,"BEŽNÁ CENA
+0,45",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,BEŽNÁ CENA,,,,"1,22",,"BEŽNÁ CENA
+1,22",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,BEŽNÁ CENA,,,,"0,89",,"BEŽNÁ CENA
+0,89",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,EŽNÁ CENA,,,,"3,81",,"EŽNÁ CENA
+3,81",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,BEŽNÁ CENA,,,,"4,02",,"BEŽNÁ CENA
+4,02",14. 5. 2026 - 20. 5. 2026,Ostatné
+37,EŽNÁ CENA,,,,"4,39",,"EŽNÁ CENA
+4,39",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BC:,,,"['3,27', '4,25']","4,25","3,27","BC: 3,27) *                                           BC: 4,25) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,Parenica,,,['40'],40,,Parenica 40 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+38,krém,,,"['34,9']","34,9",,"krém                      34,9 %                  rôzne druhy",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BC:,,,"['16,63', '19,95', '9,91']","9,91","16,63","BC: 16,63) *              BC: 19,95) *            BC: 9,91) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BC:,,,"['12,45']","12,45",,"BC: 12,45) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BC:,,,"['5,21', '8,88']","8,88","5,21","BC: 5,21) *                BC: 8,88) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BEŽNÁ CENA,,,,"0,49",,"BEŽNÁ CENA
+0,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BEŽNÁ CENA,,,,"4,99",,"BEŽNÁ CENA
+4,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BEŽNÁ CENA,,,,"3,99",,"BEŽNÁ CENA
+3,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BEŽNÁ CENA,,,,"1,09",,"BEŽNÁ CENA
+1,09",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BEŽNÁ CENA,,,,"2,97",,"BEŽNÁ CENA
+2,97",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BEŽNÁ CENA,,,,"7,99",,"BEŽNÁ CENA
+7,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+38,BEŽNÁ CENA,,,,"2,49",,"BEŽNÁ CENA
+2,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,Blanšírované BC:,,,"['19,90']","19,90",,"Blanšírované              BC: 19,90)",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BC:,,,"['26,90', '11,', '5599']",5599,"26,90","BC: 26,90) *          11,,5599",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,Hrášok,,,"['2,69']","2,69",,"Hrášok                                   2,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BC:,,,"['3,75']","3,75",,"BC: 3,75) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BC:,,,"['2,06']","2,06",,"BC: 2,06) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,obal,,,"['0,15']","0,15",,"obal 0,15",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BC:,1 kg,,"['12,53', '1', '2,12', '2,63']","2,63","12,53","BC: 12,53) *                                     (=1 kg KC: 2,12 / BC: 2,63) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BC:,,,"['2,26']","2,26",,"BC: 2,26) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,+ záloh za obal,,,"['0,13']","0,13",,"+ záloh za obal 0,13",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BC:,,,"['21,41']","21,41",,"BC: 21,41) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BEŽNÁ CENA (=,1 l,,"['1', '38,56']","38,56",1,"BEŽNÁ CENA    (=1 l KC: 38,56 / BEŽNÁ CENA           BEŽNÁ CENA",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BEŽNÁ CENA,,,,"2,69",,"BEŽNÁ CENA
+2,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BEŽNÁ CENA,,,,"1,19",,"BEŽNÁ CENA
+1,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BEŽNÁ CENA,,,,"3,09",,"BEŽNÁ CENA
+3,09",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BEŽNÁ CENA,,,,"1,97",,"BEŽNÁ CENA
+1,97",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BEŽNÁ CENA,,,,"1,13",,"BEŽNÁ CENA
+1,13",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BEŽNÁ CENA,,,,"34,99",,"BEŽNÁ CENA
+34,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+39,BEŽNÁ CENA,,,,"14,99",,"BEŽNÁ CENA
+14,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+40,OD ŠTVRTKA,,,"['14.', '5.', '20.', '5.', '2026']",2026,14.,OD   ŠTVRTKA          14.  5. DO    STREDY        20.  5.  2026,14. 5. 2026 - 20. 5. 2026,Ostatné
+40,Platné,,,['7'],7,,Platné 7 dní,14. 5. 2026 - 20. 5. 2026,Ostatné
+41,Predajňa Aktivovať -,,,['10'],10,,Predajňa             Aktivovať -10     Predajňa,14. 5. 2026 - 20. 5. 2026,Ostatné
+41,pivo so zľavou -,,-30%,['30'],30,,pivo so zľavou -30%,14. 5. 2026 - 20. 5. 2026,Nápoje
+41,Zľava -,,-15%,"['15', '20']",20,15,Zľava -15%                             Zľava -20%,14. 5. 2026 - 20. 5. 2026,Ostatné
+41,Predajňa Aktivovať -,,,"['30', '30']",30,30,Predajňa             Aktivovať -30     Predajňa             Aktivovať -30,14. 5. 2026 - 20. 5. 2026,Ostatné
+42,približne,,,['650'],650,,"približne 650 m n. m., kde hospodária v prísnom ekologickom režime. biele biele",14. 5. 2026 - 20. 5. 2026,Ostatné
+42,aróniu dodávajú pravidelne,,,['20'],20,,aróniu dodávajú pravidelne    20 % alk.,14. 5. 2026 - 20. 5. 2026,Ostatné
+42,"Partizánskom, Prievidzi, -",,-25%,['25'],25,,"Partizánskom, Prievidzi,      -25%             Považie           a okolie",14. 5. 2026 - 20. 5. 2026,Ostatné
+43,Tekvicové jadierka,,,"['4,79', '1,49', '17,99']","17,99","4,79","Tekvicové jadierka 4,79      Slané oblátky 1,49        Zrnková káva 17,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+43,rôzne druhy,,,"['3,29', '0,99', '11,99']","11,99","3,29","rôzne druhy      3,29        rôzne druhy 0,99          rôzne druhy 11,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+43,Bylinný čaj šťava,,,['100'],100,,Bylinný čaj                                        šťava 100 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+43,jarná očista,"0,7 l",,"['0,7']","0,7",,"jarná očista                                       0,7 l",14. 5. 2026 - 20. 5. 2026,Ostatné
+44,BIO Detská výživa,119 g,,"['0,99', '119', '2,79']","2,79","0,99","BIO Detská výživa 0,99       119 g      2,79                        Instantná",14. 5. 2026 - 20. 5. 2026,Ostatné
+44,rôzne druhy,1 kg,,"['0,79', '1', '16,55', '1,97']","1,97","0,79","rôzne druhy     0,79         (=1 kg 16,55) 1,97",14. 5. 2026 - 20. 5. 2026,Ostatné
+44,pevný podiel,,,"['2,19']","2,19",,"pevný podiel  2,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+44,rôzne druhy,,,"['4,29']","4,29",,"rôzne druhy                             4,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+44,Cena za,4 kus,,"['4', '2,98']","2,98",4,"Cena za 4 kusy 2,98",14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+44,Cena za,1 kus,,"['1', '1', '1,49']","1,49",1,"Cena za 1 kus pri kúpe 1 kusa 1,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+45,Oblátky,,,"['2,19']","2,19",,"Oblátky                             2,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+45,rôzne druhy,,,"['1,49']","1,49",,"rôzne druhy 1,49   Čokoládová poleva",14. 5. 2026 - 20. 5. 2026,Ostatné
+45,rôzne druhy * Cena platí pri kúpe,2 kus,,['2'],2,,rôzne druhy * Cena platí pri kúpe 2 kusov,14. 5. 2026 - 20. 5. 2026,Ostatné
+45,Cena za,1 kus,,"['1', '1', '1,99']","1,99",1,"Cena za 1 kus pri kúpe 1 kusa 1,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+46,rôzne druhy,"1,5 l",,"['1,5', '2']",2,"1,5","rôzne druhy               1,5 l                      2 l",14. 5. 2026 - 20. 5. 2026,Ostatné
+46,ležiak,,,['10'],10,,ležiak 10 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+46,rôzne druhy,"0,5 l",-15%,"['1,64', '15', '0,5']","0,5","1,64","rôzne druhy  1,64 -15%   0,5 l         BEŽNÁ CENA                BEŽNÁ CENA",14. 5. 2026 - 20. 5. 2026,Ostatné
+46,BEŽNÁ CENA,,,,"0,67",,"BEŽNÁ CENA
+0,67",14. 5. 2026 - 20. 5. 2026,Ostatné
+46,BEŽNÁ CENA,,,,"0,72",,"BEŽNÁ CENA
+0,72",14. 5. 2026 - 20. 5. 2026,Ostatné
+47,+ záloh + záloh,"0,75 l",,"['0,75']","0,75",,"+ záloh                 + záloh                     0,75 l",14. 5. 2026 - 20. 5. 2026,Ostatné
+47,za obal,1 l,,"['0,15', '0,15', '1', '3,99']","3,99","0,15","za obal 0,15            za obal 0,15                (=1 l 3,99)",14. 5. 2026 - 20. 5. 2026,Ostatné
+48,BC:,,,"['2,66', '3,27', '3,40']","3,40","2,66","BC: 2,66) *              BC: 3,27) *              BC: 3,40) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+48,BEŽNÁ CENA,,,,"2,45",,"BEŽNÁ CENA
+2,45",14. 5. 2026 - 20. 5. 2026,Ostatné
+48,BEŽNÁ CENA,,,,"2,55",,"BEŽNÁ CENA
+2,55",14. 5. 2026 - 20. 5. 2026,Ostatné
+49,BC:,,,"['0,98']","0,98",,"BC: 0,98) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+49,BC:,,,"['0,72']","0,72",,"BC: 0,72) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+49,za obal,,,"['0,13']","0,13",,"za obal 0,13",14. 5. 2026 - 20. 5. 2026,Ostatné
+49,BC:,,,"['0,98', '1,12', '1,24']","1,24","0,98","BC: 0,98) *                BC: 1,12) *               BC: 1,24) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+49,BEŽNÁ CENA,,,,"0,36",,"BEŽNÁ CENA
+0,36",14. 5. 2026 - 20. 5. 2026,Ostatné
+49,BEŽNÁ CENA,,,,"0,56",,"BEŽNÁ CENA
+0,56",14. 5. 2026 - 20. 5. 2026,Ostatné
+49,BEŽNÁ CENA,,,,"0,62",,"BEŽNÁ CENA
+0,62",14. 5. 2026 - 20. 5. 2026,Ostatné
+52,VÝHODNÁ PONUKA A OD ŠTVRTKA,5. G,,,11,14.,"VÝHODNÁ PONUKA
+A
+OD ŠTVRTKA 14. 5. G
+E
+M
+A
+N
+E
+C
+€
+6
+1
+0,
+kusy
+Kúpte 4
+za
+cena
+a
+1 kus je M po e č g e a t c k e u n so a v p a la j t e í h n o a n u á v s e o d b e k n y ý
+-21%
+Fitness žemľa
+0,23
+75 g
+0,18
+(=1 kg 2,40)
+MEGA CENA
+(=1 kg 2,13)
+52
+S52-SK-KW20-LFT-ONLINE_07_L-1020-11",14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+52,A N E C €,"0,
+kus",,,"2,13",6,"A
+N
+E
+C
+€
+6
+1
+0,
+kusy
+Kúpte 4
+za
+cena
+a
+1 kus je M po e č g e a t c k e u n so a v p a la j t e í h n o a n u á v s e o d b e k n y ý
+-21%
+Fitness žemľa
+0,23
+75 g
+0,18
+(=1 kg 2,40)
+MEGA CENA
+(=1 kg 2,13)",14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+53,C €,"1,
+kus",,,1,9,"C
+€
+9
+4
+1,
+kusy
+Kúpte 3
+za
+cena
+a
+1 kus je M o e č g e a t c k e u n so a v p a la j t e í h n o a n u á v s e o d b e k n y ý",14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+54,Depilačné prúžky,500 ml,,['500'],500,,Depilačné prúžky             500 ml,14. 5. 2026 - 20. 5. 2026,Ostatné
+54,Toaletný papier,,,['2'],2,,Toaletný papier               2-vrstvový,14. 5. 2026 - 20. 5. 2026,Ostatné
+54,-,,,,"0,69",30,"-30%
+0,99
+0,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+55,v ponuke aj ďalšie v ponuke aj ďalšie,10 kg,,['10'],10,,v ponuke aj ďalšie      v ponuke aj ďalšie          10 kg,14. 5. 2026 - 20. 5. 2026,Ostatné
+55,varianty varianty (=,1 kg,,"['1', '0,70']","0,70",1,"varianty                varianty                    (=1 kg 0,70)",14. 5. 2026 - 20. 5. 2026,Ostatné
+55,-,,,,"2,49",26,"-26%
+3,39
+2,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+55,-,,,,"3,99",20,"-20%
+4,99
+3,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+55,-,,,,"3,29",25,"-25%
+4,39
+3,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+55,-,,,,"6,99",46,"-46%
+12,99
+6,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+56,Najstaršia a najväčšia bryndziareň na svete už takmer,,,['230'],230,,Najstaršia a najväčšia bryndziareň na svete už takmer 230 rokov,14. 5. 2026 - 20. 5. 2026,Ostatné
+56,v roku,,,['1797'],1797,,v roku 1797 a dedičstvo rodiny Molecovej pretrváva dodnes. Každý,14. 5. 2026 - 20. 5. 2026,Ostatné
+56,rok odtiaľto odíde približne,,,['700'],700,,"rok odtiaľto odíde približne 700 ton bryndze, ktorá si zachováva",14. 5. 2026 - 20. 5. 2026,Ostatné
+56,"a kravského mlieka vzniká hrudka, ktorá dozrieva približne",,,['7'],7,,"a kravského mlieka vzniká hrudka, ktorá dozrieva približne 7 dní,",14. 5. 2026 - 20. 5. 2026,Ostatné
+56,K-Z lásky k tradícii aj,,,['100'],100,,K-Z lásky k tradícii aj 100 % ovčiu bryndzu zo slovenského ovčieho,14. 5. 2026 - 20. 5. 2026,Ostatné
+56,ppprrroooddduuukkkccciiiuuu,,,['111000000'],111000000,,"ppprrroooddduuukkkccciiiuuu 111000000 %%% ooovvvčččeeejjj bbbrrryyynnndddzzzeee,,, kkktttooorrrúúú pod",14. 5. 2026 - 20. 5. 2026,Ostatné
+57,vo vybraných maloobchodných reťazcoch v marci,,,['2026.'],2026.,,vo vybraných maloobchodných reťazcoch v marci 2026.,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,PONUKA TÝŽDŇA,,,['10'],10,,PONUKA       TÝŽDŇA                           10,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,priemer:,,,['19'],19,,priemer: 19 mm,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,prevádzkový tlak:,,,['6'],6,,prevádzkový tlak: 6 bar,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,dĹžka:,,,['50'],50,,dĹžka: 50 m,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,na moridlo,1 kus,,['1'],1,,na moridlo              1 kus,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,PARKSIDE ® -,,-33%,"['33', '33']",33,33,PARKSIDE ®   -33%                              -33%,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,HVLP PFS,,,"['450', '1']",1,450,HVLP PFS 450 B1,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,PHLGB,,,"['2000', '1', '14,99', '3', '29,99']","29,99",2000,"PHLGB 2000 A1 14,99            3 nastaviteľné tvary lúča 29,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+60,teplota:,"1,2 l",,"['350', '550', '9,99', '1,2', '19,99']","19,99",350,"teplota: 350 - 550 °C 9,99     objem nádoby na farbu: 1,2 l 19,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+60,príkon:,,,"['2000', '450']",450,2000,príkon: 2000 W                 príkon: 450 W,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,PARKSIDE ® -,,-20%,['20'],20,,PARKSIDE ® -20%,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,ideálne na práce,,,"['4,99']","4,99",,"ideálne na práce 4,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+60,PETPS,,,"['400', '2']",2,400,PETPS 400 B2,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,"v dielni, dome",,,"['3,99', '3']",3,"3,99","v dielni, dome 3,99                                         3",14. 5. 2026 - 20. 5. 2026,Ostatné
+60,a záhrade alebo PETPK,,,"['400', '2']",2,400,a záhrade                 alebo PETPK 400 B2,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,hĹbka ponoru:,,,['7'],7,,hĹbka ponoru: 7 m,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,príkon:,,,['400'],400,,príkon: 400 W,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,PHD,35 l,,"['170', '2', '35']",35,170,PHD 170 D2                         na vodu: 35 l,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,PARKSIDE ®,,,['3'],3,,PARKSIDE ®                                    3,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,"ideálny na terasy, autá a fasády",1 kus,,['1'],1,,"ideálny na terasy, autá a fasády   1 kus",14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+60,senzorom,500 l,,['500'],500,,senzorom                  500 l / hod.,14. 5. 2026 - 20. 5. 2026,Ostatné
+60,dosah snímania: max. tlak:,,,"['17', '99,99']","99,99",17,"dosah snímania:           max. tlak: 17 MPa                  99,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+60,svetelný tok:,600 l,,"['600', '14,99']","14,99",600,"svetelný tok: 600 lm 14,99 vrátane príslušenstva",14. 5. 2026 - 20. 5. 2026,Ostatné
+60,UŠETRÍTE,,,,"14,99","2,","UŠETRÍTE
+2,-
+BEŽNÁ CENA
+14,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+61,PAT,,,"['20', '1', '20', '20', '1']",1,20,PAT 20-Li A1                   20 V PAKT 20-Li A1,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,dĹžky:,,,"['15', '32', '11,1']","11,1",15,"dĹžky: 15 - 32 mm              tlak: 11,1 bar",14. 5. 2026 - 20. 5. 2026,Ostatné
+61,max. počet úderov:,1 kus,,['1'],1,,max. počet úderov:             1 kus,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,PAFR,,,"['20', '1']",1,20,PAFR 20-Li A1,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,PSTDA,,,"['20', '3', '25']",25,20,PSTDA 20-Li C3                                                      25 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,na kladenie a zapracovanie,,,"['39,99']","39,99",,"na kladenie a zapracovanie 39,99     nastaviteľná dĹžka:",14. 5. 2026 - 20. 5. 2026,Ostatné
+61,veľkoformátových dlaždíc,,,"['29,99']","29,99",,"veľkoformátových dlaždíc 29,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+61,max. prídržná sila:,70 kg,,"['35', '70']",70,35,max. prídržná sila: 35 – 70 kg,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,PABS,,,"['20', '8']",8,20,PABS 20-Li G8,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,Aku uhlová brúska PWSA,,,"['20', '4']",4,20,Aku uhlová brúska PWSA 20-Li G4,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,príslušenstva na bežné brúsne kotúče do Ø,,,['125'],125,,príslušenstva             na bežné brúsne kotúče do Ø 125 mm,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,betónu alebo dlaždíc na trávnik PGSA,,,"['4', '3']",3,4,betónu alebo dlaždíc       na trávnik PGSA 4 B3,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,akumulátor:,,,"['4', '2']",2,4,akumulátor: 4 V Li-Ion (2 Ah),14. 5. 2026 - 20. 5. 2026,Ostatné
+61,"nôž na živý plot, šírka:",,,['12'],12,,"nôž na živý plot, šírka: 12 cm",14. 5. 2026 - 20. 5. 2026,Ostatné
+61,PEMH,,,"['2400', '2']",2,2400,PEMH 2400 B2,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,a kríkov s hrúbkou kapacita:,,,"['2,0']","2,0",,"a kríkov s hrúbkou                        kapacita: 2,0 Ah",14. 5. 2026 - 20. 5. 2026,Ostatné
+61,PARKSIDE ® -,,-33%,"['33', '40', '14,99']","14,99",33,"PARKSIDE ®      -33%      do max. 40 mm                              14,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+61,Aku ventilátor objem vaku:,45 l,,['45'],45,,Aku ventilátor            objem vaku: 45 l,14. 5. 2026 - 20. 5. 2026,Ostatné
+61,bez akumulátora a nabíjačky,,,"['29,99', '4,0']","4,0","29,99","bez akumulátora a nabíjačky 29,99                                   kapacita: 4,0 Ah",14. 5. 2026 - 20. 5. 2026,Ostatné
+61,s praktickým držadlom menovité napätie:,,,['20'],20,,s praktickým držadlom                                  menovité napätie: 20 V,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,PARKSIDE ®,,,['61'],61,,PARKSIDE ®                        61,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,prstencové kľúče,,,['32'],32,,prstencové kľúče                                         32,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,alebo strojové čistenie,,,"['19,99']","19,99",,"alebo strojové čistenie 19,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,roky priemer:,,,"['6,3', '14,99']","14,99","6,3","roky                                        priemer: 6,3 mm   14,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,záruka dĹžka:,,,['8'],8,,záruka                                       dĹžka: 8 m,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,PISG,,,"['120', '5', '2.8', '4']",4,120,PISG 120 D5                 PKI 2.8 C4,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,"tyčové elektródy vedení, odtokov PWS",,,"['230', '5']",5,230,"tyčové elektródy            vedení, odtokov        PWS 230 E5",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,UŠETRÍTE -,,-28%,['28'],28,,UŠETRÍTE                                              -28%,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,zvárací prúd:,,,"['10', '120', '5,']","5,",10,"zvárací prúd: 10 - 120 A 5,- a iných ťažko         na rezanie kovu, dlaždíc, muriva,",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,odporúčaná hrúbka prístupných miest,,,"['39,99']","39,99",,"odporúčaná hrúbka           prístupných miest 39,99 na bežné rezné kotúče",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,materiálu:,,,"['1,5', '3', '29,99', '230']",230,"1,5","materiálu: 1,5 - 3 mm BEŽNÁ CENA funkcia záznamu 29,99 do Ø 230 mm",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,príkon:,,,"['3300', '64,99', '14', '69,99']","69,99",3300,"príkon: 3300 W   64,99      obrázkov               závit hriadeľa: M14 69,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,príkon:,,,['2000'],2000,,príkon: 2000 W,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,zoskrutkovanie PLLM,,,"['10', '1']",1,10,zoskrutkovanie           PLLM 10 A1,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,PUG,,,"['1550', '49,99', '9,99', '1,5', '24,99']","24,99",1550,"PUG 1550 A    49,99        predĹženia    9,99       dĹžka: 1,5 m 24,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,výška podstavca:,,,"['78', '39,99', '3', '4', '7,99', '19,99']","19,99",78,"výška podstavca: 78 cm 39,99 pomocou 3/4“ rúrky 7,99 pracovný rozsah 19,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+62,max. nosnosť:,150 kg,,"['150', '2']",2,150,max. nosnosť: 150 kg       s vonkajším závitom      lasera: 2 m,14. 5. 2026 - 20. 5. 2026,Ostatné
+62,UŠETRÍTE,,,,"64,99","5,","UŠETRÍTE
+5,-
+BEŽNÁ CENA
+64,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+63,na dlaždice,1 kus,,"['1', '3']",3,1,na dlaždice                         1 kus     3 kusy,14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+63,Lepiaca páska,,,"['2,99', '3,99']","3,99","2,99","Lepiaca páska 2,99     3,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+63,max. otáčky:,,,"['11', '000', '14,99']","14,99",11,"max. otáčky: 11 000 / min. 14,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+63,¼“ šesťhranné upnutie,,,"['11,99', '15', '50']",50,"11,99","¼“ šesťhranné upnutie 11,99 dĹžka: 15 m - 50 m",14. 5. 2026 - 20. 5. 2026,Ostatné
+63,alebo M,1 kus,,"['14', '1', '1']",1,14,alebo M14                 1 kus / 1 balenie,14. 5. 2026 - 20. 5. 2026,Ostatné
+63,Súprava vrtákov,,-28%,"['3,99', '28', '33']",33,"3,99","Súprava vrtákov 3,99                      -28%                       -33%",14. 5. 2026 - 20. 5. 2026,Ostatné
+63,LED svietidlo,,,"['4,99', '9,99']","9,99","4,99","LED svietidlo 4,99           Kliešte     9,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+63,UŠETRÍTE -,,-25%,"['25', '25']",25,25,UŠETRÍTE                 -25%                       -25%,14. 5. 2026 - 20. 5. 2026,Ostatné
+63,na upnutie a fixáciu obrobkov,,,"['6,99']","6,99",,"na upnutie a fixáciu obrobkov 6,99 PARKSIDE ®          PARKSIDE ®",14. 5. 2026 - 20. 5. 2026,Ostatné
+63,UŠETRÍTE,,,,"6,99","1,","UŠETRÍTE
+1,-
+BEŽNÁ CENA
+6,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+63,UŠETRÍTE,,,,"7,99","1,","UŠETRÍTE
+1,-
+BEŽNÁ CENA
+7,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+64,v ponuke priemer:,,,['20'],20,,v ponuke                priemer: 20 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+64,aj iné -,,-33%,['33'],33,,aj iné                  -33%         SPICE&SOUL,14. 5. 2026 - 20. 5. 2026,Ostatné
+64,PLYN,,,"['9,99']","9,99",,"PLYN                                9,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+64,SPICE&SOUL materiál: sklo,,,"['7,49']","7,49",,"SPICE&SOUL                   materiál: sklo 7,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+64,INDUKCIA SKLOKERAMIKA priemer:,1 bal,,"['24', '1']",1,24,INDUKCIA SKLOKERAMIKA priemer: 24 cm Hrniec s pokrievkou 1 balenie,14. 5. 2026 - 20. 5. 2026,Ostatné
+64,Panvica,,,"['7,49']","7,49",,"Panvica          7,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+64,vrátane škrabky,,,"['17,99']","17,99",,"vrátane škrabky 17,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+64,príkon:,,,"['600', '67', '150']",150,600,príkon: 600 W              rozmery: 67 x 150 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+64,AŽ DO -,,,['50'],50,,AŽ    DO    -50    %,14. 5. 2026 - 20. 5. 2026,Ostatné
+65,priemer:,,,"['8', '14', '20']",20,8,"priemer: 8 cm, 14 cm a 20 cm",14. 5. 2026 - 20. 5. 2026,Ostatné
+65,rozmery: Ø,,,"['4', '18']",18,4,rozmery: Ø 4 x 18 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+65,rozmery:,,,"['1', '26,3', '16', '6,5', '8,19']","8,19",1,"rozmery: 1x 26,3 x 16 x 6,5 cm 8,19                 termináli priamo v predajni.",14. 5. 2026 - 20. 5. 2026,Ostatné
+65,alebo,,,"['2', '20,3', '11,5', '5', '4,99']","4,99",2,"alebo 2x 20,3 x 11,5 x 5 cm 4,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+65,priemer:,,,"['20', '24']",24,20,priemer: 20 cm Ø 24 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+65,Platné: Aktivovať -,,,['30'],30,,Platné:     Aktivovať -30,14. 5. 2026 - 20. 5. 2026,Ostatné
+65,objem:,"1,55 l",-50%,"['1,55', '50', '3,49']","3,49","1,55","objem: 1,55 l          -50% 3,49",14. 5. 2026 - 20. 5. 2026,Ostatné
+65,UŠETRÍTE,1 kus,,['1'],1,,UŠETRÍTE                                 1 kus,14. 5. 2026 - 20. 5. 2026,Ostatné
+65,šírka:,,,"['20', '28']",28,20,šírka: 20 cm alebo 28 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+65,dĹžka:,,,"['3', '19,99', '23', '27,5']","27,5",3,"dĹžka: 3 m                 Rýchlovarná kanvica 19,99      priemer: 23 cm priemer: 27,5 cm",14. 5. 2026 - 20. 5. 2026,Ostatné
+65,BC:,1 kus,,"['2,33', '3,50', '1']",1,"2,33","BC: 2,33 - 3,50) *         1 kus",14. 5. 2026 - 20. 5. 2026,Ostatné
+65,PRI POUŽITÍ U,,,,"2,99",,"PRI POUŽITÍ KUPÓNU
+2,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,dámske veľ.:,,,"['37', '41', '3,99']","3,99",37,"dámske veľ.: 37 - 41 3,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,pánske veľ.:,,,"['41', '45']",45,41,pánske veľ.: 41 - 45,14. 5. 2026 - 20. 5. 2026,Ostatné
+66,materiál:,,,['100'],100,,materiál: 100 % bavlna,14. 5. 2026 - 20. 5. 2026,Ostatné
+66,AA Mignon alebo AAA Micro,,,"['7,99']","7,99",,"AA Mignon alebo AAA Micro 7,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,alebo gramáž:,500 g,,['500'],500,,alebo          gramáž: 500 g / m²,14. 5. 2026 - 20. 5. 2026,Ostatné
+66,Zastrihávač vlasov rozmery:,,,"['50', '100']",100,50,Zastrihávač vlasov rozmery: 50 x 100 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+66,nastaviteľná dĹžka strihu:,,,"['9,99']","9,99",,"nastaviteľná dĹžka strihu: 9,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,Osuška,,,"['6,99']","6,99",,"Osuška        6,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,rozmery:,,,"['70', '140']",140,70,rozmery: 70 x 140 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+66,na bielizeň,,,"['19,99']","19,99",,"na bielizeň 19,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,Blade QP,,,"['1424', '20']",20,1424,Blade QP1424/20,14. 5. 2026 - 20. 5. 2026,Ostatné
+66,dĹžka šnúr:,,-31%,"['20', '31']",31,20,dĹžka šnúr: 20 m                                              -31%,14. 5. 2026 - 20. 5. 2026,Ostatné
+66,doba nabíjania:,,,"['8', '29,99']","29,99",8,"doba nabíjania: 8 hod. 29,99 spodnou stranou",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,doba prevádzky:,,,"['30', '19,99']","19,99",30,"doba prevádzky: 30 min. 19,99 rozmery predložiek:",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,použitie len na tvári,,,"['50', '40', '15,99']","15,99",50,"použitie len na tvári   50 x 40 cm      15,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,na WC:,,,"['47', '51']",51,47,na WC: 47 x 51 cm,14. 5. 2026 - 20. 5. 2026,Ostatné
+66,materiál: plast Sprchový záves,,,"['7,99']","7,99",,"materiál: plast           Sprchový záves 7,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,rozmery:,,-27%,"['37', '67', '39', '19,99', '100', '4,99', '17,99', '27']",27,37,"rozmery: 37 x 67 x 39 cm 19,99 materiál: 100 % polyester 4,99   17,99 -27%",14. 5. 2026 - 20. 5. 2026,Ostatné
+66,alebo,,,"['27', '68', '36', '180', '200', '12,99']","12,99",27,"alebo 27 x 68 x 36 cm     rozmery: 180 x 200 cm                    12,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,svetelný tok:,1350 l,,['1350'],1350,,svetelný tok: 1350 lm,14. 5. 2026 - 20. 5. 2026,Ostatné
+67,stupeň krytia: IP,,,"['44', '9,99', '2,99', '9,99']","9,99",44,"stupeň krytia: IP44 9,99               2,99                       9,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,rozmery: Ø,,,"['28', '6,7', '6,99', '1,99', '6,99']","6,99",28,"rozmery: Ø 28 x 6,7 cm 6,99 Domáce potreby 1,99      vákuových vakov 6,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,alebo Ø,,,"['28,8', '6,5']","6,5","28,8","alebo Ø 28,8 x 6,5 cm      rôzne druhy               rôzne druhy",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,✓možnosť otočenia zrkadla o,,,['360'],360,,✓možnosť otočenia zrkadla o 360°,14. 5. 2026 - 20. 5. 2026,Ostatné
+67,do kúpeľne,550 l,,"['3,99', '2,99', '550', '7,99']","7,99","3,99","do kúpeľne  3,99          do kúpeľne  2,99      svetelný tok: 550 lm 7,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,rôzne druhy rôzne druhy rozmery:,,,"['30', '9,7', '4,1']","4,1",30,"rôzne druhy               rôzne druhy           rozmery: 30 x 9,7 x 4,1 cm",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,Regál do kúpeľne Regál do kúpeľne priemer:,,,"['9,9']","9,9",,"Regál do kúpeľne         Regál do kúpeľne             priemer: 9,9 cm",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,materiál: bambus,,,"['14,99', '19,99', '3']",3,"14,99","materiál: bambus 14,99   materiál: bambus 19,99       3 druhy prúdov",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,rozmery:,,,"['25', '16', '76', '9,99', '23', '23', '77', '14,99']","14,99",25,"rozmery: 25 x 16 x 76 cm 9,99 rozmery: 23 x 23 x 77 cm 14,99 vrátane hadice, BEŽNÁ CENA",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,alebo,,,"['30', '30', '70', '40', '35', '60,5', '175', '6,99']","6,99",30,"alebo 30 x 30 x 70 cm    alebo 40 x 35 x 60,5 cm      dĹžka: 175 cm 6,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+67,-,,,,"14,99",25,"-25%
+19,99
+14,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+69,Darčekovú poukážku je možné nabiť v ľubovoľnej hodnote do,,,['100'],100,,Darčekovú poukážku je možné nabiť v ľubovoľnej hodnote do 100 eur pri pokladni.,14. 5. 2026 - 20. 5. 2026,Ostatné
+70,PLATÍ OD SOBOTY,,,"['16.', '5.']",5.,16.,PLATÍ OD SOBOTY 16. 5.   EXTRA     PONUKA,14. 5. 2026 - 20. 5. 2026,Ostatné
+70,DO NEDELE,,,"['17.', '5.', '2026']",2026,17.,DO NEDELE 17. 5. 2026,14. 5. 2026 - 20. 5. 2026,Ostatné
+70,OD NEDELE,,,"['17.', '5.', '20.', '5.']",5.,17.,OD   NEDELE   17. 5. DO STREDY   20. 5.,14. 5. 2026 - 20. 5. 2026,Ostatné
+70,PLATÍ OD SOBOTY,,,,2026,16.,"PLATÍ OD SOBOTY 16. 5.
+DO NEDELE 17. 5. 2026",14. 5. 2026 - 20. 5. 2026,Ostatné
+70,-,125 g,,,11,33,"-33%
+2,99
+1,99
+Maliny
+125 g balenie
+(=1 kg 15,92)
+Čerstvé
+zo Slovenska
+-41%
+BIO 5,49
+3,19
+Špargľa zelená
+500 g balenie
+(=1 kg 6,38)
+70
+S70-SK-KW20-LFT-OD_DO_1_1_L-1020-11",14. 5. 2026 - 20. 5. 2026,Ostatné
+71,so zelenými olivami orechový alebo makový,505 g,,['505'],505,,so zelenými olivami    orechový alebo makový     505 g,14. 5. 2026 - 20. 5. 2026,Ostatné
+71,,,,,"1,35","1,79","1,79 -24%
+1,35",14. 5. 2026 - 20. 5. 2026,Ostatné
+71,,,,,"1,79","2,29","2,29 -21%
+1,79",14. 5. 2026 - 20. 5. 2026,Ostatné
+72,Mozzarella,,,['45'],45,,Mozzarella 45 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+72,pevný podiel,,,"['0,79', '3,29', '5,19']","5,19","0,79","pevný podiel   0,79                      3,29                       5,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+72,rôzne druhy,2 kg,-25%,"['1,69', '2,29', '2', '7,99', '25']",25,"1,69","rôzne druhy 1,69       rôzne druhy  2,29        2 kg     7,99 -25%",14. 5. 2026 - 20. 5. 2026,Ostatné
+72,,100 g,,,100,,100 g vyrobených zo,14. 5. 2026 - 20. 5. 2026,Ostatné
+72,,,,,"5,99","7,99","7,99 -25%
+5,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+72,-,,,,"2,29",23,"-23%
+2,99
+2,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+72,,,,,"0,99","1,19","1,19 -16%
+0,99",14. 5. 2026 - 20. 5. 2026,Ostatné
+73,Oblátky,,,"['0,25']","0,25",,"Oblátky   0,25",14. 5. 2026 - 20. 5. 2026,Ostatné
+73,rôzne druhy,,,"['0,89']","0,89",,"rôzne druhy 0,89",14. 5. 2026 - 20. 5. 2026,Ostatné
+73,Makrela filety,1 kg,,"['0,99', '1', '4,17', '0,38']","0,38","0,99","Makrela filety                           0,99        (=1 kg KC: 4,17 / 0,38",14. 5. 2026 - 20. 5. 2026,Ostatné
+73,BC:,,,"['6,33']","6,33",,"BC: 6,33) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+73,+ záloh (=,1 kg,,"['1', '16,25']","16,25",1,"+ záloh                (=1 kg KC: 16,25 /",14. 5. 2026 - 20. 5. 2026,Ostatné
+73,Uhorky za obal,,,"['0,15', '17,77']","17,77","0,15","Uhorky                    za obal 0,15           A: 17,77) *",14. 5. 2026 - 20. 5. 2026,Ostatné
+73,TENTO PROPAGAČNÝ LETÁK OBSAHUJE,,,['27'],27,,TENTO     PROPAGAČNÝ         LETÁK   OBSAHUJE       27-PERCENTNÝ,14. 5. 2026 - 20. 5. 2026,Ostatné
+73,V LETÁKU JE AŽ,,,['106'],106,,V LETÁKU JE AŽ 106 SLOVENSKÝCH VÝROBKOV.,14. 5. 2026 - 20. 5. 2026,Ostatné
+73,BEŽNÁ CENA,,,,"0,38",,"BEŽNÁ CENA
+0,38",14. 5. 2026 - 20. 5. 2026,Ostatné
+73,,,,,"4,69","6,49","6,49 -27%
+4,69",14. 5. 2026 - 20. 5. 2026,Ostatné
+74,tyčinka,,,"['0,52']","0,52",,"tyčinka    0,52",14. 5. 2026 - 20. 5. 2026,Ostatné
+74,Nanuková (=,1 kg,,"['1', '2,15']","2,15",1,"Nanuková                         (=1 kg 2,15)",14. 5. 2026 - 20. 5. 2026,Ostatné
+74,Eidam,,,['45'],45,,Eidam 45 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+74,pečeňová paštéta,,,"['1,89']","1,89",,"pečeňová paštéta 1,89",14. 5. 2026 - 20. 5. 2026,Ostatné
+74,Točená saláma,,,"['2,59', '0,69', '2,29']","2,29","2,59","Točená saláma 2,59         Pšeničná múka 0,69                      2,29",14. 5. 2026 - 20. 5. 2026,Ostatné
+75,rôzne druhy,,,"['0,85']","0,85",,"rôzne druhy 0,85",14. 5. 2026 - 20. 5. 2026,Ostatné
+75,rôzne druhy,,,"['1,39', '0,49', '1,79']","1,79","1,39","rôzne druhy 1,39                            0,49     Pohánka   1,79",14. 5. 2026 - 20. 5. 2026,Ostatné
+75,,,,,"0,75","0,98","0,98 -23%
+0,75",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,nneeddeellee,,,['1177.'],1177.,,nneeddeellee 1177..,14. 5. 2026 - 20. 5. 2026,Ostatné
+76,ssttrreeddyy,,,['2200.'],2200.,,ssttrreeddyy 2200..,14. 5. 2026 - 20. 5. 2026,Ostatné
+76,strapcové,,,"['3,99', '2,19', '20', '1']",1,"3,99","strapcové 3,99 2,19            NAD 20 EUR 1",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,PRI,600 g,,['600'],600,,PRI             600 g balenie,14. 5. 2026 - 20. 5. 2026,Ostatné
+76,M (=,1 kg,,"['1', '3,65']","3,65",1,"M            (=1 kg 3,65)",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,NAD,,,"['20', '1', '40']",40,20,NAD  20 EUR 1                                          -40  %,14. 5. 2026 - 20. 5. 2026,Ostatné
+76,podiel mäsa,,,"['0,65']","0,65",,"podiel mäsa             0,65",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,"bez kosti, v celku",,-19%,"['5,19', '19']",19,"5,19","bez kosti, v celku 5,19 -19%  Šunka",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,pultový predaj,,,"['4,19']","4,19",,"pultový predaj      4,19      z morčacích pŕs",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,Maslo,,,['82'],82,,Maslo 82 %,14. 5. 2026 - 20. 5. 2026,Ostatné
+76,Cena za,2 kus,,"['2', '3,99']","3,99",2,"Cena za 2 kusy 3,99",14. 5. 2026 - 20. 5. 2026,Mliečne výrobky / Syry
+76,"Kaufland Slovenská republika v. o. s., Trnavská cesta",,,"['41', '831', '04', '3,', '35', '790', '164.']",164.,41,"Kaufland Slovenská republika v. o. s., Trnavská cesta 41/A, 831 04 Bratislava 3, IČO: 35 790 164.",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,Informácie aj na tel. č.,,,"['0800', '15', '28', '35', '8', '00', '18', '00,', '8', '00', '17', '00']",00,0800,"Informácie aj na tel. č. 0800 15 28 35 (po – pia 8:00 – 18:00, so 8:00 – 17:00).",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,,,,,"4,19","5,19","5,19 -19%
+4,19",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,,,,,94,,"94 %
+podiel mäsa",14. 5. 2026 - 20. 5. 2026,Ostatné
+76,-,,,,"0,65",53,"-53%
+1,39
+0,65",14. 5. 2026 - 20. 5. 2026,Ostatné

@@ -1,0 +1,1118 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LacnéNákupy — Zľavy v letákoch</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #f8f7f3;
+      --surface: #ffffff;
+      --border:  #e9e7e1;
+      --border2: #d5d2c8;
+      --text:    #18181b;
+      --muted:   #71717a;
+      --accent:  #e8390e;
+      --accent2: #d12f08;
+      --accent-light: #fff2ef;
+      --tag-bg:  #f0efeb;
+      --topbar:  #18181b;
+      --topbar-border: rgba(255,255,255,0.07);
+      --lidl-color:     #ffe500;
+      --billa-color:    #e2001a;
+      --kaufland-color: #e30613;
+      --tesco-color:    #00539f;
+      --coop-color:     #00823e;
+      --radius: 14px;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 8px 24px rgba(0,0,0,0.10), 0 2px 6px rgba(0,0,0,0.06);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', system-ui, sans-serif;
+      font-weight: 400;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── Topbar ─────────────────────────────────────────────────────────────── */
+    .topbar {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(24,24,27,0.96);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--topbar-border);
+      color: #fff;
+      padding: 10px 20px 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+    }
+
+    /* top row: logo + lang switcher */
+    .topbar-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      min-height: 32px;
+    }
+
+    .topbar-logo {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 17px;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+      flex-shrink: 0;
+      line-height: 1;
+    }
+    .topbar-logo span { color: var(--accent); }
+
+    /* Language switcher */
+    .lang-row { display: flex; gap: 2px; flex-shrink: 0; }
+    .lang-btn {
+      background: none;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      cursor: pointer;
+      padding: 4px 7px;
+      font-size: 15px;
+      line-height: 1;
+      opacity: 0.38;
+      transition: opacity 0.15s, background 0.15s, border-color 0.15s;
+      color: inherit;
+      user-select: none;
+    }
+    .lang-btn:hover { opacity: 0.7; }
+    .lang-btn.active {
+      opacity: 1;
+      background: rgba(255,255,255,0.11);
+      border-color: rgba(255,255,255,0.2);
+    }
+
+    /* Store chips — horizontal scroll, no wrap */
+    .stores-row {
+      display: flex;
+      gap: 6px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+      padding-bottom: 2px;
+    }
+    .stores-row::-webkit-scrollbar { display: none; }
+
+    .store-chip {
+      border-radius: 100px;
+      padding: 5px 13px;
+      font-size: 11px;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      transition: opacity 0.15s, background 0.15s, border-color 0.15s, color 0.15s;
+      user-select: none;
+      font-weight: 600;
+      border: 1px solid rgba(255,255,255,0.14);
+      background: rgba(255,255,255,0.05);
+      color: rgba(255,255,255,0.42);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .store-chip:hover { color: rgba(255,255,255,0.82); border-color: rgba(255,255,255,0.28); }
+    .store-chip[data-store="Lidl"]  { color: #0050aa; }
+    .store-chip[data-store="Billa"] { color: #ffd700; }
+    .store-chip.active { opacity: 1; border-color: transparent; color: #000; }
+    .store-chip[data-store="Lidl"].active    { background: var(--lidl-color); color: #0050aa; }
+    .store-chip[data-store="Billa"].active   { background: var(--billa-color); color: #fff; }
+    .store-chip[data-store="Kaufland"].active{ background: var(--kaufland-color); color: #fff; }
+    .store-chip[data-store="Tesco"].active   { background: var(--tesco-color);    color: #fff; }
+    .store-chip[data-store="COOP"].active    { background: var(--coop-color);     color: #fff; }
+
+    /* Desktop: single-row topbar */
+    @media (min-width: 640px) {
+      .topbar {
+        flex-direction: row;
+        align-items: center;
+        padding: 0 28px;
+        height: 52px;
+        gap: 18px;
+      }
+      .topbar-top { flex-shrink: 0; }
+      .stores-row { flex: 1; justify-content: center; }
+    }
+
+    /* ── Hero ──────────────────────────────────────────────────────────────── */
+    .hero {
+      padding: 48px 24px 26px;
+      max-width: 880px;
+      margin: 0 auto;
+    }
+    .hero-label {
+      font-size: 11px;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 14px;
+      font-weight: 500;
+    }
+    .hero h1 {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: clamp(30px, 5.5vw, 54px);
+      letter-spacing: -0.04em;
+      line-height: 1.0;
+      margin-bottom: 14px;
+    }
+    .hero h1 em { font-style: normal; color: var(--accent); }
+    .hero-desc {
+      color: var(--muted);
+      font-size: 15px;
+      max-width: 530px;
+      line-height: 1.65;
+    }
+
+    /* ── Search ────────────────────────────────────────────────────────────── */
+    .search-section {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 0 24px 18px;
+    }
+    .search-row { display: flex; gap: 10px; }
+    .search-input-wrap { flex: 1; position: relative; min-width: 0; }
+
+    .search-icon {
+      position: absolute; left: 16px; top: 50%; transform: translateY(-50%);
+      font-size: 17px; pointer-events: none; opacity: 0.45;
+    }
+    .search-clear {
+      position: absolute; right: 11px; top: 50%; transform: translateY(-50%);
+      background: var(--border2); border: none; border-radius: 50%;
+      width: 23px; height: 23px;
+      cursor: pointer; font-size: 12px; color: var(--muted);
+      display: none; align-items: center; justify-content: center;
+      transition: background 0.15s, color 0.15s;
+      line-height: 1;
+    }
+    .search-clear.visible { display: flex; }
+    .search-clear:hover { background: var(--border2); color: var(--text); }
+
+    #search-box {
+      width: 100%;
+      background: var(--surface);
+      border: 2px solid var(--border2);
+      border-radius: 13px;
+      padding: 15px 42px 15px 48px;
+      font-size: 16px;
+      font-family: 'DM Sans', sans-serif;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.18s, box-shadow 0.18s;
+      box-shadow: var(--shadow-sm);
+    }
+    #search-box::placeholder { color: var(--muted); }
+    #search-box:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 4px rgba(232,57,14,0.09), var(--shadow-sm);
+    }
+
+    .search-btn {
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: 13px;
+      padding: 15px 28px;
+      font-size: 15px;
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.15s, transform 0.1s, box-shadow 0.15s;
+      white-space: nowrap;
+      flex-shrink: 0;
+      box-shadow: var(--shadow-sm);
+    }
+    .search-btn:hover  { background: var(--accent2); box-shadow: var(--shadow-md); }
+    .search-btn:active { transform: scale(0.98); }
+    .search-btn:disabled { opacity: 0.45; cursor: not-allowed; transform: none; box-shadow: none; }
+
+    @media (max-width: 480px) {
+      .search-row { flex-direction: column; }
+      .search-btn { padding: 15px; text-align: center; }
+    }
+
+    /* ── Category row ──────────────────────────────────────────────────────── */
+    .cat-row-wrap {
+      max-width: 880px;
+      margin: 12px auto 0;
+      padding: 0 24px;
+      display: none;
+    }
+    .cat-row-label {
+      font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase;
+      color: var(--muted); margin-bottom: 8px; font-weight: 500;
+    }
+    .cat-row {
+      display: flex; flex-wrap: wrap; gap: 6px;
+    }
+    @media (max-width: 600px) {
+      .cat-row {
+        flex-wrap: nowrap; overflow-x: auto;
+        scrollbar-width: none; -webkit-overflow-scrolling: touch;
+        padding-bottom: 4px;
+      }
+      .cat-row::-webkit-scrollbar { display: none; }
+    }
+    .cat-chip {
+      border-radius: 100px;
+      padding: 7px 15px;
+      font-size: 12px; font-weight: 500;
+      cursor: pointer; transition: all 0.15s; user-select: none;
+      background: var(--tag-bg); border: 1.5px solid var(--border2); color: var(--muted);
+      white-space: nowrap; flex-shrink: 0;
+    }
+    .cat-chip:hover  { border-color: var(--accent); color: var(--accent); background: var(--accent-light); }
+    .cat-chip.active { background: var(--text); border-color: var(--text); color: #fff; }
+
+    /* ── Divider ───────────────────────────────────────────────────────────── */
+    .divider {
+      max-width: 880px; margin: 22px auto 20px;
+      padding: 0 24px; border-bottom: 1px solid var(--border);
+    }
+
+    /* ── Results ───────────────────────────────────────────────────────────── */
+    .results-section { max-width: 880px; margin: 0 auto; padding: 0 24px 72px; }
+
+    .status-bar {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 16px; min-height: 26px; flex-wrap: wrap; gap: 8px;
+    }
+    .status-text { font-size: 13px; color: var(--muted); }
+    .status-text strong { color: var(--text); font-weight: 600; }
+
+    /* ── View toggle ─────────────────────────────────────────────────────────── */
+    .view-toggle {
+      display: flex; align-items: center; gap: 2px;
+      background: var(--tag-bg); border: 1.5px solid var(--border2);
+      border-radius: 9px; padding: 3px; flex-shrink: 0;
+    }
+    .view-btn {
+      background: transparent; border: none; cursor: pointer;
+      padding: 5px 8px; border-radius: 6px; line-height: 0;
+      color: var(--muted); transition: background 0.15s, color 0.15s;
+    }
+    .view-btn.active { background: var(--surface); color: var(--text); box-shadow: 0 1px 3px rgba(0,0,0,0.10); }
+    .view-btn:hover:not(.active) { color: var(--text); }
+
+    /* ── Grid view (default) ─────────────────────────────────────────────────── */
+    #results {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+      gap: 14px;
+    }
+
+    /* ── Product card ──────────────────────────────────────────────────────── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: flex; flex-direction: column;
+      transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
+      animation: fadeUp 0.22s ease both;
+      text-decoration: none; color: inherit;
+      box-shadow: var(--shadow-sm);
+    }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(9px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .card:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-3px);
+      border-color: var(--border2);
+    }
+
+    .card-img-wrap { position: relative; overflow: hidden; }
+    .card-img {
+      width: 100%; aspect-ratio: 1; object-fit: contain;
+      background: #f5f4f0; padding: 14px; display: block;
+      transition: transform 0.3s;
+    }
+    .card:hover .card-img { transform: scale(1.04); }
+    .card-img-placeholder {
+      width: 100%; aspect-ratio: 1; background: #f0eeea;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 44px; color: var(--border2);
+    }
+
+    /* Discount badge */
+    .card-badge {
+      position: absolute; top: 9px; right: 9px;
+      background: var(--accent); color: #fff;
+      font-size: 10px; font-weight: 700; letter-spacing: 0.04em;
+      padding: 3px 8px; border-radius: 100px; line-height: 1.5;
+      box-shadow: 0 1px 6px rgba(232,57,14,0.45);
+    }
+
+    .card-body {
+      padding: 11px 14px 12px; flex: 1;
+      display: flex; flex-direction: column; gap: 3px;
+    }
+    .card-store {
+      font-size: 10px; font-weight: 600; letter-spacing: 0.07em;
+      text-transform: uppercase; color: var(--muted);
+      display: flex; align-items: center; gap: 5px;
+    }
+    .store-dot {
+      width: 7px; height: 7px; border-radius: 50%;
+      display: inline-block; flex-shrink: 0;
+    }
+    .store-dot.Lidl     { background: var(--lidl-color); outline: 1px solid #ccc; }
+    .store-dot.Billa    { background: var(--billa-color); }
+    .store-dot.Kaufland { background: var(--kaufland-color); }
+    .store-dot.Tesco    { background: var(--tesco-color); }
+    .store-dot.COOP     { background: var(--coop-color); }
+
+    .card-name {
+      font-size: 13px; font-weight: 500; color: var(--text);
+      line-height: 1.35; flex: 1;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .card-meta { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; margin-top: 2px; }
+    .card-category { font-size: 11px; color: var(--muted); }
+    .card-type-tag {
+      font-size: 10px; font-weight: 600; letter-spacing: 0.03em;
+      color: var(--accent); background: var(--accent-light);
+      padding: 1px 7px; border-radius: 100px;
+    }
+
+    .card-footer {
+      padding: 10px 14px; border-top: 1px solid var(--border);
+      display: flex; align-items: flex-end; justify-content: space-between;
+      flex-wrap: wrap; gap: 4px;
+    }
+    .card-price {
+      font-family: 'Syne', sans-serif; font-weight: 700;
+      font-size: 21px; color: var(--accent); line-height: 1;
+    }
+    .card-price-orig {
+      font-size: 11px; color: var(--muted); text-decoration: line-through; margin-top: 2px;
+    }
+    .card-dates { font-size: 10px; color: var(--muted); text-align: right; line-height: 1.5; }
+
+    /* ── Discount tag (list-view only, hidden in grid) ──────────────────────── */
+    .card-disc-tag {
+      display: none;
+      font-size: 10px; font-weight: 700; letter-spacing: 0.03em;
+      color: #fff; background: var(--accent);
+      padding: 2px 7px; border-radius: 100px; width: fit-content;
+    }
+
+    /* ── List view overrides ─────────────────────────────────────────────────── */
+    #results.list-view {
+      display: flex; flex-direction: column; gap: 6px;
+    }
+    #results.list-view .card {
+      flex-direction: row; align-items: stretch;
+    }
+    #results.list-view .card-img-wrap { display: none; }
+    #results.list-view .card-body {
+      flex-direction: row; align-items: center;
+      gap: 10px; padding: 11px 14px; min-width: 0;
+    }
+    #results.list-view .card-store {
+      min-width: 80px; flex-shrink: 0;
+    }
+    #results.list-view .card-name {
+      flex: 1; min-width: 0;
+      font-size: 14px;
+      -webkit-line-clamp: 1;  /* one line in list view */
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+      display: block;         /* override the -webkit-box display */
+    }
+    #results.list-view .card-meta     { display: none; }
+    #results.list-view .card-footer {
+      border-top: none; border-left: 1px solid var(--border);
+      flex-direction: column; justify-content: center; align-items: flex-end;
+      padding: 10px 14px; flex-shrink: 0; min-width: 100px; gap: 2px;
+    }
+    #results.list-view .card-disc-tag { display: block; }
+    #results.list-view .card-price    { font-size: 18px; }
+    #results.list-view .card-dates    { text-align: right; }
+
+    @media (max-width: 480px) {
+      #results.list-view .card-store { min-width: 60px; }
+      #results.list-view .card-footer { min-width: 86px; padding: 8px 10px; }
+      #results.list-view .card-price  { font-size: 16px; }
+    }
+
+    /* ── Kaufland banner ───────────────────────────────────────────────────── */
+    .kaufland-banner {
+      background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+      overflow: hidden; display: flex; align-items: stretch;
+      animation: fadeUp 0.28s ease both;
+      text-decoration: none; color: inherit;
+      transition: box-shadow 0.2s, transform 0.2s;
+      grid-column: 1 / -1;
+      box-shadow: var(--shadow-sm);
+    }
+    .kaufland-banner:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+    .kaufland-thumb { width: 110px; flex-shrink: 0; object-fit: cover; background: #f0eeea; }
+    .kaufland-info  { padding: 16px 20px; display: flex; flex-direction: column; justify-content: center; gap: 5px; }
+    .kaufland-tag   {
+      font-size: 10px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+      color: #fff; background: var(--kaufland-color);
+      border-radius: 100px; padding: 3px 10px; width: fit-content;
+    }
+    .kaufland-title    { font-family: 'Syne', sans-serif; font-weight: 700; font-size: 16px; }
+    .kaufland-subtitle { font-size: 13px; color: var(--muted); }
+    .kaufland-cta      { font-size: 13px; color: var(--accent); font-weight: 600; margin-top: 2px; }
+
+    /* ── State boxes ───────────────────────────────────────────────────────── */
+    .state-box {
+      text-align: center; padding: 64px 20px; color: var(--muted);
+      grid-column: 1 / -1;
+    }
+    .state-icon  { font-size: 52px; margin-bottom: 16px; }
+    .state-title {
+      font-family: 'Syne', sans-serif; font-weight: 700;
+      font-size: 20px; color: var(--text); margin-bottom: 8px;
+    }
+    .state-desc { font-size: 14px; line-height: 1.75; max-width: 420px; margin: 0 auto; }
+
+    .spinner {
+      display: inline-block; width: 14px; height: 14px;
+      border: 2px solid var(--border2); border-top-color: var(--accent);
+      border-radius: 50%; animation: spin 0.65s linear infinite;
+      vertical-align: middle; margin-right: 6px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ────────────────────────────────────────────────────────────── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 22px 24px; text-align: center;
+      font-size: 12px; color: var(--muted); line-height: 1.8;
+    }
+    footer a { color: var(--muted); text-decoration: none; }
+    footer a:hover { color: var(--text); }
+
+    /* ── Mobile adjustments ────────────────────────────────────────────────── */
+    @media (max-width: 480px) {
+      .hero                { padding: 28px 16px 18px; }
+      .search-section,
+      .cat-row-wrap,
+      .results-section     { padding-left: 14px; padding-right: 14px; }
+      .divider             { padding: 0 14px; }
+      #results             { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+      .kaufland-thumb      { width: 72px; }
+      .card-price          { font-size: 19px; }
+    }
+    @media (max-width: 360px) {
+      #results { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-top">
+    <div class="topbar-logo">Lacné<span>Nákupy</span></div>
+    <div class="lang-row">
+      <button class="lang-btn active" data-lang="sk" onclick="setLang('sk')" title="Slovenčina">🇸🇰</button>
+      <button class="lang-btn"        data-lang="hu" onclick="setLang('hu')" title="Magyar">🇭🇺</button>
+      <button class="lang-btn"        data-lang="en" onclick="setLang('en')" title="English">EN</button>
+      <button class="lang-btn"        data-lang="de" onclick="setLang('de')" title="Deutsch">🇩🇪</button>
+    </div>
+  </div>
+  <div class="stores-row">
+    <span class="store-chip active" data-store="Lidl"     onclick="toggleStore('Lidl')">Lidl</span>
+    <span class="store-chip active" data-store="Billa"    onclick="toggleStore('Billa')">Billa</span>
+    <span class="store-chip active" data-store="Kaufland" onclick="toggleStore('Kaufland')">Kaufland</span>
+    <span class="store-chip active" data-store="Tesco"    onclick="toggleStore('Tesco')">Tesco</span>
+    <span class="store-chip active" data-store="COOP"     onclick="toggleStore('COOP')">COOP</span>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="hero-label" id="hero-label"></div>
+  <h1><span id="hero-h1a"></span><br><em id="hero-h1b"></em></h1>
+  <p class="hero-desc" id="hero-desc"></p>
+</div>
+
+<div class="search-section">
+  <div class="search-row">
+    <div class="search-input-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="search-box" autocomplete="off" spellcheck="false" />
+      <button class="search-clear" id="search-clear" onclick="clearSearch()" aria-label="Clear">✕</button>
+    </div>
+    <button class="search-btn" id="search-btn" onclick="triggerSearch()"></button>
+  </div>
+</div>
+
+<div class="cat-row-wrap" id="cat-row-wrap">
+  <div class="cat-row-label" id="cat-row-label"></div>
+  <div class="cat-row" id="cat-row"></div>
+</div>
+
+<div class="divider"></div>
+
+<div class="results-section">
+  <div class="status-bar">
+    <div class="status-text" id="status-text"></div>
+    <div class="view-toggle">
+      <button class="view-btn" id="btn-grid" onclick="setViewMode('grid')" title="Grid view" aria-label="Grid view">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="currentColor">
+          <rect x="0.5" y="0.5" width="5.5" height="5.5" rx="1.5"/>
+          <rect x="9"   y="0.5" width="5.5" height="5.5" rx="1.5"/>
+          <rect x="0.5" y="9"   width="5.5" height="5.5" rx="1.5"/>
+          <rect x="9"   y="9"   width="5.5" height="5.5" rx="1.5"/>
+        </svg>
+      </button>
+      <button class="view-btn" id="btn-list" onclick="setViewMode('list')" title="List view" aria-label="List view">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="currentColor">
+          <rect x="0" y="1.5" width="15" height="2.5" rx="1.25"/>
+          <rect x="0" y="6.5" width="15" height="2.5" rx="1.25"/>
+          <rect x="0" y="11"  width="15" height="2.5" rx="1.25"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+  <div id="results"></div>
+</div>
+
+<footer>
+  <div>
+    <a href="https://www.lidl.sk"      target="_blank">lidl.sk</a> ·
+    <a href="https://www.billa.sk"     target="_blank">billa.sk</a> ·
+    <a href="https://www.kaufland.sk"  target="_blank">kaufland.sk</a> ·
+    <a href="https://www.tesco.sk"     target="_blank">tesco.sk</a> ·
+    <a href="https://www.coop.sk"      target="_blank">coop.sk</a>
+  </div>
+  <div id="footer-note"></div>
+</footer>
+
+<script>
+  // ── i18n ───────────────────────────────────────────────────────────────────
+
+  const LANG = {
+    sk: {
+      title:         'LacnéNákupy — Zľavy v letákoch',
+      heroLabel:     'Aktuálne zľavy · Lidl + Billa + Kaufland + Tesco + COOP · Priamo od predajcov',
+      heroH1a:       'Čo je dnes',
+      heroH1b:       'v akcii?',
+      heroDesc:      'Vyhľadajte produkt a okamžite uvidíte konkrétne položky s cenami z aktuálnych letákov Lidl, Billa, Kaufland, Tesco a COOP — vrátane obrázku a priameho odkazu.',
+      placeholder:   'Napr. mlieko, chlieb, šunka, pivo…',
+      searchBtn:     'Hľadať',
+      catLabel:      'Kategória',
+      emptyTitle:    'Vyhľadajte produkt',
+      emptyDesc:     'Napíšte čo hľadáte, alebo zobrazte všetky akcie.',
+      emptyNote:     'Dáta priamo z Lidl.sk, Billa.sk, Kaufland.sk, Tesco.sk a COOP.sk · Aktuálny týždeň',
+      notFoundTitle: 'Nič sme nenašli',
+      notFoundFn:    q => `Pre „${q}" sme v aktuálnych letákoch nič nenašli. Skúste iný výraz alebo kategóriu.`,
+      loadingBtn:    'Načítavam…',
+      loadingStatus: 'Načítavam aktuálne letáky…',
+      errorTitle:    'Nepodarilo sa načítať',
+      errorDesc:     'Uistite sa, že beží python server.py.',
+      statusFn:      (n, q, cat, s) => `<strong>${n}</strong> produktov${q ? ` pre „${q}"` : ''}${cat} · ${s}`,
+      kTitle:        'Aktuálny leták Kaufland',
+      kSubFn:        p => `Platný ${p} · Produkty nie sú dostupné cez API`,
+      kPeriodFn:     (f, u) => f && u ? `${f} – ${u}` : 'aktuálny týždeň',
+      kCta:          'Otvoriť celý leták →',
+      footerNote:    'Ceny sú orientačné · Platia do vypredania zásob',
+      cats: {
+        'Ovocie & zelenina':    'Ovocie & zelenina',
+        'Mäso & ryby':          'Mäso & ryby',
+        'Mliečne výrobky':      'Mliečne výrobky',
+        'Syry':                 'Syry',
+        'Pekáreň':              'Pekáreň',
+        'Sladkosti & snacky':   'Sladkosti & snacky',
+        'Nápoje':               'Nápoje',
+        'Mrazené':              'Mrazené',
+        'Trvanlivé potraviny':  'Trvanlivé potraviny',
+        'Drogéria & kozmetika': 'Drogéria & kozmetika',
+        'Dom & záhrada':        'Dom & záhrada',
+        'Ostatné':              'Ostatné',
+      },
+    },
+
+    hu: {
+      title:         'LacnéNákupy — Heti akciók',
+      heroLabel:     'Aktuális akciók · Lidl + Billa + Kaufland + Tesco + COOP · Közvetlenül a kereskedőktől',
+      heroH1a:       'Mi van ma',
+      heroH1b:       'akcióban?',
+      heroDesc:      'Keressen egy terméket, és azonnal látja a konkrét tételeket a Lidl, Billa, Kaufland, Tesco és COOP aktuális szórólapjaiból — képpel és közvetlen linkkel.',
+      placeholder:   'Pl. tej, kenyér, sonka, sör…',
+      searchBtn:     'Keresés',
+      catLabel:      'Kategória',
+      emptyTitle:    'Keressen terméket',
+      emptyDesc:     'Írja be, mit keres, vagy böngésszen az összes akció között.',
+      emptyNote:     'Adatok közvetlenül a Lidl.sk, Billa.sk, Kaufland.sk, Tesco.sk és COOP.sk oldalakról · Aktuális hét',
+      notFoundTitle: 'Semmi sem található',
+      notFoundFn:    q => `„${q}" keresésre nem találtunk semmit az aktuális szórólapokban. Próbáljon más kifejezést.`,
+      loadingBtn:    'Betöltés…',
+      loadingStatus: 'Aktuális szórólapok betöltése…',
+      errorTitle:    'Betöltés sikertelen',
+      errorDesc:     'Győződjön meg arról, hogy fut a python server.py.',
+      statusFn:      (n, q, cat, s) => `<strong>${n}</strong> termék${q ? ` „${q}" keresésre` : ''}${cat} · ${s}`,
+      kTitle:        'Aktuális Kaufland szórólap',
+      kSubFn:        p => `Érvényes: ${p} · Termékek nem érhetők el API-n`,
+      kPeriodFn:     (f, u) => f && u ? `${f} – ${u}` : 'aktuális hét',
+      kCta:          'Teljes szórólap megnyitása →',
+      footerNote:    'Az árak tájékoztató jellegűek · A készlet erejéig érvényesek',
+      cats: {
+        'Ovocie & zelenina':    'Gyümölcs & zöldség',
+        'Mäso & ryby':          'Hús & hal',
+        'Mliečne výrobky':      'Tejtermékek',
+        'Syry':                 'Sajt',
+        'Pekáreň':              'Pékárú',
+        'Sladkosti & snacky':   'Édességek & snackek',
+        'Nápoje':               'Italok',
+        'Mrazené':              'Fagyasztott',
+        'Trvanlivé potraviny':  'Tartós élelmiszerek',
+        'Drogéria & kozmetika': 'Drogéria & kozmetika',
+        'Dom & záhrada':        'Ház & kert',
+        'Ostatné':              'Egyéb',
+      },
+    },
+
+    en: {
+      title:         'LacnéNákupy — Weekly Deals',
+      heroLabel:     'Current deals · Lidl + Billa + Kaufland + Tesco + COOP · Direct from retailers',
+      heroH1a:       "What's on",
+      heroH1b:       'sale today?',
+      heroDesc:      'Search for a product and instantly see specific items with prices from current Lidl, Billa, Kaufland, Tesco and COOP flyers — with images and direct links.',
+      placeholder:   'e.g. milk, bread, ham, beer…',
+      searchBtn:     'Search',
+      catLabel:      'Category',
+      emptyTitle:    'Search for a product',
+      emptyDesc:     'Type what you\'re looking for, or browse all current deals.',
+      emptyNote:     'Data from Lidl.sk, Billa.sk, Kaufland.sk, Tesco.sk & COOP.sk · Current week',
+      notFoundTitle: 'Nothing found',
+      notFoundFn:    q => `Nothing found for "${q}" in current flyers. Try a different search term or category.`,
+      loadingBtn:    'Loading…',
+      loadingStatus: 'Loading current flyers…',
+      errorTitle:    'Failed to load',
+      errorDesc:     'Make sure python server.py is running.',
+      statusFn:      (n, q, cat, s) => `<strong>${n}</strong> products${q ? ` for "${q}"` : ''}${cat} · ${s}`,
+      kTitle:        'Current Kaufland flyer',
+      kSubFn:        p => `Valid ${p} · Individual products not available via API`,
+      kPeriodFn:     (f, u) => f && u ? `${f} – ${u}` : 'current week',
+      kCta:          'Open full flyer →',
+      footerNote:    'Prices are indicative · Valid while stocks last',
+      cats: {
+        'Ovocie & zelenina':    'Fruit & vegetables',
+        'Mäso & ryby':          'Meat & fish',
+        'Mliečne výrobky':      'Dairy',
+        'Syry':                 'Cheese',
+        'Pekáreň':              'Bakery',
+        'Sladkosti & snacky':   'Sweets & snacks',
+        'Nápoje':               'Beverages',
+        'Mrazené':              'Frozen',
+        'Trvanlivé potraviny':  'Pantry',
+        'Drogéria & kozmetika': 'Health & beauty',
+        'Dom & záhrada':        'Home & garden',
+        'Ostatné':              'Other',
+      },
+    },
+
+    de: {
+      title:         'LacnéNákupy — Wöchentliche Angebote',
+      heroLabel:     'Aktuelle Angebote · Lidl + Billa + Kaufland + Tesco + COOP · Direkt von den Händlern',
+      heroH1a:       'Was ist heute',
+      heroH1b:       'im Angebot?',
+      heroDesc:      'Suchen Sie ein Produkt und sehen Sie sofort konkrete Artikel mit Preisen aus aktuellen Prospekten von Lidl, Billa, Kaufland, Tesco und COOP — mit Bild und Direktlink.',
+      placeholder:   'z.B. Milch, Brot, Schinken, Bier…',
+      searchBtn:     'Suchen',
+      catLabel:      'Kategorie',
+      emptyTitle:    'Produkt suchen',
+      emptyDesc:     'Tippen Sie, was Sie suchen, oder stöbern Sie in allen aktuellen Angeboten.',
+      emptyNote:     'Daten von Lidl.sk, Billa.sk, Kaufland.sk, Tesco.sk & COOP.sk · Aktuelle Woche',
+      notFoundTitle: 'Nichts gefunden',
+      notFoundFn:    q => `Für „${q}" haben wir in aktuellen Prospekten nichts gefunden. Versuchen Sie einen anderen Begriff.`,
+      loadingBtn:    'Laden…',
+      loadingStatus: 'Lade aktuelle Prospekte…',
+      errorTitle:    'Laden fehlgeschlagen',
+      errorDesc:     'Stellen Sie sicher, dass python server.py läuft.',
+      statusFn:      (n, q, cat, s) => `<strong>${n}</strong> Produkte${q ? ` für „${q}"` : ''}${cat} · ${s}`,
+      kTitle:        'Aktueller Kaufland-Prospekt',
+      kSubFn:        p => `Gültig ${p} · Einzelne Produkte nicht per API verfügbar`,
+      kPeriodFn:     (f, u) => f && u ? `${f} – ${u}` : 'aktuelle Woche',
+      kCta:          'Gesamten Prospekt öffnen →',
+      footerNote:    'Preise sind Richtwerte · Solange der Vorrat reicht',
+      cats: {
+        'Ovocie & zelenina':    'Obst & Gemüse',
+        'Mäso & ryby':          'Fleisch & Fisch',
+        'Mliečne výrobky':      'Milchprodukte',
+        'Syry':                 'Käse',
+        'Pekáreň':              'Backwaren',
+        'Sladkosti & snacky':   'Süßigkeiten & Snacks',
+        'Nápoje':               'Getränke',
+        'Mrazené':              'Tiefkühlkost',
+        'Trvanlivé potraviny':  'Haltbare Lebensmittel',
+        'Drogéria & kozmetika': 'Drogerie & Kosmetik',
+        'Dom & záhrada':        'Haus & Garten',
+        'Ostatné':              'Sonstiges',
+      },
+    },
+  };
+
+  let currentLang = localStorage.getItem('lang') || 'sk';
+  function t(k) { return LANG[currentLang][k]; }
+
+  function applyLang() {
+    const L = LANG[currentLang];
+    document.documentElement.lang            = currentLang;
+    document.title                           = L.title;
+    document.getElementById('hero-label').textContent    = L.heroLabel;
+    document.getElementById('hero-h1a').textContent      = L.heroH1a;
+    document.getElementById('hero-h1b').textContent      = L.heroH1b;
+    document.getElementById('hero-desc').textContent     = L.heroDesc;
+    document.getElementById('search-box').placeholder    = L.placeholder;
+    document.getElementById('search-btn').textContent    = loaded ? L.searchBtn : L.searchBtn;
+    document.getElementById('cat-row-label').textContent = L.catLabel;
+    document.getElementById('footer-note').textContent   = L.footerNote;
+    document.querySelectorAll('.lang-btn').forEach(b =>
+      b.classList.toggle('active', b.dataset.lang === currentLang)
+    );
+  }
+
+  function setLang(lang) {
+    currentLang = lang;
+    localStorage.setItem('lang', lang);
+    applyLang();
+    if (loaded) { buildCategoryRow(); filterAndRender(box.value.trim()); }
+    else showEmptyState();
+  }
+
+  function showEmptyState() {
+    document.getElementById('results').innerHTML = `
+      <div class="state-box">
+        <div class="state-icon">🛒</div>
+        <div class="state-title">${t('emptyTitle')}</div>
+        <div class="state-desc">
+          ${t('emptyDesc')}<br><br>
+          <small style="opacity:.6">${t('emptyNote')}</small>
+        </div>
+      </div>`;
+  }
+
+  // ── Diacritic-insensitive search helper ───────────────────────────────────
+  // Strips accents so "rozok" matches "rožok", "sor" matches "sör", etc.
+  function deaccent(s) {
+    return s.normalize('NFD').replace(/\p{Diacritic}/gu, '');
+  }
+
+  // ── Search synonyms (SK + EN + DE + HU) ───────────────────────────────────
+  const SYNONYMS = {
+    // English → Slovak
+    milk:'mlieko', bread:'chlieb', butter:'maslo', eggs:'vajcia',
+    cheese:'syr', yogurt:'jogurt', yoghurt:'jogurt', chicken:'kuracie',
+    ham:'šunka', beer:'pivo', coffee:'káva', tea:'čaj',
+    chocolate:'čokoláda', water:'voda', sugar:'cukor',
+    meat:'mäso', fish:'ryba', sausage:'klobása', flour:'múka', oil:'olej',
+    // German → Slovak
+    milch:'mlieko', brot:'chlieb', käse:'syr', joghurt:'jogurt',
+    hühnchen:'kuracie', hähnchen:'kuracie', schinken:'šunka',
+    bier:'pivo', kaffee:'káva', tee:'čaj', schokolade:'čokoláda',
+    wasser:'voda', zucker:'cukor', fleisch:'mäso', fisch:'ryba',
+    wurst:'klobása', mehl:'múka', öl:'olej',
+    // Hungarian → Slovak
+    tej:'mlieko', kenyér:'chlieb', vaj:'maslo', tojás:'vajcia',
+    sajt:'syr', csirke:'kuracie', sonka:'šunka',
+    sör:'pivo', kávé:'káva', csokoládé:'čokoláda', víz:'voda',
+    hús:'mäso', hal:'ryba', liszt:'múka',
+  };
+
+  // ── Type → emoji mapping (used for image-less product placeholders) ─────────
+  const TYPE_EMOJI = {
+    // Beverages
+    'pivo':'🍺', 'víno':'🍷', 'liehovina':'🥃', 'energetický nápoj':'⚡',
+    'minerálna voda':'💧', 'džús':'🥤', 'káva':'☕', 'čaj':'🍵',
+    'kakao':'🍫', 'limonáda':'🥤', 'mošt':'🍎',
+    // Meat & deli
+    'kuracie':'🍗', 'morčacie':'🍗', 'kačacie':'🦆',
+    'bravčové':'🥩', 'hovädzie':'🥩', 'jahňacie':'🥩',
+    'šunka':'🥩', 'klobása':'🌭', 'slanina':'🥓',
+    'tlačenka':'🥩', 'párky':'🌭', 'jaternica':'🌭',
+    'gyros':'🌯', 'ryba':'🐟', 'morské plody':'🦐',
+    // Dairy
+    'mlieko':'🥛', 'jogurt':'🥛', 'maslo':'🧈', 'smotana':'🥛',
+    'tvaroh':'🥛', 'kefír':'🥛', 'nátierka':'🧀',
+    // Cheese
+    'syr':'🧀',
+    // Bakery
+    'chlieb':'🍞', 'rožok':'🥐', 'bageta':'🥖', 'croissant':'🥐',
+    'závin':'🥐', 'donut':'🍩', 'koláč':'🧁',
+    'taštička':'🥐', 'toast':'🍞', 'tortilla':'🫓',
+    // Sweets & snacks
+    'čokoláda':'🍫', 'zmrzlina':'🍦', 'chipsy':'🍿',
+    'oblátka':'🍪', 'sušienka':'🍪', 'tyčinka':'🍫',
+    'bonbón':'🍬', 'orechy':'🥜', 'popcorn':'🍿',
+    // Produce
+    'paradajky':'🍅', 'paprika':'🫑', 'šalát':'🥗', 'špenát':'🌿',
+    'uhorka':'🥒', 'brokolica':'🥦', 'kapusta':'🥬',
+    'mrkva':'🥕', 'cibuľa':'🧅', 'cesnak':'🧄', 'zemiaky':'🥔',
+    'jablká':'🍎', 'banány':'🍌', 'pomaranč':'🍊', 'hrozno':'🍇',
+    'jahody':'🍓', 'broskyne':'🍑', 'čerešne':'🍒',
+    'ananás':'🍍', 'mango':'🥭', 'melón':'🍉', 'olivy':'🫒',
+    // Pantry
+    'cestoviny':'🍝', 'ryža':'🍚', 'múka':'🌾', 'olej':'🫙',
+    'kečup':'🍅', 'horčica':'🟡', 'majonéza':'🫙',
+    'džem':'🍯', 'med':'🍯', 'cukor':'🍬', 'soľ':'🧂',
+    'paštéta':'🥫', 'konzerva':'🥫',
+    'polievka':'🍲', 'müsli':'🌾',
+  };
+
+  // Category display order + icons (SK keys used internally)
+  const CAT_ORDER = [
+    'Ovocie & zelenina','Mäso & ryby','Mliečne výrobky','Syry',
+    'Pekáreň','Sladkosti & snacky','Nápoje','Mrazené',
+    'Trvanlivé potraviny','Drogéria & kozmetika','Dom & záhrada','Ostatné',
+  ];
+  const CAT_ICON = {
+    'Ovocie & zelenina':'🥦','Mäso & ryby':'🥩','Mliečne výrobky':'🥛',
+    'Syry':'🧀','Pekáreň':'🍞','Sladkosti & snacky':'🍫','Nápoje':'🍺',
+    'Mrazené':'🧊','Trvanlivé potraviny':'🥫','Drogéria & kozmetika':'🧴',
+    'Dom & záhrada':'🏠','Ostatné':'📦',
+  };
+
+  // ── State ──────────────────────────────────────────────────────────────────
+  let allProducts    = [];
+  let kauflandData   = null;
+  let loaded         = false;
+  let activeStores   = new Set(['Lidl','Billa','Kaufland','Tesco','COOP']);
+  let activeCategory = null;
+  let viewMode       = localStorage.getItem('viewMode') || 'grid';
+
+  function setViewMode(mode) {
+    viewMode = mode;
+    localStorage.setItem('viewMode', mode);
+    document.getElementById('results').classList.toggle('list-view', mode === 'list');
+    document.getElementById('btn-grid').classList.toggle('active', mode === 'grid');
+    document.getElementById('btn-list').classList.toggle('active', mode === 'list');
+  }
+
+  const box = document.getElementById('search-box');
+
+  box.addEventListener('keydown', e => { if (e.key === 'Enter') triggerSearch(); });
+  box.addEventListener('input', () => {
+    document.getElementById('search-clear').classList.toggle('visible', box.value.length > 0);
+    if (loaded) filterAndRender(box.value.trim());
+  });
+
+  function clearSearch() {
+    box.value = '';
+    document.getElementById('search-clear').classList.remove('visible');
+    box.focus();
+    if (loaded) filterAndRender('');
+  }
+
+  function triggerSearch() {
+    const q = box.value.trim();
+    if (loaded) filterAndRender(q); else loadAll(q);
+  }
+
+  function toggleStore(store) {
+    const chip = document.querySelector(`[data-store="${store}"]`);
+    if (activeStores.has(store)) {
+      if (activeStores.size <= 1) return;
+      activeStores.delete(store); chip.classList.remove('active');
+    } else {
+      activeStores.add(store); chip.classList.add('active');
+    }
+    if (loaded) { buildCategoryRow(); filterAndRender(box.value.trim()); }
+    else loadAll(box.value.trim());
+  }
+
+  function toggleCategory(cat) {
+    activeCategory = (activeCategory === cat) ? null : cat;
+    document.querySelectorAll('.cat-chip').forEach(el =>
+      el.classList.toggle('active', el.dataset.cat === activeCategory)
+    );
+    filterAndRender(box.value.trim());
+  }
+
+  // ── Category row ──────────────────────────────────────────────────────────
+  function buildCategoryRow() {
+    const visible = allProducts.filter(p => activeStores.has(p.store));
+    const counts  = {};
+    visible.forEach(p => { counts[p.category] = (counts[p.category] || 0) + 1; });
+
+    const cats = CAT_ORDER.filter(c => counts[c]);
+    if (!cats.length) { document.getElementById('cat-row-wrap').style.display = 'none'; return; }
+    if (activeCategory && !counts[activeCategory]) activeCategory = null;
+
+    const catNames = t('cats');
+    document.getElementById('cat-row').innerHTML = cats.map(c => {
+      const label = catNames[c] || c;
+      const act   = c === activeCategory;
+      return `<span class="cat-chip${act ? ' active' : ''}" data-cat="${esc(c)}" onclick="toggleCategory('${esc(c)}')">${CAT_ICON[c] || ''} ${esc(label)} <small style="opacity:.6">${counts[c]}</small></span>`;
+    }).join('');
+    document.getElementById('cat-row-wrap').style.display = 'block';
+  }
+
+  // ── Load ───────────────────────────────────────────────────────────────────
+  async function loadAll(initialQuery = '') {
+    const btn = document.getElementById('search-btn');
+    btn.disabled = true;
+    btn.textContent = t('loadingBtn');
+    setStatus(`<span class="spinner"></span> ${t('loadingStatus')}`);
+    document.getElementById('results').innerHTML = '';
+
+    const [pRes, kRes] = await Promise.allSettled([fetchProducts(), fetchKaufland()]);
+
+    if (pRes.status === 'fulfilled') {
+      allProducts = pRes.value; loaded = true;
+    } else {
+      document.getElementById('results').innerHTML = `
+        <div class="state-box">
+          <div class="state-icon">⚠️</div>
+          <div class="state-title">${t('errorTitle')}</div>
+          <div class="state-desc">${esc(String(pRes.reason))}<br><br><code>${t('errorDesc')}</code></div>
+        </div>`;
+      setStatus('');
+      btn.disabled = false; btn.textContent = t('searchBtn');
+      return;
+    }
+    if (kRes.status === 'fulfilled') kauflandData = kRes.value;
+
+    btn.disabled = false; btn.textContent = t('searchBtn');
+    buildCategoryRow();
+    filterAndRender(initialQuery);
+  }
+
+  async function fetchProducts() {
+    const res = await fetch('/api/all');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    if (data.error) throw new Error(data.error);
+    if (data.errors?.length) console.warn('Store errors:', data.errors);
+    console.log(`Loaded ${data.count} products`);
+    return data.products || [];
+  }
+
+  async function fetchKaufland() {
+    const res = await fetch('/api/kaufland');
+    if (!res.ok) throw new Error(`Kaufland HTTP ${res.status}`);
+    const data = await res.json();
+    if (data.error) throw new Error(data.error);
+    return data;
+  }
+
+  // ── Filter + render ────────────────────────────────────────────────────────
+  function filterAndRender(query) {
+    const raw = (SYNONYMS[query.toLowerCase()] || query).toLowerCase().trim();
+    const q   = deaccent(raw);   // strip accents so "rozok" matches "rožok"
+    let matches = allProducts.filter(p => activeStores.has(p.store));
+    if (activeCategory) matches = matches.filter(p => p.category === activeCategory);
+    if (q) matches = matches.filter(p =>
+      [p.name, p.brand, p.category, p.type || ''].some(f =>
+        typeof f === 'string' && deaccent(f.toLowerCase()).includes(q)
+      )
+    );
+
+    const sorted          = [...matches].sort((a, b) => a.price - b.price);
+    const hasKauflandCards = sorted.some(p => p.store === 'Kaufland');
+    const showKaufland    = activeStores.has('Kaufland') && kauflandData && !activeCategory && !hasKauflandCards;
+
+    if (!sorted.length && !showKaufland) {
+      document.getElementById('results').innerHTML = `
+        <div class="state-box">
+          <div class="state-icon">🔎</div>
+          <div class="state-title">${t('notFoundTitle')}</div>
+          <div class="state-desc">${t('notFoundFn')(query || activeCategory || '…')}</div>
+        </div>`;
+      setStatus(''); return;
+    }
+
+    const catLabel  = activeCategory ? ` · ${CAT_ICON[activeCategory] || ''} ${esc(t('cats')[activeCategory] || activeCategory)}` : '';
+    const storeList = [...activeStores].join(', ');
+    setStatus(t('statusFn')(sorted.length, q, catLabel, storeList));
+
+    document.getElementById('results').innerHTML =
+      (showKaufland ? renderKaufland() : '') +
+      sorted.map((p, i) => renderCard(p, i)).join('');
+  }
+
+  function renderCard(p, i) {
+    const badge   = p.discount_pct > 0 ? `<div class="card-badge">−${p.discount_pct}%</div>` : '';
+    const discTag = p.discount_pct > 0 ? `<div class="card-disc-tag">−${p.discount_pct}%</div>` : '';
+    const typeEmoji = TYPE_EMOJI[p.type] || '🛍';
+    const imgHtml = p.image
+      ? `<img class="card-img" src="${p.image}" alt="${esc(p.name)}" loading="lazy" onerror="this.outerHTML='<div class=\\'card-img-placeholder\\'>${typeEmoji}</div>'">`
+      : `<div class="card-img-placeholder">${typeEmoji}</div>`;
+
+    const from   = p.valid_from  ? fmtDate(p.valid_from)  : '';
+    const until  = p.valid_until ? fmtDate(p.valid_until) : '';
+    const dates  = from && until ? `${from} – ${until}` : '';
+    const catTr  = t('cats')[p.category] || p.category || '';
+    const typeLabel = p.type ? `<span class="card-type-tag">${esc(p.type)}</span>` : '';
+    const label  = p.store + (p.brand ? ' · ' + p.brand : '');
+
+    return `
+      <a class="card" href="${p.url || '#'}" target="_blank" rel="noopener" style="animation-delay:${Math.min(i,24)*14}ms">
+        <div class="card-img-wrap">${imgHtml}${badge}</div>
+        <div class="card-body">
+          <div class="card-store"><span class="store-dot ${p.store}"></span>${esc(label)}</div>
+          <div class="card-name">${esc(p.name)}</div>
+          <div class="card-meta">${typeLabel}${catTr ? `<span class="card-category">${esc(catTr)}</span>` : ''}</div>
+        </div>
+        <div class="card-footer">
+          <div>
+            ${discTag}
+            <div class="card-price">${p.price_str}</div>
+            ${p.original_price ? `<div class="card-price-orig">${p.original_price}</div>` : ''}
+          </div>
+          <div class="card-dates">${dates}</div>
+        </div>
+      </a>`;
+  }
+
+  function renderKaufland() {
+    if (!kauflandData) return '';
+    const from   = kauflandData.valid_from  ? fmtDate(kauflandData.valid_from)  : '';
+    const until  = kauflandData.valid_until ? fmtDate(kauflandData.valid_until) : '';
+    const period = t('kPeriodFn')(from, until);
+    const thumb  = kauflandData.thumbnail;
+    return `
+      <a class="kaufland-banner" href="${kauflandData.letak_url}" target="_blank" rel="noopener">
+        ${thumb
+          ? `<img class="kaufland-thumb" src="${thumb}" alt="Kaufland">`
+          : `<div class="kaufland-thumb" style="display:flex;align-items:center;justify-content:center;font-size:32px">🛒</div>`}
+        <div class="kaufland-info">
+          <div class="kaufland-tag">Kaufland</div>
+          <div class="kaufland-title">${t('kTitle')}</div>
+          <div class="kaufland-subtitle">${t('kSubFn')(period)}</div>
+          <div class="kaufland-cta">${t('kCta')}</div>
+        </div>
+      </a>`;
+  }
+
+  // ── Helpers ────────────────────────────────────────────────────────────────
+  function fmtDate(iso) {
+    if (!iso) return '';
+    const [, m, d] = iso.split('-');
+    return `${+d}.${+m}.`;
+  }
+
+  function esc(s) {
+    return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function setStatus(h) { document.getElementById('status-text').innerHTML = h; }
+
+  // ── Init ───────────────────────────────────────────────────────────────────
+  applyLang();
+  setViewMode(viewMode);   // restore saved view preference
+  showEmptyState();
+  loadAll('');
+</script>
+</body>
+</html>
