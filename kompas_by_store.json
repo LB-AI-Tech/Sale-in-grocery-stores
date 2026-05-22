@@ -1,0 +1,4584 @@
+{
+  "Metro": [
+    {
+      "store": "Metro",
+      "name": "UHT mlieko delaktózované 1,5 %",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/1/4/4/uht-mlieko-delaktozovane-1-5--4550144.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_13"
+    },
+    {
+      "store": "Metro",
+      "name": "Jogurt nízkotučný",
+      "price": 0.19,
+      "price_str": "0,19 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/8/7/2/jogurt-nizkotucny--4551872.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_15"
+    },
+    {
+      "store": "Metro",
+      "name": "Maslo porcie",
+      "price": 0.13,
+      "price_str": "0,13 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/8/8/1/maslo-porcie--4551881.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_15"
+    },
+    {
+      "store": "Metro",
+      "name": "Kyslá smotana 14 %",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/1/3/8/kysla-smotana-14--4550138.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_13"
+    },
+    {
+      "store": "Metro",
+      "name": "Rajo smotana na varenie UHT 10 %",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/1/5/3/rajo-smotana-na-varenie-uht-10--4550153.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_13"
+    },
+    {
+      "store": "Metro",
+      "name": "Tvaroh jemný",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/8/8/4/tvaroh-jemny--4551884.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_15"
+    },
+    {
+      "store": "Metro",
+      "name": "Bravčové rezne obaľované",
+      "price": 0.6,
+      "price_str": "0,60 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/6/5/3/bravcove-rezne-obalovane--4551653.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_7"
+    },
+    {
+      "store": "Metro",
+      "name": "Kuracia pečeň",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/0/3/0/kuracia-pecen--4550030.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_9"
+    },
+    {
+      "store": "Metro",
+      "name": "Vysočina plátky",
+      "price": 0.76,
+      "price_str": "0,76 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/1/0/5/vysocina-platky--4550105.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_11"
+    },
+    {
+      "store": "Metro",
+      "name": "Pstruh pitvaný",
+      "price": 8.8,
+      "price_str": "8,80 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/6/7/4/pstruh-pitvany--4551674.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_8"
+    },
+    {
+      "store": "Metro",
+      "name": "Losos atlantický pitvaný",
+      "price": 8.9,
+      "price_str": "8,90 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/6/7/7/losos-atlanticky-pitvany--4551677.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_8"
+    },
+    {
+      "store": "Metro",
+      "name": "Brick chrumkavý chlieb",
+      "price": 1.15,
+      "price_str": "1,15 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/2/7/3/brick-chrumkavy-chlieb--4550273.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_17"
+    },
+    {
+      "store": "Metro",
+      "name": "Mini maslový croissant",
+      "price": 0.22,
+      "price_str": "0,22 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/8/3/9/mini-maslovy-croissant--4551839.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_14"
+    },
+    {
+      "store": "Metro",
+      "name": "Bageta francúzska stredná",
+      "price": 0.28,
+      "price_str": "0,28 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/8/5/7/bageta-francuzska-stredna--4551857.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_14"
+    },
+    {
+      "store": "Metro",
+      "name": "Brumík",
+      "price": 0.31,
+      "price_str": "0,31 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/2/4/4/5/brumik--4552445.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_19"
+    },
+    {
+      "store": "Metro",
+      "name": "Brioška s krémom a čokoládou",
+      "price": 0.34,
+      "price_str": "0,34 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/9/5/4/brioska-s-kremom-a-cokoladou--4550954.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_40"
+    },
+    {
+      "store": "Metro",
+      "name": "7Days Croissant vanilkový s Oreo",
+      "price": 0.37,
+      "price_str": "0,37 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/1/4/0/7days-croissant-vanilkovy-s-oreo--4551140.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_10"
+    },
+    {
+      "store": "Metro",
+      "name": "Gazdinka ryža guľatozrnná",
+      "price": 1.15,
+      "price_str": "1,15 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/4/6/5/gazdinka-ryza-gulatozrnna--4550465.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_23"
+    },
+    {
+      "store": "Metro",
+      "name": "LAGRIS RYŽA",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/4/5/6/lagris-ryza--4550456.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_23"
+    },
+    {
+      "store": "Metro",
+      "name": "Gambrinus 10%",
+      "price": 0.31,
+      "price_str": "0,31 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/9/6/0/gambrinus-10--4550960.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_40"
+    },
+    {
+      "store": "Metro",
+      "name": "Smädný mních",
+      "price": 0.32,
+      "price_str": "0,32 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/6/0/0/smadny-mnich--4550600.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_28"
+    },
+    {
+      "store": "Metro",
+      "name": "Bonvin Veltlínske zelené",
+      "price": 1.69,
+      "price_str": "1,69 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/2/2/6/8/bonvin-veltlinske-zelene--4552268.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_28"
+    },
+    {
+      "store": "Metro",
+      "name": "Chateau Krakovany Frankovka modrá",
+      "price": 1.75,
+      "price_str": "1,75 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/7/0/2/chateau-krakovany-frankovka-modra--4550702.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_31"
+    },
+    {
+      "store": "Metro",
+      "name": "Víno Nitra Selection Tramín červený",
+      "price": 2.19,
+      "price_str": "2,19 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/7/1/4/vino-nitra-selection-tramin-cerveny--4550714.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_31"
+    },
+    {
+      "store": "Metro",
+      "name": "Popradská káva Extra špeciál",
+      "price": 2.15,
+      "price_str": "2,15 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/5/1/0/popradska-kava-extra-special--4550510.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_25"
+    },
+    {
+      "store": "Metro",
+      "name": "Eduscho Aroma Classic",
+      "price": 2.49,
+      "price_str": "2,49 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/1/7/9/eduscho-aroma-classic--4551179.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_15"
+    },
+    {
+      "store": "Metro",
+      "name": "EDUSCHO FAMILY",
+      "price": 2.49,
+      "price_str": "2,49 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/4/9/8/eduscho-family--4550498.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_25"
+    },
+    {
+      "store": "Metro",
+      "name": "Teekanne čaje",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/5/2/2/teekanne-caje--4550522.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_25"
+    },
+    {
+      "store": "Metro",
+      "name": "Bop čaj wellness",
+      "price": 1.09,
+      "price_str": "1,09 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/5/0/4/bop-caj-wellness--4550504.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_25"
+    },
+    {
+      "store": "Metro",
+      "name": "Pepsi, Mirinda, 7UP",
+      "price": 0.62,
+      "price_str": "0,62 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/4/1/9/pepsi-mirinda-7up--4551419.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_32"
+    },
+    {
+      "store": "Metro",
+      "name": "Targa Florio",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/5/7/0/targa-florio--4550570.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_27"
+    },
+    {
+      "store": "Metro",
+      "name": "Fanta",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/3/5/9/fanta--4551359.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_29"
+    },
+    {
+      "store": "Metro",
+      "name": "Minera",
+      "price": 0.23,
+      "price_str": "0,23 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/5/3/4/minera--4550534.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_26"
+    },
+    {
+      "store": "Metro",
+      "name": "Zlatá studňa",
+      "price": 0.32,
+      "price_str": "0,32 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/5/3/1/zlata-studna--4550531.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_26"
+    },
+    {
+      "store": "Metro",
+      "name": "Toma",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/2/0/8/8/toma--4552088.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_22"
+    },
+    {
+      "store": "Metro",
+      "name": "Happy Day",
+      "price": 1.39,
+      "price_str": "1,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/5/6/4/happy-day--4550564.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_27"
+    },
+    {
+      "store": "Metro",
+      "name": "Deva čokoláda",
+      "price": 0.6,
+      "price_str": "0,60 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/2/8/5/deva-cokolada--4550285.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_18"
+    },
+    {
+      "store": "Metro",
+      "name": "Orion Študentská pečať bublinky",
+      "price": 0.95,
+      "price_str": "0,95 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/1/3/4/orion-studentska-pecat-bublinky--4551134.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_9"
+    },
+    {
+      "store": "Metro",
+      "name": "Milka čokoláda",
+      "price": 1.15,
+      "price_str": "1,15 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/2/9/1/milka-cokolada--4550291.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_18"
+    },
+    {
+      "store": "Metro",
+      "name": "Attack",
+      "price": 0.23,
+      "price_str": "0,23 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/3/1/8/attack--4550318.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_19"
+    },
+    {
+      "store": "Metro",
+      "name": "Delissa",
+      "price": 0.24,
+      "price_str": "0,24 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/3/2/7/delissa--4550327.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_19"
+    },
+    {
+      "store": "Metro",
+      "name": "Oblátky Wafers",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/3/2/1/oblatky-wafers--4550321.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_19"
+    },
+    {
+      "store": "Metro",
+      "name": "Vesna",
+      "price": 0.42,
+      "price_str": "0,42 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/3/2/4/vesna--4550324.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_19"
+    },
+    {
+      "store": "Metro",
+      "name": "Romanca",
+      "price": 0.27,
+      "price_str": "0,27 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/3/3/3/romanca--4550333.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_19"
+    },
+    {
+      "store": "Metro",
+      "name": "Zlaté polomáčané sušienky",
+      "price": 0.62,
+      "price_str": "0,62 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/1/4/6/zlate-polomacane-susienky--4551146.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_10"
+    },
+    {
+      "store": "Metro",
+      "name": "Lay’s chipsy",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/2/0/5/5/lay-s-chipsy--4552055.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_21"
+    },
+    {
+      "store": "Metro",
+      "name": "Vest Baked Chips",
+      "price": 0.9,
+      "price_str": "0,90 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/3/6/3/vest-baked-chips--4550363.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_20"
+    },
+    {
+      "store": "Metro",
+      "name": "Slovakia chipsy z pece",
+      "price": 0.95,
+      "price_str": "0,95 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/1/5/2/slovakia-chipsy-z-pece--4551152.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_11"
+    },
+    {
+      "store": "Metro",
+      "name": "Slovakia šošovicové chipsy",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/2/6/4/slovakia-sosovicove-chipsy--4550264.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_17"
+    },
+    {
+      "store": "Metro",
+      "name": "SLNEČNICOVÝ OLEJ",
+      "price": 1.43,
+      "price_str": "1,43 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/9/5/1/slnecnicovy-olej--4550951.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_40"
+    },
+    {
+      "store": "Metro",
+      "name": "Olivový olej",
+      "price": 3.49,
+      "price_str": "3,49 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/4/5/0/olivovy-olej--4550450.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_23"
+    },
+    {
+      "store": "Metro",
+      "name": "Reďkovka s vňaťou",
+      "price": 0.42,
+      "price_str": "0,42 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/9/7/9/redkovka-s-vnatou--4549979.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_7"
+    },
+    {
+      "store": "Metro",
+      "name": "Cibuľa žltá",
+      "price": 0.52,
+      "price_str": "0,52 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/2/3/9/7/cibula-zlta--4552397.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_32"
+    },
+    {
+      "store": "Metro",
+      "name": "Zeler buľvový praný",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/5/6/3/zeler-bulvovy-prany--4551563.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_4"
+    },
+    {
+      "store": "Metro",
+      "name": "Obaľovaný karfiol",
+      "price": 1.59,
+      "price_str": "1,59 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/0/4/4/obalovany-karfiol--4551044.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_4"
+    },
+    {
+      "store": "Metro",
+      "name": "Pizza Feliciana",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/1/1/7/pizza-feliciana--4550117.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_12"
+    },
+    {
+      "store": "Metro",
+      "name": "Vaječná melanž",
+      "price": 3.99,
+      "price_str": "3,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/9/2/3/vajecna-melanz--4551923.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88280-0#page_16"
+    },
+    {
+      "store": "Metro",
+      "name": "Ekologický gél na pranie",
+      "price": 3.99,
+      "price_str": "3,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/9/2/4/ekologicky-gel-na-pranie--4550924.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_37"
+    },
+    {
+      "store": "Metro",
+      "name": "Aviváž koncentrát",
+      "price": 2.39,
+      "price_str": "2,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/9/1/2/avivaz-koncentrat--4550912.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_37"
+    },
+    {
+      "store": "Metro",
+      "name": "Palmolive sprchový gél dámsky",
+      "price": 1.23,
+      "price_str": "1,23 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/2/6/9/palmolive-sprchovy-gel-damsky--4551269.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_25"
+    },
+    {
+      "store": "Metro",
+      "name": "Palmolive sprchový gél pánsky",
+      "price": 1.23,
+      "price_str": "1,23 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/2/7/8/palmolive-sprchovy-gel-pansky--4551278.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_25"
+    },
+    {
+      "store": "Metro",
+      "name": "Fa sprchový gél",
+      "price": 1.64,
+      "price_str": "1,64 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/2/3/9/fa-sprchovy-gel--4551239.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_24"
+    },
+    {
+      "store": "Metro",
+      "name": "Lilien sprchový gél",
+      "price": 1.89,
+      "price_str": "1,89 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/8/4/0/lilien-sprchovy-gel--4550840.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_35"
+    },
+    {
+      "store": "Metro",
+      "name": "Pantene šampón na vlasy",
+      "price": 3.49,
+      "price_str": "3,49 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/8/8/5/pantene-sampon-na-vlasy--4550885.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_36"
+    },
+    {
+      "store": "Metro",
+      "name": "Toaletný papier 2-vrstvový 60 m",
+      "price": 0.56,
+      "price_str": "0,56 €",
+      "valid_from": "20.5.",
+      "valid_until": "2.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/8/5/2/toaletny-papier-2-vrstvovy-60-m--4550852.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88277-0#page_35"
+    },
+    {
+      "store": "Metro",
+      "name": "Vlhčený toaletný papier",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "20.5.",
+      "valid_until": "16.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/1/3/2/9/vlhceny-toaletny-papier--4551329.jpg",
+      "link": "https://kompaszliav.sk/metro-letaky/letak-88283-0#page_27"
+    }
+  ],
+  "Klas": [
+    {
+      "store": "Klas",
+      "name": "Tami Tatranské polotučné trvanlivé mlieko 1,5%",
+      "price": 0.42,
+      "price_str": "0,42 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/6/5/7/tami-tatranske-polotucne-trvanlive--4556657.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0"
+    },
+    {
+      "store": "Klas",
+      "name": "Mlekovita Milk",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/7/7/0/mlekovita-milk--4524770.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_9"
+    },
+    {
+      "store": "Klas",
+      "name": "Zvolenský smotanový jogurt",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/8/0/3/zvolensky-smotanovy-jogurt--4524803.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_10"
+    },
+    {
+      "store": "Klas",
+      "name": "Zott Jogobella",
+      "price": 0.37,
+      "price_str": "0,37 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/5/9/3/zott-jogobella--4524593.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_4"
+    },
+    {
+      "store": "Klas",
+      "name": "Tami Tatranské maslo",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/6/7/5/tami-tatranske-maslo--4556675.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0"
+    },
+    {
+      "store": "Klas",
+      "name": "Mlekovita Extra Maslo",
+      "price": 0.82,
+      "price_str": "0,82 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/5/9/6/mlekovita-extra-maslo--4524596.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_4"
+    },
+    {
+      "store": "Klas",
+      "name": "Klas Smotana kyslá",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/7/3/7/klas-smotana-kysla--4524737.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_9"
+    },
+    {
+      "store": "Klas",
+      "name": "Milko Tvaroh jemný odtučněný",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/9/6/3/milko-tvaroh-jemny-odtucneny--4556963.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_10"
+    },
+    {
+      "store": "Klas",
+      "name": "Milko tvaroh jemný tučný",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/7/3/4/milko-tvaroh-jemny-tucny--4524734.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_9"
+    },
+    {
+      "store": "Klas",
+      "name": "Klas Tvaroh polotučný",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/9/5/1/klas-tvaroh-polotucny--4556951.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_10"
+    },
+    {
+      "store": "Klas",
+      "name": "Kuracie štvrte grilované",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/8/5/5/kuracie-stvrte-grilovane--4556855.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_7"
+    },
+    {
+      "store": "Klas",
+      "name": "Grilované kurča",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/7/0/7/grilovane-kurca--4524707.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_7"
+    },
+    {
+      "store": "Klas",
+      "name": "Kačacie prsia",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/5/8/4/kacacie-prsia--4557584.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_29"
+    },
+    {
+      "store": "Klas",
+      "name": "Kačacie stehná",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/5/8/7/kacacie-stehna--4557587.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_29"
+    },
+    {
+      "store": "Klas",
+      "name": "Dusená šunka",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/6/1/7/dusena-sunka--4557617.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_29"
+    },
+    {
+      "store": "Klas",
+      "name": "Morčacia saláma",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/8/3/1/morcacia-salama--4556831.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_6"
+    },
+    {
+      "store": "Klas",
+      "name": "Grilovacia klobása",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/8/1/3/grilovacia-klobasa--4556813.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_6"
+    },
+    {
+      "store": "Klas",
+      "name": "Grilovacia klobása s medvedím cesnakom",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/8/0/7/grilovacia-klobasa-s-medvedim-cesnakom--4556807.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_6"
+    },
+    {
+      "store": "Klas",
+      "name": "Šunková klobása na gril",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/8/4/3/sunkova-klobasa-na-gril--4556843.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_6"
+    },
+    {
+      "store": "Klas",
+      "name": "Bavorská klobása so syrom 100 g",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/6/5/9/bavorska-klobasa-so-syrom-100-g--4524659.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_6"
+    },
+    {
+      "store": "Klas",
+      "name": "Pstruh lososovitý",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/3/8/8/pstruh-lososovity--4525388.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_28"
+    },
+    {
+      "store": "Klas",
+      "name": "Vamex Chlieb Zemiakový",
+      "price": 1.09,
+      "price_str": "1,09 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/7/2/2/vamex-chlieb-zemiakovy--4524722.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_8"
+    },
+    {
+      "store": "Klas",
+      "name": "Vamex Chlieb Vyrážkový",
+      "price": 1.09,
+      "price_str": "1,09 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/8/8/8/vamex-chlieb-vyrazkovy--4556888.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_8"
+    },
+    {
+      "store": "Klas",
+      "name": "Klas Kyjevský chlieb",
+      "price": 1.15,
+      "price_str": "1,15 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/8/8/2/klas-kyjevsky-chlieb--4556882.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_8"
+    },
+    {
+      "store": "Klas",
+      "name": "Staromestská tuková žemľa",
+      "price": 0.09,
+      "price_str": "0,09 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/6/6/9/staromestska-tukova-zemla--4556669.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0"
+    },
+    {
+      "store": "Klas",
+      "name": "Vamex Rožok Grahamový",
+      "price": 0.17,
+      "price_str": "0,17 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/4/9/7/vamex-rozok-grahamovy--4524497.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0"
+    },
+    {
+      "store": "Klas",
+      "name": "Croissant Grana Grana Duo, Happico",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/2/6/3/croissant-grana-grana-duo-happico--4557263.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_19"
+    },
+    {
+      "store": "Klas",
+      "name": "Lagris ryža vo varných vreckách",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/0/6/5/lagris-ryza-vo-varnych-vreckach--4557065.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_14"
+    },
+    {
+      "store": "Klas",
+      "name": "Premium Bezvaječné cestoviny",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/0/7/1/premium-bezvajecne-cestoviny--4557071.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_14"
+    },
+    {
+      "store": "Klas",
+      "name": "Erce cestoviny 8 - vaječné",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/9/2/6/erce-cestoviny-8-vajecne--4524926.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_14"
+    },
+    {
+      "store": "Klas",
+      "name": "Smädný Mních Pivo svetlé",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/2/4/7/smaedny-mnich-pivo-svetle--4525247.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_23"
+    },
+    {
+      "store": "Klas",
+      "name": "Gemer Pivo světlé",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/4/1/3/gemer-pivo-svetle--4557413.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_23"
+    },
+    {
+      "store": "Klas",
+      "name": "Gambrinus, Šariš Premium",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/5/6/3/gambrinus-saris-premium--4557563.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_28"
+    },
+    {
+      "store": "Klas",
+      "name": "TOKAJI Víno",
+      "price": 2.49,
+      "price_str": "2,49 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/3/1/1/tokaji-vino--4557311.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_21"
+    },
+    {
+      "store": "Klas",
+      "name": "MOVINO TÚŽBA",
+      "price": 2.49,
+      "price_str": "2,49 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/1/5/1/movino-tuzba--4525151.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_21"
+    },
+    {
+      "store": "Klas",
+      "name": "Movino Hradné Vino Biele, Červené",
+      "price": 2.49,
+      "price_str": "2,49 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/3/2/0/movino-hradne-vino-biele-cervene--4557320.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_21"
+    },
+    {
+      "store": "Klas",
+      "name": "Salvator Horčík minerálna voda",
+      "price": 0.29,
+      "price_str": "0,29 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/4/2/5/salvator-horcik-mineralna-voda--4557425.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_24"
+    },
+    {
+      "store": "Klas",
+      "name": "Baldovská minerálna voda perlivá",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/4/3/1/baldovska-mineralna-voda-perliva--4557431.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_24"
+    },
+    {
+      "store": "Klas",
+      "name": "Mr. Bite",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/2/0/3/mr-bite--4557203.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_17"
+    },
+    {
+      "store": "Klas",
+      "name": "Orion Delissa",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/2/4/5/orion-delissa--4557245.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_19"
+    },
+    {
+      "store": "Klas",
+      "name": "Strážnické zemiakové lupienky Cesnakové, Paprikové",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/2/9/6/straznicke-zemiakove-lupienky-cesnakove--4557296.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_20"
+    },
+    {
+      "store": "Klas",
+      "name": "Fripsy Chipsy Sticks",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/1/0/3/fripsy-chipsy-sticks--4525103.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_20"
+    },
+    {
+      "store": "Klas",
+      "name": "LAY’S Zemiakové lupienky",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/1/1/2/lay-s-zemiakove-lupienky--4525112.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_20"
+    },
+    {
+      "store": "Klas",
+      "name": "Lay's Max zemiakové lupienky",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/2/7/5/lay-s-max-zemiakove-lupienky--4557275.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_20"
+    },
+    {
+      "store": "Klas",
+      "name": "Farmer Repkový olej 1 l",
+      "price": 1.29,
+      "price_str": "1,29 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/6/8/4/farmer-repkovy-olej-1-l--4556684.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_2"
+    },
+    {
+      "store": "Klas",
+      "name": "Farmer Repkový olej 1 l",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/7/9/5/farmer-repkovy-olej-1-l--4556795.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_5"
+    },
+    {
+      "store": "Klas",
+      "name": "Giana slnečnicový olej",
+      "price": 1.59,
+      "price_str": "1,59 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/4/0/3/giana-slnecnicovy-olej--4525403.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_28"
+    },
+    {
+      "store": "Klas",
+      "name": "Costa d’Oro Olej olivový extra panenský",
+      "price": 3.69,
+      "price_str": "3,69 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/6/5/4/costa-d-oro-olej-olivovy-extra-panensky--4556654.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0"
+    },
+    {
+      "store": "Klas",
+      "name": "Fratelli Mantova Equilibrato",
+      "price": 5.99,
+      "price_str": "5,99 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/9/9/2/fratelli-mantova-equilibrato--4524992.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_16"
+    },
+    {
+      "store": "Klas",
+      "name": "Passion Fruit, Figy",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/4/5/6/6/passion-fruit-figy--4524566.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_3"
+    },
+    {
+      "store": "Klas",
+      "name": "Prima Kostka Nanuk",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/9/3/0/prima-kostka-nanuk--4556930.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_9"
+    },
+    {
+      "store": "Klas",
+      "name": "DR.OETKER FELICIANA PIZZA",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/7/5/3/dr-oetker-feliciana-pizza--4556753.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_4"
+    },
+    {
+      "store": "Klas",
+      "name": "Vajcia Dovaj",
+      "price": 1.89,
+      "price_str": "1,89 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/3/7/3/vajcia-dovaj--4525373.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_27"
+    },
+    {
+      "store": "Klas",
+      "name": "Staromestské vajcia 'M' podstielkové",
+      "price": 3.99,
+      "price_str": "3,99 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/5/5/1/staromestske-vajcia-m-podstielkove--4557551.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_27"
+    },
+    {
+      "store": "Klas",
+      "name": "Dr.House Prací prášok",
+      "price": 2.39,
+      "price_str": "2,39 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/5/1/5/dr-house-praci-prasok--4557515.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_26"
+    },
+    {
+      "store": "Klas",
+      "name": "Sofin Aviváž",
+      "price": 2.59,
+      "price_str": "2,59 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/3/2/8/sofin-avivaz--4525328.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_26"
+    },
+    {
+      "store": "Klas",
+      "name": "Colgate zubná pasta",
+      "price": 1.29,
+      "price_str": "1,29 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/2/8/9/colgate-zubna-pasta--4525289.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_25"
+    },
+    {
+      "store": "Klas",
+      "name": "Fine life sprchový gél",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/2/9/2/fine-life-sprchovy-gel--4525292.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_25"
+    },
+    {
+      "store": "Klas",
+      "name": "Dixi Svište Sprchový gél",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/4/9/1/dixi-sviste-sprchovy-gel--4557491.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_25"
+    },
+    {
+      "store": "Klas",
+      "name": "DIXI SPRCHOVÝ GÉL",
+      "price": 2.09,
+      "price_str": "2,09 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/2/8/6/dixi-sprchovy-gel--4525286.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_25"
+    },
+    {
+      "store": "Klas",
+      "name": "Dixi šampón",
+      "price": 1.89,
+      "price_str": "1,89 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/4/7/6/dixi-sampon--4557476.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_25"
+    },
+    {
+      "store": "Klas",
+      "name": "Dixi Svište Šampón",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "25.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/7/4/7/3/dixi-sviste-sampon--4557473.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88355-0#page_25"
+    },
+    {
+      "store": "Klas",
+      "name": "Tento Economy",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/3/5/5/tento-economy--4525355.jpg",
+      "link": "https://kompaszliav.sk/klas-letaky/letak-88175-0#page_26"
+    }
+  ],
+  "Kaufland": [
+    {
+      "store": "Kaufland",
+      "name": "Trvanlivé mlieko 1,5 % 1l",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/8/9/4/trvanlive-mlieko-1-5-1l--4538894.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_23"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Jogurt rôzne druhy",
+      "price": 0.33,
+      "price_str": "0,33 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/8/6/1/jogurt-rozne-druhy--4538861.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_22"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Smotanový jogurt",
+      "price": 0.37,
+      "price_str": "0,37 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/5/8/8/smotanovy-jogurt--4538588.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Kyslá smotana 14 % 200 g",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/8/5/5/kysla-smotana-14-200-g--4538855.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_22"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Tvaroh",
+      "price": 0.88,
+      "price_str": "0,88 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/0/5/3/tvaroh--4539053.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_30"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Bravčová pečeň",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/7/8/3/bravcova-pecen--4538783.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_16"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Slovenská šunka",
+      "price": 0.75,
+      "price_str": "0,75 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/5/8/2/slovenska-sunka--4538582.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Nitran saláma",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/8/3/4/nitran-salama--4538834.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_21"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Tradičná Domáca klobása",
+      "price": 0.95,
+      "price_str": "0,95 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/8/3/7/tradicna-domaca-klobasa--4538837.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_21"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Pstruh dúhový pitvaný pultový predaj",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/8/4/3/pstruh-duhovy-pitvany-pultovy-predaj--4538843.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_21"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Chlieb konzumný",
+      "price": 0.95,
+      "price_str": "0,95 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/7/2/0/chlieb-konzumny--4538720.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_12"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Chalupársky kváskový chlieb",
+      "price": 1.09,
+      "price_str": "1,09 €",
+      "valid_from": "24.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/5/9/3/chaluparsky-kvaskovy-chlieb--4539593.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_69"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Multicereálna kaizerka",
+      "price": 0.12,
+      "price_str": "0,12 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/7/1/1/multicerealna-kaizerka--4538711.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_12"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Šiška",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/7/1/7/siska--4538717.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_12"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Šiška s ovocnou náplňou",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/3/5/0/siska-s-ovocnou-naplnou--4539350.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_52"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Basmati ryža 500 g",
+      "price": 1.09,
+      "price_str": "1,09 €",
+      "valid_from": "24.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/7/0/7/basmati-ryza-500-g--4539707.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_73"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Cestoviny bezvaječné rôzne druhy 500 g",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "24.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/7/4/0/cestoviny-bezvajecne-rozne-druhy-500-g--4539740.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_74"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Cestoviny",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/9/5/1/cestoviny--4538951.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_25"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Víno • rôzne druhy",
+      "price": 2.19,
+      "price_str": "2,19 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/3/3/5/vino-rozne-druhy--4539335.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_49"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Víno • rôzne druhy",
+      "price": 2.49,
+      "price_str": "2,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/9/8/1/vino-rozne-druhy--4538981.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_27"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Mletá káva rôzne druhy",
+      "price": 2.69,
+      "price_str": "2,69 €",
+      "valid_from": "24.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/6/4/4/mleta-kava-rozne-druhy--4539644.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_71"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Čierny čaj rôzne druhy 34 g",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/2/1/8/cierny-caj-rozne-druhy-34-g--4539218.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_41"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Limonáda pomaranč",
+      "price": 0.57,
+      "price_str": "0,57 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/0/6/5/limonada-pomaranc--4539065.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_31"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Šťava 100 %",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/3/0/8/stava-100--4539308.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_48"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Nelino KIDS BLACK COOKIE",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/2/4/2/nelino-kids-black-cookie--4539242.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_42"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Sušienky",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/9/7/5/susienky--4538975.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_26"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Taštička pizzová",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/7/0/8/tasticka-pizzova--4538708.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_12"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Slnečnicový olej, 1l",
+      "price": 1.69,
+      "price_str": "1,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/2/0/3/slnecnicovy-olej-1l--4539203.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_40"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Olivový olej 1l",
+      "price": 5.59,
+      "price_str": "5,59 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/1/9/7/olivovy-olej-1l--4539197.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_40"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Kivi gold",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/6/6/3/kivi-gold--4538663.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_6"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Jahody",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/6/8/4/jahody--4538684.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_9"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Čerešne",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/6/2/4/ceresne--4538624.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_4"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Cibuľa červená",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "24.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/6/1/1/cibula-cervena--4539611.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_69"
+    },
+    {
+      "store": "Kaufland",
+      "name": "KALERÁB",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/6/1/2/kalerab--4538612.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_4"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Pizza so syrom a párkom",
+      "price": 1.09,
+      "price_str": "1,09 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/7/2/6/pizza-so-syrom-a-parkom--4538726.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_13"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Pečená mäsová sekaná",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/0/3/4/3/pecena-masova-sekana--4540343.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_29"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Plnené knedličky rôzne druhy",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/9/1/5/plnene-knedlicky-rozne-druhy--4538915.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_24"
+    },
+    {
+      "store": "Kaufland",
+      "name": "pizza",
+      "price": 1.85,
+      "price_str": "1,85 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/6/0/6/pizza--4538606.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_3"
+    },
+    {
+      "store": "Kaufland",
+      "name": "Vajcia M",
+      "price": 4.45,
+      "price_str": "4,45 €",
+      "valid_from": "24.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/6/4/1/vajcia-m--4539641.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_70"
+    },
+    {
+      "store": "Kaufland",
+      "name": "ZUBNÁ PASTA",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/9/3/7/7/zubna-pasta--4539377.jpg",
+      "link": "https://kompaszliav.sk/kaufland-letaky/letak-88235-0#page_54"
+    }
+  ],
+  "Biedronka": [
+    {
+      "store": "Biedronka",
+      "name": "Mlieko polotučné 1,5% trvanlivé Kunin 1l",
+      "price": 0.37,
+      "price_str": "0,37 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/1/9/8/7/mlieko-polotucne-1-5-trvanlive-kunin-1l--4541987.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Jogurt rôzne druhy Fruvita 150 g",
+      "price": 0.25,
+      "price_str": "0,25 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/5/8/jogurt-rozne-druhy-fruvita-150-g--4542158.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_18"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Tvaroh tučný roztierateľný Delikate 250 g",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/8/2/tvaroh-tucny-roztieratelny-delikate-250--4542182.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_19"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Bravčová šunka 95 % Delisso 100 g",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/2/1/2/bravcova-sunka-95-delisso-100-g--4542212.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_21"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Bravčová šunka 95 %",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/0/8/0/bravcova-sunka-95--4542080.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_12"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Losos atlantický čerstvý filet Marinero",
+      "price": 1.79,
+      "price_str": "1,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/0/5/9/losos-atlanticky-cerstvy-filet-marinero--4542059.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_11"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Chlieb ražný rôzne druhy",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/2/5/chlieb-razny-rozne-druhy--4542125.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_16"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Chlieb rodinný",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/4/3/chlieb-rodinny--4542143.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_17"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Toastový chlieb maslový/pšeničný/celozrnný Pano 500 g",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/3/1/toastovy-chlieb-maslovy-psenicny--4542131.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_16"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Bagetka malá 65 g",
+      "price": 0.16,
+      "price_str": "0,16 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/3/4/bagetka-mala-65-g--4542134.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_17"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Marhuľovo-tvarohová taštička 85 g",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/4/0/marhulovo-tvarohova-tasticka-85-g--4542140.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_17"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Pivo Herman Miller 0,5 %",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/4/9/1/pivo-herman-miller-0-5--4542491.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_36"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Víno biele/červené Vinha Do Palacete 0,75 l",
+      "price": 2.29,
+      "price_str": "2,29 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/5/4/2/vino-biele-cervene-vinha-do-palacete-0--4542542.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_39"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Káva instantná Crema vanilka/čokoláda/oriešok Cafe d’Or 75 g",
+      "price": 2.39,
+      "price_str": "2,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/4/0/4/kava-instantna-crema-vanilka-cokolada--4542404.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_32"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Čaj ovocný rôzne druhy Remsey 40 g",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/4/0/1/caj-ovocny-rozne-druhy-remsey-40-g--4542401.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_32"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Čaj deväťbylinný Bercoff 30 g",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/4/0/7/caj-devaetbylinny-bercoff-30-g--4542407.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_32"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Minerálna voda jemne perlivá Polaris 0,5 l",
+      "price": 0.15,
+      "price_str": "0,15 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/4/7/3/mineralna-voda-jemne-perliva-polaris-0-5--4542473.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_35"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Džús červený grep Relax 1 l",
+      "price": 1.29,
+      "price_str": "1,29 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/4/6/7/dzus-cerveny-grep-relax-1-l--4542467.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_35"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Oblátka Attack mliečna Sedita 30 g",
+      "price": 0.29,
+      "price_str": "0,29 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/3/5/6/oblatka-attack-mliecna-sedita-30-g--4542356.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_29"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Oblátka karamel/arašidy Baitz 35 g",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/3/5/9/oblatka-karamel-arasidy-baitz-35-g--4542359.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_29"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Jablká červené",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/0/1/1/jablka-cervene--4542011.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_4"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Uhorka šalátová krátka",
+      "price": 0.12,
+      "price_str": "0,12 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/1/9/9/0/uhorka-salatova-kratka--4541990.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Cibuľa žltá",
+      "price": 0.45,
+      "price_str": "0,45 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/0/2/9/cibula-zlta--4542029.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_6"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Redkvička červená zväzok",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/0/2/0/redkvicka-cervena-zvaezok--4542020.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_5"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Zmrzlina rôzne druhy Diuna 100 ml",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/2/8/1/zmrzlina-rozne-druhy-diuna-100-ml--4542281.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_25"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Palacinky rôzne druhy Naše dobroty 400 g",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/2/4/5/palacinky-rozne-druhy-nase-dobroty-400-g--4542245.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_22"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Pirohy s tvarohovo čučoriedkovou náplňou Naše dobroty 400 g",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/2/3/9/pirohy-s-tvarohovo-cucoriedkovou-naplnou--4542239.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_22"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Pizza prosciutto",
+      "price": 1.79,
+      "price_str": "1,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/2/5/7/pizza-prosciutto--4542257.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_23"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Vajcia M podstielkové Moja Sliepočka 20 ks",
+      "price": 4.69,
+      "price_str": "4,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/7/3/vajcia-m-podstielkove-moja-sliepocka-20--4542173.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_19"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Kapsuly na pranie Floral Ultra 36 praní",
+      "price": 5.49,
+      "price_str": "5,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/6/9/5/kapsuly-na-pranie-floral-ultra-36-prani--4542695.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_45"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Gél na pranie Universal Wäsche Meister 114 praní",
+      "price": 5.99,
+      "price_str": "5,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/6/7/4/gel-na-pranie-universal-waesche-meister--4542674.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_45"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Aviváž Ružový Bozk Kuschelweich 38 praní",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/6/7/7/avivaz-ruzovy-bozk-kuschelweich-38-prani--4542677.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_45"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Aviváž kvety rôzne druhy Eden 72 praní",
+      "price": 2.19,
+      "price_str": "2,19 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/6/8/9/avivaz-kvety-rozne-druhy-eden-72-prani--4542689.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_45"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Zubná pasta Triple Action Colgate 125 ml",
+      "price": 1.29,
+      "price_str": "1,29 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/6/2/6/zubna-pasta-triple-action-colgate-125-ml--4542626.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_42"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Sprchový gél Fresh/Relax/Exotic Oceania – 500 ml",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/6/3/2/sprchovy-gel-fresh-relax-exotic-oceania--4542632.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_43"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Suchý šampón rôzne druhy Niuqi 300 ml",
+      "price": 1.79,
+      "price_str": "1,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/6/2/0/suchy-sampon-rozne-druhy-niuqi-300-ml--4542620.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_42"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Vlhčený toaletný papier Queen 60 ks",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/5/6/3/vlhceny-toaletny-papier-queen-60-ks--4542563.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_40"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Vlhčený toaletný papier Dada 60 ks",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/5/5/1/vlhceny-toaletny-papier-dada-60-ks--4542551.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_40"
+    },
+    {
+      "store": "Biedronka",
+      "name": "Toaletný papier harmančekový 3-vrstvový Queen 8 roliek",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/2/1/1/0/toaletny-papier-harmancekovy-3-vrstvovy--4542110.jpg",
+      "link": "https://kompaszliav.sk/biedronka-letaky/letak-88268-0#page_15"
+    }
+  ],
+  "Lidl": [
+    {
+      "store": "Lidl",
+      "name": "Mlieko trvanlivé polotučné 1,5%",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/5/7/0/mlieko-trvanlive-polotucne-1-5--4529570.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_4"
+    },
+    {
+      "store": "Lidl",
+      "name": "Ovocný jogurt",
+      "price": 0.29,
+      "price_str": "0,29 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/2/9/4/ovocny-jogurt--4529294.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_72"
+    },
+    {
+      "store": "Lidl",
+      "name": "MILSY Bánovecký jogurt",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/4/2/7/milsy-banovecky-jogurt--4528427.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_17"
+    },
+    {
+      "store": "Lidl",
+      "name": "Tvaroh krémový tučný",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/6/1/8/tvaroh-kremovy-tucny--4529618.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_8"
+    },
+    {
+      "store": "Lidl",
+      "name": "Kačacie prsia",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/0/0/0/kacacie-prsia--4529000.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_52"
+    },
+    {
+      "store": "Lidl",
+      "name": "Kačacie stehná",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/9/4/0/kacacie-stehna--4528940.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_49"
+    },
+    {
+      "store": "Lidl",
+      "name": "Gazdovský údený bok",
+      "price": 0.95,
+      "price_str": "0,95 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/6/3/3/gazdovsky-udeny-bok--4529633.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_10"
+    },
+    {
+      "store": "Lidl",
+      "name": "Kuracia pečeň",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/3/0/3/kuracia-pecen--4529303.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_73"
+    },
+    {
+      "store": "Lidl",
+      "name": "Lyoner saláma",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/0/1/5/lyoner-salama--4529015.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_53"
+    },
+    {
+      "store": "Lidl",
+      "name": "Podwawelská klobása",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/0/0/6/podwawelska-klobasa--4529006.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_53"
+    },
+    {
+      "store": "Lidl",
+      "name": "Domáca klobása na grilovanie",
+      "price": 0.75,
+      "price_str": "0,75 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/1/8/0/domaca-klobasa-na-grilovanie--4529180.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_63"
+    },
+    {
+      "store": "Lidl",
+      "name": "Pstruh pitvaný",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/9/8/5/pstruh-pitvany--4528985.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_52"
+    },
+    {
+      "store": "Lidl",
+      "name": "Pstruh dúhový lososovitý",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/3/5/2/pstruh-duhovy-lososovity--4528352.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_13"
+    },
+    {
+      "store": "Lidl",
+      "name": "Losos atlantický",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/3/6/1/losos-atlanticky--4528361.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_13"
+    },
+    {
+      "store": "Lidl",
+      "name": "Kajzerka špeciál",
+      "price": 0.12,
+      "price_str": "0,12 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/3/8/5/kajzerka-special--4528385.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_15"
+    },
+    {
+      "store": "Lidl",
+      "name": "Bagetka malá svetlá",
+      "price": 0.14,
+      "price_str": "0,14 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/3/8/2/bagetka-mala-svetla--4528382.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_15"
+    },
+    {
+      "store": "Lidl",
+      "name": "Makovka",
+      "price": 0.27,
+      "price_str": "0,27 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/3/9/1/makovka--4528391.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_15"
+    },
+    {
+      "store": "Lidl",
+      "name": "Taštička višňa-puding",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/4/0/3/tasticka-visna-puding--4528403.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_15"
+    },
+    {
+      "store": "Lidl",
+      "name": "Medovo- -maková taštička",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/4/0/0/medovo-makova-tasticka--4528400.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_15"
+    },
+    {
+      "store": "Lidl",
+      "name": "Jazmínová ryža",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/6/9/0/jazminova-ryza--4529690.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_13"
+    },
+    {
+      "store": "Lidl",
+      "name": "Guľatozrnná ryža",
+      "price": 1.35,
+      "price_str": "1,35 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/6/8/1/gulatozrnna-ryza--4529681.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_13"
+    },
+    {
+      "store": "Lidl",
+      "name": "Dlhozrnná ryža",
+      "price": 1.39,
+      "price_str": "1,39 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/6/7/5/dlhozrnna-ryza--4529675.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_13"
+    },
+    {
+      "store": "Lidl",
+      "name": "Špagety",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/7/0/8/spagety--4529708.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_14"
+    },
+    {
+      "store": "Lidl",
+      "name": "Kolienka",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/6/9/6/kolienka--4529696.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_14"
+    },
+    {
+      "store": "Lidl",
+      "name": "Ribessa ríbezľové víno",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/0/7/5/ribessa-ribezlove-vino--4529075.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_56"
+    },
+    {
+      "store": "Lidl",
+      "name": "Štandard káva",
+      "price": 1.69,
+      "price_str": "1,69 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/8/4/0/standard-kava--4529840.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_23"
+    },
+    {
+      "store": "Lidl",
+      "name": "Klasik káva",
+      "price": 1.69,
+      "price_str": "1,69 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/8/4/6/klasik-kava--4529846.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_23"
+    },
+    {
+      "store": "Lidl",
+      "name": "Raňajková káva",
+      "price": 2.24,
+      "price_str": "2,24 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/0/6/0/ranajkova-kava--4529060.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_56"
+    },
+    {
+      "store": "Lidl",
+      "name": "Burek so syrom",
+      "price": 0.33,
+      "price_str": "0,33 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/3/7/3/burek-so-syrom--4528373.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_14"
+    },
+    {
+      "store": "Lidl",
+      "name": "Pizzová taštička",
+      "price": 0.37,
+      "price_str": "0,37 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/3/9/4/pizzova-tasticka--4528394.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_15"
+    },
+    {
+      "store": "Lidl",
+      "name": "Repkový olej",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/4/1/5/repkovy-olej--4528415.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_16"
+    },
+    {
+      "store": "Lidl",
+      "name": "Olivový olej",
+      "price": 6.49,
+      "price_str": "6,49 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/7/3/5/olivovy-olej--4529735.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_16"
+    },
+    {
+      "store": "Lidl",
+      "name": "Olivový olej",
+      "price": 6.99,
+      "price_str": "6,99 €",
+      "valid_from": "4.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/2/4/1/olivovy-olej--4528241.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_3"
+    },
+    {
+      "store": "Lidl",
+      "name": "Olivový olej na vyprážanie",
+      "price": 6.99,
+      "price_str": "6,99 €",
+      "valid_from": "",
+      "valid_until": "",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/7/4/1/olivovy-olej-na-vyprazanie--4529741.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88193-0#page_16"
+    },
+    {
+      "store": "Lidl",
+      "name": "Lahôdková cibuľka",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/9/8/2/lahodkova-cibulka--4528982.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_51"
+    },
+    {
+      "store": "Lidl",
+      "name": "Smotanová zmrzlina",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "1.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/3/8/4/smotanova-zmrzlina--4529384.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_77"
+    },
+    {
+      "store": "Lidl",
+      "name": "Nuttano nanuk",
+      "price": 0.45,
+      "price_str": "0,45 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/1/2/3/nuttano-nanuk--4529123.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_60"
+    },
+    {
+      "store": "Lidl",
+      "name": "Silan aviváž",
+      "price": 2.39,
+      "price_str": "2,39 €",
+      "valid_from": "1.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/9/3/8/7/silan-avivaz--4529387.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_77"
+    },
+    {
+      "store": "Lidl",
+      "name": "Coccolino Aviváž Creations",
+      "price": 2.99,
+      "price_str": "2,99 €",
+      "valid_from": "18.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/8/4/4/2/coccolino-avivaz-creations--4528442.jpg",
+      "link": "https://kompaszliav.sk/lidl-letaky/letak-88196-0#page_19"
+    }
+  ],
+  "COOP Jednota": [
+    {
+      "store": "COOP Jednota",
+      "name": "Mlieko nízkotučné 0,5%",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/1/3/7/mlieko-nizkotucne-0-5--4548137.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_6"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Mlieko nízkotučné 0,5% 1l",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/2/6/2/mlieko-nizkotucne-0-5-1l--4549262.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_28"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Tradičná kvalita Maslo tradičné 250 g",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/8/9/3/tradicna-kvalita-maslo-tradicne-250-g--4548893.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Maslo tradičné 250 g",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/0/1/1/maslo-tradicne-250-g--4548011.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Smotana kyslá 14% delaktózovaná 200 g",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/5/6/3/smotana-kysla-14-delaktozovana-200-g--4548563.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_17"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Smotana kyslá 14% delaktózovaná",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/1/4/8/smotana-kysla-14-delaktozovana--4549148.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_21"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Termix 2 druhy",
+      "price": 0.33,
+      "price_str": "0,33 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/8/8/4/termix-2-druhy--4548884.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_28"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Tvaroh jemný lactofree",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/1/5/4/tvaroh-jemny-lactofree--4549154.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_21"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Tvaroh jemný lactofree 180 g",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/5/4/8/tvaroh-jemny-lactofree-180-g--4548548.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_17"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Kuracia šunka 100 g",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/0/7/7/kuracia-sunka-100-g--4548077.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_4"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Čingovská saláma 100 g",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/1/2/8/cingovska-salama-100-g--4548128.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_5"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Mamičkine dobroty Nitran saláma 75 g",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/0/9/8/1/mamickine-dobroty-nitran-salama-75-g--4550981.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_16"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Maďarská klobása 100 g",
+      "price": 0.95,
+      "price_str": "0,95 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/4/6/4/madarska-klobasa-100-g--4548464.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_14"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Bageta",
+      "price": 0.33,
+      "price_str": "0,33 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/8/1/1/bageta--4549811.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_25"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Kelt 10% 0,5 l",
+      "price": 0.34,
+      "price_str": "0,34 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/9/1/7/kelt-10-0-5-l--4548917.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_5"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Kelt 10%",
+      "price": 0.34,
+      "price_str": "0,34 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/0/0/2/kelt-10--4548002.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Popradský bylinný čaj 3 druhy",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/5/6/2/popradsky-bylinny-caj-3-druhy--4549562.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_46"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Popradský bylinný čaj 3 druhy 30 g",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/2/5/7/popradsky-bylinny-caj-3-druhy-30-g--4548257.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_9"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Pramenitá voda 3 druhy 1,5 l",
+      "price": 0.29,
+      "price_str": "0,29 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/8/9/0/pramenita-voda-3-druhy-1-5-l--4548890.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_28"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Pramenitá voda 3 druhy",
+      "price": 0.29,
+      "price_str": "0,29 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/9/1/4/pramenita-voda-3-druhy--4548914.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_4"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "RELAX DŽÚS 100 %",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/6/1/6/relax-dzus-100--4549616.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_49"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "RELAX 100 % DŽÚS",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/7/1/6/relax-100-dzus--4548716.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_22"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Relax 2 druhy 1 l",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/3/0/8/relax-2-druhy-1-l--4548308.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_10"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Emco Super sušenky",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/6/5/6/emco-super-susenky--4548656.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_20"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Bebe Dobré ráno NaMěkko",
+      "price": 0.6,
+      "price_str": "0,60 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/2/6/9/bebe-dobre-rano-namekko--4548269.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_9"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "BeBe Dobré ráno NaMěkko 3 druhy 50 g",
+      "price": 0.6,
+      "price_str": "0,60 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/4/6/6/bebe-dobre-rano-namekko-3-druhy-50-g--4549466.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_41"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Marina keks 100 g / Indián kakaový keks 100 g",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/2/3/9/marina-keks-100-g-indian-kakaovy-keks--4548239.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_8"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Cyrilove zemiakové lupienky",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/8/5/4/cyrilove-zemiakove-lupienky--4548854.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_27"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Cyrilove zemiakové lupienky 3 druhy 100 g",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/5/1/7/cyrilove-zemiakove-lupienky-3-druhy-100--4549517.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_44"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Raciol repkový olej 1l",
+      "price": 1.79,
+      "price_str": "1,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/2/0/0/raciol-repkovy-olej-1l--4548200.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_7"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Limeta 1 ks",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/0/5/9/limeta-1-ks--4548059.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_3"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Jarka nanuk 45 ml",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/0/8/0/jarka-nanuk-45-ml--4548080.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_4"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "KEKS! mrazený krém v sušienke",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/5/9/3/keks-mrazeny-krem-v-susienke--4548593.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_18"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Keks",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/9/1/3/9/keks--4549139.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88301-0#page_20"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Twister nanuk",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/1/1/6/twister-nanuk--4548116.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_5"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Tradičná kvalita Pizza šunková",
+      "price": 2.09,
+      "price_str": "2,09 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/5/3/9/tradicna-kvalita-pizza-sunkova--4548539.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_16"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Vajcia čerstvé L 10 ks 1 bal.",
+      "price": 2.69,
+      "price_str": "2,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/4/4/0/vajcia-cerstve-l-10-ks-1-bal--4548440.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_13"
+    },
+    {
+      "store": "COOP Jednota",
+      "name": "Tesori aviváž",
+      "price": 3.49,
+      "price_str": "3,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/8/8/3/9/tesori-avivaz--4548839.jpg",
+      "link": "https://kompaszliav.sk/coop-jednota-letaky/letak-88298-0#page_27"
+    }
+  ],
+  "Billa": [
+    {
+      "store": "Billa",
+      "name": "Zott Jogobella jogurt",
+      "price": 0.33,
+      "price_str": "0,33 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/1/1/2/zott-jogobella-jogurt--4534112.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_24"
+    },
+    {
+      "store": "Billa",
+      "name": "BAPE Maslo",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/7/3/7/bape-maslo--4533737.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_11"
+    },
+    {
+      "store": "Billa",
+      "name": "BILLA smotana",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/1/5/9/billa-smotana--4463159.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_7"
+    },
+    {
+      "store": "Billa",
+      "name": "Tradičná Domáca klobása",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/7/6/4/tradicna-domaca-klobasa--4533764.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_12"
+    },
+    {
+      "store": "Billa",
+      "name": "Pražma celá pitvaná",
+      "price": 1.39,
+      "price_str": "1,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/6/0/2/prazma-cela-pitvana--4533602.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_5"
+    },
+    {
+      "store": "Billa",
+      "name": "Mušla s ražnými klíčkami",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/5/2/1/0/musla-s-raznymi-klickami--4535210.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_7"
+    },
+    {
+      "store": "Billa",
+      "name": "Giana ryža guľatozrnná 1 kg",
+      "price": 1.39,
+      "price_str": "1,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/8/2/1/giana-ryza-gulatozrnna-1-kg--4533821.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_14"
+    },
+    {
+      "store": "Billa",
+      "name": "Cessi bezvaječné cestoviny",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/8/3/0/cessi-bezvajecne-cestoviny--4533830.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_14"
+    },
+    {
+      "store": "Billa",
+      "name": "Wegenstein Stifterl",
+      "price": 1.39,
+      "price_str": "1,39 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/5/7/3/wegenstein-stifterl--4463573.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_26"
+    },
+    {
+      "store": "Billa",
+      "name": "Château Topoľčianky Frizzante",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/5/7/6/chateau-topolcianky-frizzante--4463576.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_26"
+    },
+    {
+      "store": "Billa",
+      "name": "Tira",
+      "price": 1.79,
+      "price_str": "1,79 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/9/7/7/tira--4533977.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_19"
+    },
+    {
+      "store": "Billa",
+      "name": "Kofola, Vinea",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/5/1/6/kofola-vinea--4463516.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_24"
+    },
+    {
+      "store": "Billa",
+      "name": "Minera",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/5/4/0/minera--4463540.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_25"
+    },
+    {
+      "store": "Billa",
+      "name": "Orion Delissa",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/8/4/5/orion-delissa--4533845.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_15"
+    },
+    {
+      "store": "Billa",
+      "name": "Sedita Tatranky",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/8/5/4/sedita-tatranky--4533854.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_15"
+    },
+    {
+      "store": "Billa",
+      "name": "Giana slnečnicový olej",
+      "price": 1.59,
+      "price_str": "1,59 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/8/0/9/giana-slnecnicovy-olej--4533809.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_13"
+    },
+    {
+      "store": "Billa",
+      "name": "Franz Josef Extra Virgin",
+      "price": 3.99,
+      "price_str": "3,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/4/9/1/franz-josef-extra-virgin--4533491.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0"
+    },
+    {
+      "store": "Billa",
+      "name": "Franz Josef olivový olej",
+      "price": 4.79,
+      "price_str": "4,79 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/2/7/9/franz-josef-olivovy-olej--4463279.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_13"
+    },
+    {
+      "store": "Billa",
+      "name": "** BILLA Olivový olej Extra Virgin",
+      "price": 8.99,
+      "price_str": "8,99 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/0/9/6/billa-olivovy-olej-extra-virgin--4463096.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_3"
+    },
+    {
+      "store": "Billa",
+      "name": "LIMETA",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/5/9/7/limeta--4463597.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_27"
+    },
+    {
+      "store": "Billa",
+      "name": "Jablká červené",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/5/5/4/jablka-cervene--4533554.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_3"
+    },
+    {
+      "store": "Billa",
+      "name": "Avokádo",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/1/2/1/avokado--4534121.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_24"
+    },
+    {
+      "store": "Billa",
+      "name": "Red’kovka červená",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/5/5/1/red-kovka-cervena--4533551.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_3"
+    },
+    {
+      "store": "Billa",
+      "name": "BILLA pizza cesto",
+      "price": 1.69,
+      "price_str": "1,69 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/3/3/3/billa-pizza-cesto--4463333.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87767-0#page_15"
+    },
+    {
+      "store": "Billa",
+      "name": "Coccolino",
+      "price": 3.29,
+      "price_str": "3,29 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/0/5/5/coccolino--4534055.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88208-0#page_22"
+    },
+    {
+      "store": "Billa",
+      "name": "Signal",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/0/2/4/signal--4463024.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87773-0#page_6"
+    },
+    {
+      "store": "Billa",
+      "name": "Colgate",
+      "price": 1.59,
+      "price_str": "1,59 €",
+      "valid_from": "13.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/1/8/5/4/8/colgate--4518548.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-88118-0#page_7"
+    },
+    {
+      "store": "Billa",
+      "name": "DIXI",
+      "price": 2.49,
+      "price_str": "2,49 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/3/0/0/9/dixi--4463009.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87773-0#page_5"
+    },
+    {
+      "store": "Billa",
+      "name": "Linteo",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "29.4.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/6/2/9/4/3/linteo--4462943.jpg",
+      "link": "https://kompaszliav.sk/billa-letaky/letak-87773-0#page_3"
+    }
+  ],
+  "Potraviny KORUNA": [
+    {
+      "store": "Potraviny KORUNA",
+      "name": "KORUNA Trvanlivé mlieko 1,5% 1 l",
+      "price": 0.52,
+      "price_str": "0,52 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/9/7/6/koruna-trvanlive-mlieko-1-5-1-l--4555976.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_10"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Srdiečko jogurt classic 125 g",
+      "price": 0.29,
+      "price_str": "0,29 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/8/2/9/srdiecko-jogurt-classic-125-g--4555829.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_5"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Smotana na varenie čerstvá Olma 12% 200 g",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/7/8/7/smotana-na-varenie-cerstva-olma-12-200-g--4555787.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_4"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Smotana kyslá Olma 16 % 200 g",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/7/6/0/smotana-kysla-olma-16-200-g--4555760.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_4"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Olomoucký tvaroh měkký 0,3% 250 g",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/7/7/8/olomoucky-tvaroh-mekky-0-3-250-g--4555778.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_4"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Chlebíčková šunka Mecom 100 g",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/6/7/0/chlebickova-sunka-mecom-100-g--4555670.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_2"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Kuracia šunka 82 % Hyza 100 g",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/6/9/7/kuracia-sunka-82-hyza-100-g--4555697.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_2"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Šunka najvyššej kvality Prantl 100 g",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/6/5/8/sunka-najvyssej-kvality-prantl-100-g--4555658.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Parizer saláma Mecom 100 g",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/6/7/9/parizer-salama-mecom-100-g--4555679.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_2"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Šunková klobása Krásno 100 g",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/7/1/5/sunkova-klobasa-krasno-100-g--4555715.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_2"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "KORUNA Chlieb konzumný krájaný, balený 450 g",
+      "price": 1.15,
+      "price_str": "1,15 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/9/5/2/koruna-chlieb-konzumny-krajany-baleny--4555952.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_10"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Ryža varné vrecká Vitana 4 x 100 g",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/6/2/2/ryza-varne-vrecka-vitana-4-x-100-g--4555622.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88352-0"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Vretená cestoviny vaječné Ideál 400 g",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/2/1/6/vretena-cestoviny-vajecne-ideal-400-g--4556216.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_16"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Balocco Wafer Crema Lemon, Hazelnut 175 g",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/0/5/1/balocco-wafer-crema-lemon-hazelnut-175-g--4556051.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_12"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Popradská káva Extra špecial 75 g",
+      "price": 2.09,
+      "price_str": "2,09 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/0/9/6/popradska-kava-extra-special-75-g--4556096.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_14"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "KORUNA Čaj čierny 30 g",
+      "price": 0.45,
+      "price_str": "0,45 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/9/7/3/koruna-caj-cierny-30-g--4555973.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_10"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Čaj Pigi, 30 g",
+      "price": 0.92,
+      "price_str": "0,92 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/1/8/6/caj-pigi-30-g--4556186.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_15"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Milka Alpine Milk 25 g",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/8/9/2/milka-alpine-milk-25-g--4555892.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_8"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "BeBe Dobré ráno Namäkko čokoláda 50 g",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/0/7/2/bebe-dobre-rano-namaekko-cokolada-50-g--4556072.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_13"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Cyrilove lupienky solené 100 g",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/1/2/9/cyrilove-lupienky-solene-100-g--4556129.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_14"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Mrož jahodový v čokoláde, v bielej čokoláde 45 ml",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/7/3/3/mroz-jahodovy-v-cokolade-v-bielej--4555733.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_3"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Vajcia „L“ 10 ks",
+      "price": 2.49,
+      "price_str": "2,49 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/7/2/1/vajcia-l-10-ks--4555721.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_3"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Persil prášok na pranie Regular 220 g / 4 pd",
+      "price": 1.85,
+      "price_str": "1,85 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/5/1/0/persil-prasok-na-pranie-regular-220-g-4--4556510.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_23"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "KORUNA Gél na pranie bielych a farebných tkanín 1,5 l / 30 dávok",
+      "price": 2.29,
+      "price_str": "2,29 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/9/9/7/koruna-gel-na-pranie-bielych-a-farebnych--4555997.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_11"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Perwoll gél na pranie Color 1 l / 20 pd",
+      "price": 6.39,
+      "price_str": "6,39 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/5/0/7/perwoll-gel-na-pranie-color-1-l-20-pd--4556507.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_23"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Zubná pasta Odol Fluorid 100 ml",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/5/6/2/5/zubna-pasta-odol-fluorid-100-ml--4555625.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88352-0"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "HERBAVERA Rozmarínový hydratačný šampón 300 ml",
+      "price": 3.39,
+      "price_str": "3,39 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/4/7/4/herbavera-rozmarinovy-hydratacny-sampon--4556474.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_22"
+    },
+    {
+      "store": "Potraviny KORUNA",
+      "name": "Toaletný papier Tento Economy 2-vrstvový Biely/celulóza",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "22.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/6/4/4/1/toaletny-papier-tento-economy-2-vrstvovy--4556441.jpg",
+      "link": "https://kompaszliav.sk/potraviny-koruna-letaky/letak-88349-0#page_22"
+    }
+  ],
+  "KON-RAD": [
+    {
+      "store": "KON-RAD",
+      "name": "Rajo Lakofree",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/2/6/3/rajo-lakofree--4449263.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_37"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Maslo",
+      "price": 1.29,
+      "price_str": "1,29 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/2/6/6/maslo--4449266.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_37"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "La Lorraine donut",
+      "price": 0.25,
+      "price_str": "0,25 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/3/5/6/la-lorraine-donut--4449356.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_39"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Gambrinus 10%",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/8/9/6/9/gambrinus-10--4448969.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_22"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Corgoň",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/0/0/8/corgon--4449008.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_23"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Popradský čaj lesná zmes (99903115)",
+      "price": 0.66,
+      "price_str": "0,66 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/1/8/5/popradsky-caj-lesna-zmes-99903115--4449185.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_34"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "DILMAH ČAJE",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/1/3/1/dilmah-caje--4449131.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_31"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Royal Crown cola Classic (00221789)",
+      "price": 0.33,
+      "price_str": "0,33 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/1/7/9/royal-crown-cola-classic-00221789--4449179.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_33"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Kofola",
+      "price": 0.47,
+      "price_str": "0,47 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/8/6/3/9/kofola--4448639.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Kofola Mufka",
+      "price": 0.47,
+      "price_str": "0,47 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/1/5/8/kofola-mufka--4449158.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_32"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Vinea biela (00229267) červená (00237387) plech, 0.33 l, 1/24",
+      "price": 0.5,
+      "price_str": "0,50 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/1/6/4/vinea-biela-00229267-cervena-00237387--4449164.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_32"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Pepsi (00221705), Lemon Zero Sugar (00241717) Max (00221707), 7UP Zero (00238666), Mirinda (00221704) plech, 0.33 l, 1/24",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/0/5/0/pepsi-00221705-lemon-zero-sugar-00241717--4449050.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_26"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Coca-Cola zero (99960389)",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/0/7/7/coca-cola-zero-99960389--4449077.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_28"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Mitická tichá (00221883) perlivá (00221885), jemne perlivá (00221884), PET, 0.5 l, 1/12",
+      "price": 0.29,
+      "price_str": "0,29 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/0/9/2/miticka-ticha-00221883-perliva-00221885--4449092.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_29"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Mitická tichá (00221886) perlivá (00221888), jemne perlivá (00221887), PET 1.5 l, 1/6",
+      "price": 0.32,
+      "price_str": "0,32 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/0/8/9/miticka-ticha-00221886-perliva-00221888--4449089.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_29"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Gemerka Magnézium a Kalcium",
+      "price": 0.33,
+      "price_str": "0,33 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/0/9/8/gemerka-magnezium-a-kalcium--4449098.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_30"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Kláštorná kalcia",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/1/7/6/klastorna-kalcia--4449176.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_33"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "CURIOUSA DŽUS",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/1/4/6/curiousa-dzus--4449146.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_31"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "CUPPERS DŽÚS 2 druhy",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/1/4/9/cuppers-dzus-2-druhy--4449149.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_31"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "OPAVIA MIŇONKY",
+      "price": 0.37,
+      "price_str": "0,37 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/2/1/8/opavia-minonky--4449218.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_35"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Jaffa sušienky s arašidovou náplňou v mliečnej čokoláde (00246274)",
+      "price": 0.4,
+      "price_str": "0,40 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/4/7/6/jaffa-susienky-s-arasidovou-naplnou-v--4449476.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_43"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Princezky",
+      "price": 0.5,
+      "price_str": "0,50 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/2/1/2/princezky--4449212.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_35"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Slovakia chips paprika (00236680)",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/2/0/6/slovakia-chips-paprika-00236680--4449206.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_35"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Balticovo",
+      "price": 18.99,
+      "price_str": "18,99 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/2/3/6/balticovo--4449236.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_36"
+    },
+    {
+      "store": "KON-RAD",
+      "name": "Perfex",
+      "price": 1.89,
+      "price_str": "1,89 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/4/9/4/6/1/perfex--4449461.jpg",
+      "link": "https://kompaszliav.sk/kon-rad-letaky/letak-87710-0#page_43"
+    }
+  ],
+  "FRESH": [
+    {
+      "store": "FRESH",
+      "name": "FRESH Maslenko",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/2/6/3/fresh-maslenko--4554263.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_10"
+    },
+    {
+      "store": "FRESH",
+      "name": "Hovädzia nožina",
+      "price": 1.25,
+      "price_str": "1,25 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/7/9/5/4/hovadzia-nozina--4547954.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88307-0#page_2"
+    },
+    {
+      "store": "FRESH",
+      "name": "Chlebíčková šunka",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/2/0/9/chlebickova-sunka--4554209.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_6"
+    },
+    {
+      "store": "FRESH",
+      "name": "Debrecínska lahôdka 100g",
+      "price": 0.75,
+      "price_str": "0,75 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/2/2/1/debrecinska-lahodka-100g--4554221.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_6"
+    },
+    {
+      "store": "FRESH",
+      "name": "Parizer saláma 100g",
+      "price": 0.42,
+      "price_str": "0,42 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/2/2/4/parizer-salama-100g--4554224.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_6"
+    },
+    {
+      "store": "FRESH",
+      "name": "FRESH Nitran saláma",
+      "price": 0.75,
+      "price_str": "0,75 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/4/1/3/fresh-nitran-salama--4554413.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_23"
+    },
+    {
+      "store": "FRESH",
+      "name": "FRESH Inovecká saláma 100g",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/2/2/7/fresh-inovecka-salama-100g--4554227.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_7"
+    },
+    {
+      "store": "FRESH",
+      "name": "Gazdovská klobása údená bukovým drevom 100g",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/2/0/3/gazdovska-klobasa-udena-bukovym-drevom--4554203.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_5"
+    },
+    {
+      "store": "FRESH",
+      "name": "Chlieb Konzumný 450g",
+      "price": 1.25,
+      "price_str": "1,25 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/2/3/6/chlieb-konzumny-450g--4554236.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_8"
+    },
+    {
+      "store": "FRESH",
+      "name": "FRESH Cestoviny bezvaječné",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/3/9/2/fresh-cestoviny-bezvajecne--4554392.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_20"
+    },
+    {
+      "store": "FRESH",
+      "name": "Zlatý bažant",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/1/5/2/zlaty-bazant--4554152.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0"
+    },
+    {
+      "store": "FRESH",
+      "name": "FRESH Oblátka Lieskový orech, Čokoláda 36g",
+      "price": 0.29,
+      "price_str": "0,29 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/5/2/4/fresh-oblatka-lieskovy-orech-cokolada--4554524.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_29"
+    },
+    {
+      "store": "FRESH",
+      "name": "SLNEČNICOVÝ OLEJ",
+      "price": 1.69,
+      "price_str": "1,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/7/9/3/6/slnecnicovy-olej--4547936.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88307-0"
+    },
+    {
+      "store": "FRESH",
+      "name": "Mrož Jahody, Maliny v čokoládě 50ml",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/3/3/5/mroz-jahody-maliny-v-cokolade-50ml--4554335.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_15"
+    },
+    {
+      "store": "FRESH",
+      "name": "TUC Bake Rolls",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/1/8/5/tuc-bake-rolls--4554185.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_4"
+    },
+    {
+      "store": "FRESH",
+      "name": "FRESH Belis Prášok",
+      "price": 2.39,
+      "price_str": "2,39 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/7/5/5/fresh-belis-prasok--4554755.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_37"
+    },
+    {
+      "store": "FRESH",
+      "name": "Odol zubná pasta Fluorid 100ml",
+      "price": 1.09,
+      "price_str": "1,09 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/6/3/8/odol-zubna-pasta-fluorid-100ml--4554638.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_36"
+    },
+    {
+      "store": "FRESH",
+      "name": "Odol zubná pasta Classic 75ml",
+      "price": 1.09,
+      "price_str": "1,09 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/6/4/4/odol-zubna-pasta-classic-75ml--4554644.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_36"
+    },
+    {
+      "store": "FRESH",
+      "name": "Dixi šampón Breza, Žĺtkovo-pšeničný 400ml",
+      "price": 1.79,
+      "price_str": "1,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/6/4/1/dixi-sampon-breza-zltkovo-psenicny-400ml--4554641.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_36"
+    },
+    {
+      "store": "FRESH",
+      "name": "FRESH Toaletný papier",
+      "price": 0.75,
+      "price_str": "0,75 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/4/6/5/6/fresh-toaletny-papier--4554656.jpg",
+      "link": "https://kompaszliav.sk/fresh-letaky/letak-88328-0#page_36"
+    }
+  ],
+  "TESCO": [
+    {
+      "store": "TESCO",
+      "name": "Tatranské mlieko 1,5 %",
+      "price": 0.42,
+      "price_str": "0,42 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/1/5/4/tatranske-mlieko-1-5--4534154.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0"
+    },
+    {
+      "store": "TESCO",
+      "name": "Zvolenský smotanový jogurt",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/1/7/8/zvolensky-smotanovy-jogurt--4534178.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0"
+    },
+    {
+      "store": "TESCO",
+      "name": "KOLIBA Tradičné maslo",
+      "price": 0.89,
+      "price_str": "0,89 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/8/0/5/koliba-tradicne-maslo--4534805.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_31"
+    },
+    {
+      "store": "TESCO",
+      "name": "Tesco smotana kyslá 16 %",
+      "price": 0.52,
+      "price_str": "0,52 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/2/4/1/tesco-smotana-kysla-16--4534241.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_4"
+    },
+    {
+      "store": "TESCO",
+      "name": "Rajo Tvaroh jemný hrudkovitý",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/2/3/2/rajo-tvaroh-jemny-hrudkovity--4534232.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_4"
+    },
+    {
+      "store": "TESCO",
+      "name": "Pražma chladená",
+      "price": 1.33,
+      "price_str": "1,33 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/8/3/8/prazma-chladena--4534838.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_32"
+    },
+    {
+      "store": "TESCO",
+      "name": "Svitko ryža",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/2/7/7/svitko-ryza--4534277.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_6"
+    },
+    {
+      "store": "TESCO",
+      "name": "Maltesers mliečna čokoláda",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/6/8/5/maltesers-mliecna-cokolada--4534685.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_25"
+    },
+    {
+      "store": "TESCO",
+      "name": "Milka čokoláda",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/9/1/6/milka-cokolada--4534916.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_36"
+    },
+    {
+      "store": "TESCO",
+      "name": "Pagáč syrový",
+      "price": 0.4,
+      "price_str": "0,40 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/5/6/2/pagac-syrovy--4534562.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_20"
+    },
+    {
+      "store": "TESCO",
+      "name": "Tesco repkový olej",
+      "price": 1.39,
+      "price_str": "1,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/7/5/7/tesco-repkovy-olej--4534757.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_29"
+    },
+    {
+      "store": "TESCO",
+      "name": "Avokádo",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/1/9/3/avokado--4534193.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_2"
+    },
+    {
+      "store": "TESCO",
+      "name": "Uhorka šalátová",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/1/6/9/uhorka-salatova--4534169.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0"
+    },
+    {
+      "store": "TESCO",
+      "name": "Balila chrumkavé gulôčky",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/6/9/4/balila-chrumkave-gulocky--4534694.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_26"
+    },
+    {
+      "store": "TESCO",
+      "name": "Pizza s klobásou",
+      "price": 1.59,
+      "price_str": "1,59 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/5/6/8/pizza-s-klobasou--4534568.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_20"
+    },
+    {
+      "store": "TESCO",
+      "name": "Dr. Oetker Ristorante pizza Quattro formaggi",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/5/1/5/3/dr-oetker-ristorante-pizza-quattro--4535153.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_47"
+    },
+    {
+      "store": "TESCO",
+      "name": "Tesco vajcia",
+      "price": 2.25,
+      "price_str": "2,25 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/7/6/3/tesco-vajcia--4534763.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_29"
+    },
+    {
+      "store": "TESCO",
+      "name": "Colgate zubná pasta",
+      "price": 1.29,
+      "price_str": "1,29 €",
+      "valid_from": "19.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/5/0/4/8/colgate-zubna-pasta--4535048.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_42"
+    },
+    {
+      "store": "TESCO",
+      "name": "SCHAUMA Šampón na vlasy",
+      "price": 3.65,
+      "price_str": "3,65 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/4/7/1/2/schauma-sampon-na-vlasy--4534712.jpg",
+      "link": "https://kompaszliav.sk/tesco-letaky/letak-88211-0#page_27"
+    }
+  ],
+  "TESCO supermarket": [
+    {
+      "store": "TESCO supermarket",
+      "name": "Tatranské mlieko 1,5 %",
+      "price": 0.42,
+      "price_str": "0,42 €",
+      "valid_from": "22.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/2/8/3/1/tatranske-mlieko-1-5--4532831.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Zvolenský smotanový jogurt",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/2/8/5/2/zvolensky-smotanovy-jogurt--4532852.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Tesco smotana kyslá 16 %",
+      "price": 0.52,
+      "price_str": "0,52 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/2/9/1/5/tesco-smotana-kysla-16--4532915.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_4"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Ryba Žilina Preto lahôdkové vajce",
+      "price": 0.59,
+      "price_str": "0,59 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/3/0/8/ryba-zilina-preto-lahodkove-vajce--4533308.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_24"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Svitko ryža",
+      "price": 1.49,
+      "price_str": "1,49 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/2/9/5/1/svitko-ryza--4532951.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_6"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Milka čokoláda",
+      "price": 1.19,
+      "price_str": "1,19 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/2/5/4/milka-cokolada--4533254.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_21"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Sedita Tatranky lieskový oriešok, 33 g",
+      "price": 0.39,
+      "price_str": "0,39 €",
+      "valid_from": "13.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/1/9/4/sedita-tatranky-lieskovy-oriesok-33-g--4533194.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_18"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Pagáč syrový",
+      "price": 0.4,
+      "price_str": "0,40 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/1/4/6/pagac-syrovy--4533146.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_16"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Tesco repkový olej",
+      "price": 1.39,
+      "price_str": "1,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/2/8/7/tesco-repkovy-olej--4533287.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_23"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Avokádo",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/2/8/7/3/avokado--4532873.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_2"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Uhorka šalátová",
+      "price": 0.35,
+      "price_str": "0,35 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/2/8/4/3/uhorka-salatova--4532843.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Pizza s klobásou",
+      "price": 1.59,
+      "price_str": "1,59 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/1/4/0/pizza-s-klobasou--4533140.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_16"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "DR. OETKER RISTORANTE PIZZA",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/3/4/4/dr-oetker-ristorante-pizza--4533344.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_25"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Tesco vajcia",
+      "price": 2.25,
+      "price_str": "2,25 €",
+      "valid_from": "20.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/2/9/3/tesco-vajcia--4533293.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_23"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Lovela Baby prací gél",
+      "price": 6.49,
+      "price_str": "6,49 €",
+      "valid_from": "19.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/4/4/0/lovela-baby-praci-gel--4533440.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_30"
+    },
+    {
+      "store": "TESCO supermarket",
+      "name": "Lenor aviváž 59 PD",
+      "price": 3.59,
+      "price_str": "3,59 €",
+      "valid_from": "19.5.",
+      "valid_until": "26.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/3/2/1/2/lenor-avivaz-59-pd--4533212.jpg",
+      "link": "https://kompaszliav.sk/tesco-supermarket-letaky/letak-88214-0#page_19"
+    }
+  ],
+  "Sintra": [
+    {
+      "store": "Sintra",
+      "name": "Kyslá smotana Babička 14 %",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/8/1/9/kysla-smotana-babicka-14--4553819.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_6"
+    },
+    {
+      "store": "Sintra",
+      "name": "RYBA Rybíe prsty 250 g",
+      "price": 1.59,
+      "price_str": "1,59 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/7/5/3/ryba-rybie-prsty-250-g--4553753.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_5"
+    },
+    {
+      "store": "Sintra",
+      "name": "Cestoviny Cessi bezvaječné 400 g viac druhov",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/9/8/4/cestoviny-cessi-bezvajecne-400-g-viac--4553984.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_9"
+    },
+    {
+      "store": "Sintra",
+      "name": "Cestoviny Gazdovské 370 g viac druhov",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/9/8/1/cestoviny-gazdovske-370-g-viac-druhov--4553981.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_9"
+    },
+    {
+      "store": "Sintra",
+      "name": "Káva Popradská Extra špeciál",
+      "price": 2.09,
+      "price_str": "2,09 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/9/2/4/kava-popradska-extra-special--4553924.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_8"
+    },
+    {
+      "store": "Sintra",
+      "name": "Ovocný čaj 40 g - viac druhov",
+      "price": 0.99,
+      "price_str": "0,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/8/9/1/ovocny-caj-40-g-viac-druhov--4553891.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_8"
+    },
+    {
+      "store": "Sintra",
+      "name": "Džús Capri Sun",
+      "price": 0.45,
+      "price_str": "0,45 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/6/0/9/dzus-capri-sun--4553609.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0"
+    },
+    {
+      "store": "Sintra",
+      "name": "Nugátová / Arašidová pochúťka 90 g",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/9/6/0/nugatova-arasidova-pochutka-90-g--4553960.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_9"
+    },
+    {
+      "store": "Sintra",
+      "name": "Oreo Baňadas 41 g viac druhov",
+      "price": 0.55,
+      "price_str": "0,55 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/8/7/9/oreo-banadas-41-g-viac-druhov--4553879.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_8"
+    },
+    {
+      "store": "Sintra",
+      "name": "Olej olivový extra panenský 250 ml",
+      "price": 2.9,
+      "price_str": "2,90 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/9/9/3/olej-olivovy-extra-panensky-250-ml--4553993.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_10"
+    },
+    {
+      "store": "Sintra",
+      "name": "Olej olivový Pomace 1 l",
+      "price": 7.5,
+      "price_str": "7,50 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/9/8/7/olej-olivovy-pomace-1-l--4553987.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_10"
+    },
+    {
+      "store": "Sintra",
+      "name": "Nanuk Keks 100 ml",
+      "price": 0.65,
+      "price_str": "0,65 €",
+      "valid_from": "21.5.",
+      "valid_until": "24.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/2/9/5/5/nanuk-keks-100-ml--4552955.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88334-0"
+    },
+    {
+      "store": "Sintra",
+      "name": "Palacinky Radoma 300 g dva druhy",
+      "price": 1.65,
+      "price_str": "1,65 €",
+      "valid_from": "21.5.",
+      "valid_until": "3.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/5/3/7/5/9/palacinky-radoma-300-g-dva-druhy--4553759.jpg",
+      "link": "https://kompaszliav.sk/sintra-letaky/letak-88337-0#page_5"
+    }
+  ],
+  "dm drogerie": [
+    {
+      "store": "dm drogerie",
+      "name": "Denkmit",
+      "price": 4.95,
+      "price_str": "4,95 €",
+      "valid_from": "1.6.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/7/0/9/9/8/denkmit--4470998.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-87833-0#page_30"
+    },
+    {
+      "store": "dm drogerie",
+      "name": "ECOVER aviváž",
+      "price": 2.95,
+      "price_str": "2,95 €",
+      "valid_from": "1.6.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/6/3/1/ecover-avivaz--4525631.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-88181-0#page_3"
+    },
+    {
+      "store": "dm drogerie",
+      "name": "Frosch Aloe Vera aviváž",
+      "price": 3.25,
+      "price_str": "3,25 €",
+      "valid_from": "10.2.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/7/1/0/3/4/frosch-aloe-vera-avivaz--4471034.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-87833-0#page_30"
+    },
+    {
+      "store": "dm drogerie",
+      "name": "Dontodent",
+      "price": 0.95,
+      "price_str": "0,95 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/5/6/5/dontodent--4525565.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-88181-0#page_2"
+    },
+    {
+      "store": "dm drogerie",
+      "name": "Balea MEN pánsky sprchovací gél",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/7/0/4/1/0/balea-men-pansky-sprchovaci-gel--4470410.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-87833-0#page_11"
+    },
+    {
+      "store": "dm drogerie",
+      "name": "Balea dámský krémový sprchovací gél",
+      "price": 0.85,
+      "price_str": "0,85 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/6/6/1/balea-damsky-kremovy-sprchovaci-gel--4525661.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-88181-0#page_4"
+    },
+    {
+      "store": "dm drogerie",
+      "name": "DERMACOL PRAGUE AROMA MOMENT",
+      "price": 1.95,
+      "price_str": "1,95 €",
+      "valid_from": "11.3.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/4/7/0/4/2/2/dermacol-prague-aroma-moment--4470422.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-87833-0#page_12"
+    },
+    {
+      "store": "dm drogerie",
+      "name": "alverde NATURKOSMETIK BaBy",
+      "price": 2.95,
+      "price_str": "2,95 €",
+      "valid_from": "1.5.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/6/6/4/alverde-naturkosmetik-baby--4525664.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-88181-0#page_4"
+    },
+    {
+      "store": "dm drogerie",
+      "name": "GO WIPES",
+      "price": 1.65,
+      "price_str": "1,65 €",
+      "valid_from": "1.4.",
+      "valid_until": "31.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/2/5/6/3/7/go-wipes--4525637.jpg",
+      "link": "https://kompaszliav.sk/dm-drogerie-letaky/letak-88181-0#page_3"
+    }
+  ],
+  "101 Drogerie": [
+    {
+      "store": "101 Drogerie",
+      "name": "Woolite prací prostriedok",
+      "price": 6.99,
+      "price_str": "6,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "9.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/5/5/2/woolite-praci-prostriedok--4538552.jpg",
+      "link": "https://kompaszliav.sk/101-drogerie-letaky/letak-88250-0#page_11"
+    },
+    {
+      "store": "101 Drogerie",
+      "name": "COLGATE Zubná pasta 75 ml",
+      "price": 1.39,
+      "price_str": "1,39 €",
+      "valid_from": "20.5.",
+      "valid_until": "9.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/4/9/8/colgate-zubna-pasta-75-ml--4538498.jpg",
+      "link": "https://kompaszliav.sk/101-drogerie-letaky/letak-88250-0#page_9"
+    },
+    {
+      "store": "101 Drogerie",
+      "name": "FA Sprchovací gél",
+      "price": 1.69,
+      "price_str": "1,69 €",
+      "valid_from": "20.5.",
+      "valid_until": "9.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/3/9/9/fa-sprchovaci-gel--4538399.jpg",
+      "link": "https://kompaszliav.sk/101-drogerie-letaky/letak-88250-0#page_6"
+    },
+    {
+      "store": "101 Drogerie",
+      "name": "Cameleo šampón na farbenie vlasov",
+      "price": 1.59,
+      "price_str": "1,59 €",
+      "valid_from": "20.5.",
+      "valid_until": "9.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/4/2/9/cameleo-sampon-na-farbenie-vlasov--4538429.jpg",
+      "link": "https://kompaszliav.sk/101-drogerie-letaky/letak-88250-0#page_7"
+    },
+    {
+      "store": "101 Drogerie",
+      "name": "Schwarzkopf Schauma šampón",
+      "price": 2.99,
+      "price_str": "2,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "9.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/4/2/6/schwarzkopf-schauma-sampon--4538426.jpg",
+      "link": "https://kompaszliav.sk/101-drogerie-letaky/letak-88250-0#page_7"
+    },
+    {
+      "store": "101 Drogerie",
+      "name": "Violeta Hemo-care vlhčený toaletný papier 60 ks",
+      "price": 1.99,
+      "price_str": "1,99 €",
+      "valid_from": "20.5.",
+      "valid_until": "9.6.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/3/8/2/8/8/violeta-hemo-care-vlhceny-toaletny--4538288.jpg",
+      "link": "https://kompaszliav.sk/101-drogerie-letaky/letak-88250-0#page_2"
+    }
+  ],
+  "Terno": [
+    {
+      "store": "Terno",
+      "name": "KOSTELECKÉ UZENINY BRAVČOVÁ ŠUNKA DUSENÁ GUĽATÁ",
+      "price": 0.79,
+      "price_str": "0,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/0/5/7/4/kostelecke-uzeniny-bravcova-sunka-dusena--4540574.jpg",
+      "link": "https://kompaszliav.sk/terno-letaky/letak-88265-0#page_10"
+    },
+    {
+      "store": "Terno",
+      "name": "Kostelecké Uzeniny Saláma Gothajská",
+      "price": 0.49,
+      "price_str": "0,49 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/0/5/7/7/kostelecke-uzeniny-salama-gothajska--4540577.jpg",
+      "link": "https://kompaszliav.sk/terno-letaky/letak-88265-0#page_10"
+    },
+    {
+      "store": "Terno",
+      "name": "TERKA CESTOVINY",
+      "price": 0.69,
+      "price_str": "0,69 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/0/6/4/3/terka-cestoviny--4540643.jpg",
+      "link": "https://kompaszliav.sk/terno-letaky/letak-88265-0#page_13"
+    },
+    {
+      "store": "Terno",
+      "name": "FINE PRACÍ GÉL",
+      "price": 2.99,
+      "price_str": "2,99 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/0/8/0/2/fine-praci-gel--4540802.jpg",
+      "link": "https://kompaszliav.sk/terno-letaky/letak-88265-0#page_21"
+    },
+    {
+      "store": "Terno",
+      "name": "Frosch Eko Senses Sprchový gél a šampón pre deti",
+      "price": 3.79,
+      "price_str": "3,79 €",
+      "valid_from": "21.5.",
+      "valid_until": "27.5.2026",
+      "image": "https://kompaszliav.sk/public/gimg/4/5/4/0/8/2/6/frosch-eko-senses-sprchovy-gel-a-sampon--4540826.jpg",
+      "link": "https://kompaszliav.sk/terno-letaky/letak-88265-0#page_22"
+    }
+  ]
+}

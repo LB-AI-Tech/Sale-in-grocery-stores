@@ -233,7 +233,7 @@ def try_schwarz_api() -> list[dict]:
         meta = fetch_json(meta_url)
     except Exception as e:
         print(f"  ✗ Metadata fetch failed: {e}")
-        return []
+        return [], "", ""
 
     flyer       = meta.get("flyer", meta)
     flyer_id    = flyer.get("id") or flyer.get("flyerId") or slug
@@ -264,7 +264,7 @@ def try_schwarz_api() -> list[dict]:
             if products:
                 print(f"  ✓ Products endpoint: {url}")
                 print(f"    → {len(products)} products")
-                return products
+                return products, valid_from, valid_until
             else:
                 print(f"  – {url.split('/')[-1]}: response received but no parseable products")
         except urllib.error.HTTPError as e:
@@ -273,7 +273,8 @@ def try_schwarz_api() -> list[dict]:
             print(f"  – {url.split('/')[-1]}: {e}")
 
     print("  ✗ No product endpoint found on Schwarz API")
-    return []
+    # Even though we found no products, expose the flyer dates for downstream stages
+    return [], valid_from, valid_until
 
 
 def _unwrap_list(data) -> list:
@@ -987,12 +988,30 @@ def _dom_scrape(page) -> list[dict]:
 
 def scrape() -> list[dict]:
     # Stage 1 — lightweight REST probe (no browser)
-    products = try_schwarz_api()
+    # Always returns (products, valid_from, valid_until) — dates come from Schwarz
+    # flyer metadata even when the products endpoint is 404.
+    result = try_schwarz_api()
+    if isinstance(result, tuple):
+        products, flyer_vf, flyer_vu = result
+    else:
+        products, flyer_vf, flyer_vu = result, "", ""   # legacy compat
+
     if products:
         return products
 
     # Stage 2 + 3 — browser-based (Playwright required)
     products = try_network_interception()
+
+    # Backfill validity dates from Schwarz flyer metadata (Stage 1 metadata is
+    # always retrieved even when no product endpoint is available).
+    if flyer_vf or flyer_vu:
+        for p in products:
+            if not p.get("valid_from"):
+                p["valid_from"]  = flyer_vf
+            if not p.get("valid_until"):
+                p["valid_until"] = flyer_vu
+        print(f"  ↳ Dátumy z Schwarz metadát aplikované: {flyer_vf} – {flyer_vu}")
+
     return products
 
 

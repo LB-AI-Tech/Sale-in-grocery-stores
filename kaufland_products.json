@@ -12,8 +12,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09701792_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Townland Pánske boxerky",
@@ -28,8 +28,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634092039_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Berto V.I.P. šunka",
@@ -44,8 +44,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588006029338_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Benita Tuková nátierka",
@@ -60,8 +60,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00073990_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rajo Fit Tvaroh ochutený",
@@ -76,8 +76,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00055362_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Carte D'OR Dezert",
@@ -92,8 +92,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00139159A_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Dr.Oetker Ristorante Pizza Salame",
@@ -108,8 +108,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4001724037545_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Vodňanské kuře Kuracie Safari",
@@ -124,8 +124,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8595006324578_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Zvolenský Smotanová zmrzlina",
@@ -140,8 +140,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00040085_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kotányi Zmes korenia",
@@ -151,13 +151,13 @@
     "price_str": "2.97 €",
     "original_price": "5.94 €",
     "discount_pct": 50,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00050751_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Carpathia Polievka XL",
@@ -167,13 +167,13 @@
     "price_str": "2.98 €",
     "original_price": "5.96 €",
     "discount_pct": 50,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "polievka",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20767302_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "7 Days Max croissant",
@@ -188,8 +188,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/7622201388386_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Budiš Ochutený perlivý nápok",
@@ -199,13 +199,13 @@
     "price_str": "1.13 €",
     "original_price": "2.26 €",
     "discount_pct": 50,
-    "category": "Ostatné",
-    "type": "",
+    "category": "Nápoje",
+    "type": "minerálna voda",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586009266613_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Puzzle",
@@ -220,8 +220,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20132201_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bravčová pečeň",
@@ -236,8 +236,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00046996_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šiška s ovocnou náplňou 65 g",
@@ -252,8 +252,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20790818_P",
     "url": "",
     "unit": "65 g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Čučoriedky",
@@ -268,8 +268,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00097600_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Banány",
@@ -284,8 +284,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09701673_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bravčové karé bez kosti, v celku",
@@ -300,8 +300,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2802690000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Z lásky k tradícii Poctivé slovenské párky pultový predaj",
@@ -316,8 +316,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00141608_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Classic Bravčové párky",
@@ -332,8 +332,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367304781_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K Gold Saláma Spianata 100 g",
@@ -348,8 +348,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20928806_P",
     "url": "",
     "unit": "100 g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Leerdammer Original Plnotučný syr blok, t. v s. 45 %",
@@ -364,8 +364,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8721800401096_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Zvolenský Smotanový jogurt",
@@ -380,8 +380,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586000140400_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Eidam Polotvrdý zrejúci syr",
@@ -396,8 +396,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2850810000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Balsýr Mäkký nezrejúci syr",
@@ -407,13 +407,13 @@
     "price_str": "1.69 €",
     "original_price": "2.19 €",
     "discount_pct": 22,
-    "category": "Ostatné",
+    "category": "Syry",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594015246956_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "NIKA Bryndza v dýhe plnotučná",
@@ -428,8 +428,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588007758329_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Milko Môj Skyr",
@@ -444,8 +444,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20118094_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nowaco Filé porcie",
@@ -455,13 +455,13 @@
     "price_str": "3.29 €",
     "original_price": "3.49 €",
     "discount_pct": 34,
-    "category": "Ostatné",
+    "category": "Mäso & ryby",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8595022900176_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Schofrulade Jahody v čokoláde",
@@ -476,8 +476,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5901122237129_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Favourites Mrazený krém v kornútiku",
@@ -492,8 +492,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5410651014113_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Snico Horčica",
@@ -508,8 +508,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/01300696_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Cukor kryštálový",
@@ -524,8 +524,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00077225_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Vifon Instantná polievka",
@@ -540,8 +540,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8934561000327_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Favourites Tekvicový olej",
@@ -556,8 +556,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/9006741010767_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Favourites Paradajková omáčka",
@@ -572,8 +572,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367406805_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "PENAM Večerný chlebík",
@@ -588,8 +588,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00122791_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Zlatušky 210 g",
@@ -599,13 +599,13 @@
     "price_str": "2.99 €",
     "original_price": "4.09 €",
     "discount_pct": 26,
-    "category": "Ostatné",
+    "category": "Sladkosti & snacky",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594158580580_SK_P",
     "url": "",
     "unit": "210 g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Favourites Horká čokoláda",
@@ -620,8 +620,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4337185870019_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Emco Tyčinka",
@@ -636,8 +636,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00063608_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kávoviny Špaldové piškóty s kokosom",
@@ -652,8 +652,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00134865_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Biosaurus BIO Kukuričný snack",
@@ -668,8 +668,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588004638334_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "KGold. Zrnková káva",
@@ -684,8 +684,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20916519_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rajec Pramenitá voda",
@@ -700,8 +700,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00134037_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Cappy Šťava 100 % alebo Nektár",
@@ -716,8 +716,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00134063_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Targa Florio Limonáda",
@@ -732,8 +732,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8595231221253_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Koskenkorva Vodka",
@@ -748,8 +748,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20159667_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Finish Tablety do umývačky",
@@ -764,8 +764,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20876535_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Colgate Zubná pasta",
@@ -780,8 +780,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20341732_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Sunar Detský snack",
@@ -796,8 +796,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8592084408923_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Goodies Ovsená tyčinka pre deti",
@@ -812,8 +812,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8592084420499_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Bio Snack pre deti",
@@ -828,8 +828,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367330841_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Sunar Kašička s cereáliami",
@@ -844,8 +844,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8592084411855_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Auto - Tatra",
@@ -860,8 +860,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8590878645011_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gabbys Dollhouse Dievčenské šaty",
@@ -876,8 +876,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134796_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Ponožky",
@@ -892,8 +892,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367646515_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Členkové ponožky",
@@ -908,8 +908,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367645891_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Tenisové ponožky",
@@ -924,8 +924,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/27172339_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Šiltovka",
@@ -940,8 +940,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4062646067928_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Camprella Pánska domáca obuv",
@@ -956,8 +956,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4039653896728_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Camprella Dámska domáca obuv",
@@ -972,8 +972,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4039653896612_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Momentový kľúč na bicykel",
@@ -988,8 +988,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627166877_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Cyklistická prilba",
@@ -1004,8 +1004,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627203589_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Maces",
@@ -1020,8 +1020,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586001230001_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Dobrota Vianočka",
@@ -1036,8 +1036,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00130632_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Milsy Syrové nite",
@@ -1052,8 +1052,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00082756_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tami Nátierka so syrom",
@@ -1063,13 +1063,13 @@
     "price_str": "0.89 €",
     "original_price": "0.99 €",
     "discount_pct": 34,
-    "category": "Ostatné",
+    "category": "Syry",
     "type": "nátierka",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00072074_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Karička Tavený syr črievko",
@@ -1084,8 +1084,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00505672_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "NOVOFRUCT Uhorky",
@@ -1095,13 +1095,13 @@
     "price_str": "1.69 €",
     "original_price": "1.99 €",
     "discount_pct": 34,
-    "category": "Ostatné",
-    "type": "",
+    "category": "Ovocie & zelenina",
+    "type": "uhorka",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586015176234_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Cessi Vaječné cestoviny",
@@ -1116,8 +1116,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00021496_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Minit home Jemné pečivo",
@@ -1132,8 +1132,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00118746_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Stará mama Plnené knedličky",
@@ -1148,8 +1148,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588006497946_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Oravské chipsy Zemiakové lupienky",
@@ -1164,8 +1164,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586001483087_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Riso Extra džem",
@@ -1180,8 +1180,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20849972_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Hypoestes Trio (Hypoestes) priemer kvetináča: 12 cm",
@@ -1196,8 +1196,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20846095_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Orchidea 2-výhonková (Phalaenopsis) priemer kvetináča: 12 cm",
@@ -1212,8 +1212,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09901750_P-2",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Antúrium Andreanovo (Anthurium andreanum) priemer kvetináča: 14 cm",
@@ -1228,8 +1228,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8714098043215_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Darčeková kytica rezaná kytica",
@@ -1244,8 +1244,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00120953_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Zvonček v keramike (Campanula) priemer kvetináča: 10,5",
@@ -1260,8 +1260,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5708869285068_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Hortensia kalinolistá (Hydrangea macrophylla) priemer kvetináča: 14 cm",
@@ -1276,8 +1276,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4011261021372_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šalát kráľovský mix",
@@ -1292,8 +1292,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20886651_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šalát ľadový rezaný",
@@ -1308,8 +1308,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20886663_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šalát sedliacky mix",
@@ -1324,8 +1324,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20886502_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šalát srdiečko",
@@ -1340,8 +1340,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20770207_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šalát ľadový",
@@ -1356,8 +1356,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4000007036862_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šalát rímsky",
@@ -1372,8 +1372,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594009794142_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šalát Rímsky mini",
@@ -1388,8 +1388,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00025068_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bio jahody",
@@ -1404,8 +1404,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00112118_P-3",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Jahody slovenské",
@@ -1420,8 +1420,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00099000_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Plamienok (Clematis Hybrid) rozmer kvet.: 10,5x 10,5cm",
@@ -1436,8 +1436,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20949269_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Klinček záhradný (Dianthus caryophyllus) priemer kvetináča: 10,5 cm",
@@ -1452,8 +1452,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4011261024694_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Cibuľka lahôdková",
@@ -1468,8 +1468,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594009793459_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Čerešne",
@@ -1484,8 +1484,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2836300000000_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kaleráb",
@@ -1500,8 +1500,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588008600122_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Paradajky strapcové strapcové",
@@ -1516,8 +1516,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09701834_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Brokolica",
@@ -1532,8 +1532,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8031858122011_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Broskyne",
@@ -1548,8 +1548,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2837050000000_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Hrozno červené",
@@ -1564,8 +1564,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2837210000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Cvikla",
@@ -1575,13 +1575,13 @@
     "price_str": "0.69 €",
     "original_price": "0.99 €",
     "discount_pct": 30,
-    "category": "Ostatné",
+    "category": "Ovocie & zelenina",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09701704_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "BIO Špargľa biela slovenská",
@@ -1596,8 +1596,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20887287_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šampiňóny krémové 250g",
@@ -1607,13 +1607,13 @@
     "price_str": "0.79 €",
     "original_price": "1.19 €",
     "discount_pct": 33,
-    "category": "Ostatné",
+    "category": "Ovocie & zelenina",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5903137507433_SK_P",
     "url": "",
     "unit": "250g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kivi Gold",
@@ -1623,13 +1623,13 @@
     "price_str": "0.69 €",
     "original_price": "0.99 €",
     "discount_pct": 30,
-    "category": "Ostatné",
+    "category": "Ovocie & zelenina",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/94001112_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Jablko Golden Delicious",
@@ -1644,8 +1644,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2836000000000_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Pomaranče",
@@ -1660,8 +1660,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_09701828_P.jpg",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tekvica Hokaido",
@@ -1676,8 +1676,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2837650000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Z lásky k tradícii Zemiaky konzumné neprané",
@@ -1692,8 +1692,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20838375_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Classic Lovecká saláma",
@@ -1708,8 +1708,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00036234_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Classic Pečená mäsová sekaná",
@@ -1724,8 +1724,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00084867_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tradičná klobása domáca",
@@ -1740,8 +1740,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2824010000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nitran saláma",
@@ -1756,8 +1756,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/01001680_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Hrádocká tlačenka",
@@ -1772,8 +1772,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_01002814_P.jpg",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Z lásky k tradícii Slovenská šunka 95%",
@@ -1788,8 +1788,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00140190_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Virema Trade Morčacie krídla",
@@ -1804,8 +1804,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2819730000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Purland Kurča",
@@ -1820,8 +1820,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2819450000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kačica s drobami",
@@ -1831,13 +1831,13 @@
     "price_str": "3.09 €",
     "original_price": "5.15 €",
     "discount_pct": 40,
-    "category": "Ostatné",
+    "category": "Mäso & ryby",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20626652_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Hyza GRIL MIX Kuracie stehná a krídla",
@@ -1852,8 +1852,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00046557_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Mortadella Medvedík",
@@ -1863,13 +1863,13 @@
     "price_str": "1.45 €",
     "original_price": "1.99 €",
     "discount_pct": 27,
-    "category": "Ostatné",
+    "category": "Mäso & ryby",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4006229020771_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Berto Família šunka",
@@ -1884,8 +1884,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588006029321_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Viedenské párky pre deti",
@@ -1900,8 +1900,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594011333896_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šunka s morč. mäsom",
@@ -1916,8 +1916,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588006660500_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bravčové paprčky",
@@ -1932,8 +1932,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20213049_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Údené stehno z prasiatka marinované na grilovanie",
@@ -1948,8 +1948,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2808920000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bravčové rebierka v marináde rôzne druhy balenie cca 500 g",
@@ -1964,8 +1964,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_20281990_P.jpg",
     "url": "",
     "unit": "500 g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Purland Hovädzia polievková zmes",
@@ -1980,8 +1980,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2860580000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Purland Teľacie stehno orech",
@@ -1996,8 +1996,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00076796_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bravčová krkovička v Barbecue marináde bez kosti, pultový predaj",
@@ -2012,8 +2012,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_00068730_P.jpg",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Írska hovädzia falošná sviečkovica",
@@ -2028,8 +2028,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2807900000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bravčové kolienko zadné s kosťou, v celku",
@@ -2044,8 +2044,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2802620000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Purland Mleté mäso bravčové a hovädzie",
@@ -2060,8 +2060,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00115394_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Purland Bravčová panenská sviečkovica XXL",
@@ -2076,8 +2076,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00127614_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Purland Bravčová krkovička bez kosti, v celku",
@@ -2092,8 +2092,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00106858_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Teľací burger",
@@ -2103,13 +2103,13 @@
     "price_str": "4.49 €",
     "original_price": "",
     "discount_pct": 0,
-    "category": "Ostatné",
+    "category": "Mäso & ryby",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00135320_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-GOLD EDITION Chorizo fein 100 g",
@@ -2124,8 +2124,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8421395418164_23P",
     "url": "",
     "unit": "100 g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Z lásky k tradícii Kuracie rezne",
@@ -2140,8 +2140,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2810030000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Blue Bay Krevety Rosé",
@@ -2156,8 +2156,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5904811423452_23P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Fish & Seafood Losos fileta s kožou",
@@ -2172,8 +2172,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2810580000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rajo Tradičné maslo",
@@ -2184,12 +2184,12 @@
     "original_price": "3.19 €",
     "discount_pct": 47,
     "category": "Mliečne výrobky",
-    "type": "",
+    "type": "maslo",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8585002500830_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kozí syr údený 45 % Tavený údený syr z kozieho mlieka",
@@ -2204,8 +2204,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00141219_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kleopatra Polotvrdý zrejúci syr",
@@ -2215,13 +2215,13 @@
     "price_str": "0.99 €",
     "original_price": "1.19 €",
     "discount_pct": 16,
-    "category": "Ostatné",
+    "category": "Syry",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2860160000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "MADETA Juhočeský salámový syr",
@@ -2231,13 +2231,13 @@
     "price_str": "0.95 €",
     "original_price": "1.19 €",
     "discount_pct": 20,
-    "category": "Mliečne výrobky",
+    "category": "Syry",
     "type": "klobása",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2854360000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "LIPTOV Bryndza",
@@ -2252,8 +2252,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20666854_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tami Encián Mäkký zrejúci syr",
@@ -2268,8 +2268,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588004490789_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rajo Mňam Smotanový jogurt",
@@ -2284,8 +2284,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20284675_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Müller Cremoso",
@@ -2295,13 +2295,13 @@
     "price_str": "1.55 €",
     "original_price": "2.09 €",
     "discount_pct": 25,
-    "category": "Ostatné",
+    "category": "Mliečne výrobky",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4025500001377_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Jogurt rôzne druhy 2 x 120 g",
@@ -2316,8 +2316,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/3023290470657_SK_P",
     "url": "",
     "unit": "120 g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Puding rôzne druhy 4 x 115 g",
@@ -2327,13 +2327,13 @@
     "price_str": "1.99 €",
     "original_price": "2.49 €",
     "discount_pct": 20,
-    "category": "Ostatné",
+    "category": "Mliečne výrobky",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4036500004831_SK_P",
     "url": "",
     "unit": "115 g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rajo Brejky Mlieko",
@@ -2348,8 +2348,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00407135_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Hellmann´s Majonéza",
@@ -2364,8 +2364,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8720182764034_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Grotto Bageta Debrecínska Exklusiv",
@@ -2380,8 +2380,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00122434_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rybací šalát Fit s jogurtom",
@@ -2396,8 +2396,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2849240000000_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Zmes olív a mäkkého syra",
@@ -2407,13 +2407,13 @@
     "price_str": "0.99 €",
     "original_price": "1.39 €",
     "discount_pct": 28,
-    "category": "Ostatné",
+    "category": "Syry",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20341849_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Koro Bryndzová nátierka",
@@ -2428,8 +2428,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20903369A_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "DR.OETKER Pektín",
@@ -2439,13 +2439,13 @@
     "price_str": "1.39 €",
     "original_price": "1.99 €",
     "discount_pct": 30,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00084250_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "DR.OETKER Sirupfix",
@@ -2455,13 +2455,13 @@
     "price_str": "0.65 €",
     "original_price": "0.89 €",
     "discount_pct": 26,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8595072627665_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "DR.OETKER Želírovacia zmes 2:1",
@@ -2471,13 +2471,13 @@
     "price_str": "0.99 €",
     "original_price": "1.39 €",
     "discount_pct": 28,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/03901863_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Vitana Základ jedla",
@@ -2487,13 +2487,13 @@
     "price_str": "1.49 €",
     "original_price": "1.99 €",
     "discount_pct": 25,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "polievka",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8593837860715_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "THYMOS Konzervačný prípr.",
@@ -2508,8 +2508,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00123718_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Mäspoma Zelko Konzervačná zmes",
@@ -2524,8 +2524,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588000105410_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "HELS Kvasný ocot",
@@ -2535,13 +2535,13 @@
     "price_str": "0.49 €",
     "original_price": "0.67 €",
     "discount_pct": 26,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586000130135_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Mäspoma Dia Zeko Konzervačná zmes",
@@ -2556,8 +2556,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/03905575_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Thymos Horčičné semienko",
@@ -2567,13 +2567,13 @@
     "price_str": "0.59 €",
     "original_price": "0.79 €",
     "discount_pct": 25,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586014355937_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Prepeličie cestoviny",
@@ -2588,8 +2588,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588001128371_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Ovko Plus Výživa do ruky",
@@ -2604,8 +2604,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00137914_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Dr.Oetker Želírovací cukor 2:1 Extra",
@@ -2620,8 +2620,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/03200600_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Dr.Oetker Želírovací cukor 3:1",
@@ -2636,8 +2636,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/03201351_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Costa d´Oro Olivový olej",
@@ -2652,8 +2652,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8007270150154_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "GIANA Slnečnicový olej",
@@ -2668,8 +2668,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8595241513744_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Classic Zmes orechov XXL",
@@ -2684,8 +2684,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367254888_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Sokra Makrela",
@@ -2700,8 +2700,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20720156_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Classic Tuniak filety",
@@ -2716,8 +2716,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8410131088310_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Donut Yuzu - Mascarpone",
@@ -2732,8 +2732,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20916688_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Pizza párok 110 g",
@@ -2748,8 +2748,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/9586_SK_P",
     "url": "",
     "unit": "110 g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Závin prémiový tvarohový",
@@ -2764,8 +2764,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586011504291_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kváskový chlebík tekvicový 400g",
@@ -2780,8 +2780,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20351795_P",
     "url": "",
     "unit": "400g",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kaizerka multicereálna",
@@ -2791,13 +2791,13 @@
     "price_str": "0.12 €",
     "original_price": "0.16 €",
     "discount_pct": 25,
-    "category": "Ostatné",
+    "category": "Pekáreň",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00019539_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Chlieb konzumný",
@@ -2812,8 +2812,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/1490_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Pizzová taštička",
@@ -2828,8 +2828,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00099064_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Anglická kaizerka",
@@ -2839,13 +2839,13 @@
     "price_str": "0.49 €",
     "original_price": "0.59 €",
     "discount_pct": 16,
-    "category": "Ostatné",
+    "category": "Pekáreň",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/6062_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nelapek Duetky orechové alebo makové",
@@ -2855,13 +2855,13 @@
     "price_str": "0.99 €",
     "original_price": "1.49 €",
     "discount_pct": 33,
-    "category": "Ostatné",
+    "category": "Sladkosti & snacky",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586011503393_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Jomo Bábovka mamorová alebo gazdovská",
@@ -2871,13 +2871,13 @@
     "price_str": "1.79 €",
     "original_price": "2.47 €",
     "discount_pct": 27,
-    "category": "Ostatné",
+    "category": "Pekáreň",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/02912793_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Barbie Lízanka",
@@ -2892,8 +2892,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20940834_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Paw Patrol Želé cukríky",
@@ -2908,8 +2908,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20940837_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Minecraft Cukríky",
@@ -2924,8 +2924,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20940933_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Vajíčko s prekvapením",
@@ -2935,13 +2935,13 @@
     "price_str": "0.99 €",
     "original_price": "1.33 €",
     "discount_pct": 25,
-    "category": "Ostatné",
+    "category": "Sladkosti & snacky",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8714786305427_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Jumbo Burger rôzne druhy",
@@ -2956,8 +2956,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8590311105898_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Sedita Horalky",
@@ -2972,8 +2972,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8584004040108_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Classic Čierny čaj",
@@ -2983,13 +2983,13 @@
     "price_str": "0.85 €",
     "original_price": "1.19 €",
     "discount_pct": 28,
-    "category": "Ostatné",
-    "type": "",
+    "category": "Nápoje",
+    "type": "čaj",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4337185828607_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Mövenpick Zrnková káva",
@@ -3004,8 +3004,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00094486_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Orbit Dražé žuvačky",
@@ -3016,12 +3016,12 @@
     "original_price": "3.89 €",
     "discount_pct": 33,
     "category": "Sladkosti & snacky",
-    "type": "",
+    "type": "bonbón",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20275713_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Jacobs Mletá káva",
@@ -3036,8 +3036,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20910794_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Milka Čokoláda",
@@ -3052,8 +3052,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00035643_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kit Kat Oblátka v čokoláde",
@@ -3068,8 +3068,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/02803000_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Slovakia Tyčinky",
@@ -3084,8 +3084,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20604545_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Radegast Svetlý ležiak",
@@ -3100,8 +3100,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20925932_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Budweiser Budvar Svetlý ležiak 12 %",
@@ -3116,8 +3116,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594403708721_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gambrinus Svetlé pivo 10 %",
@@ -3132,8 +3132,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00133525_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Monster Energetický nápoj",
@@ -3148,8 +3148,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00134091_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Relax Šťava 100 %",
@@ -3164,8 +3164,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594057635312_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Qapka Ochutená voda",
@@ -3175,13 +3175,13 @@
     "price_str": "1.09 €",
     "original_price": "1.39 €",
     "discount_pct": 21,
-    "category": "Ostatné",
+    "category": "Nápoje",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594223800001_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Golden Ľadová Liehovina",
@@ -3196,8 +3196,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00041522_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Jägermeister Bylinný likér",
@@ -3212,8 +3212,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4067700026392_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Stará žitná myslivecká Liehovina",
@@ -3228,8 +3228,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594001446735_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Pivnica Tibava Víno",
@@ -3239,13 +3239,13 @@
     "price_str": "2.19 €",
     "original_price": "2.79 €",
     "discount_pct": 21,
-    "category": "Ostatné",
-    "type": "",
+    "category": "Nápoje",
+    "type": "víno",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588001695330_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Captain Morgan Liehovina",
@@ -3260,8 +3260,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5000299223017_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Hanácka Vodka",
@@ -3276,8 +3276,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/02204810_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Beefeater Miešaný alk. nápoj",
@@ -3292,8 +3292,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588002422805_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kofola Limonáda",
@@ -3308,8 +3308,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00133949_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Royal HUGO Šumivý vínny koktail",
@@ -3319,13 +3319,13 @@
     "price_str": "2.69 €",
     "original_price": "3.59 €",
     "discount_pct": 25,
-    "category": "Ostatné",
-    "type": "",
+    "category": "Nápoje",
+    "type": "víno",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5998811766008_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gusto",
@@ -3340,8 +3340,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20348371_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "BioKids BIO Detské kukuričné chrumky s cviklou",
@@ -3356,8 +3356,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20345820_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Syoss Oleo Intense Farba na vlasy",
@@ -3372,8 +3372,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00025830_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tento Kitchen Kuchynské utierky",
@@ -3388,8 +3388,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/6414300103363_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Holiaci strojček a náhradné hlavice",
@@ -3404,8 +3404,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00135729_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Fa Dezodorant",
@@ -3420,8 +3420,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/3838824085272_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tento Family Toaletný papier",
@@ -3436,8 +3436,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20281984_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Old Spice Sprchovací gél",
@@ -3452,8 +3452,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20619509_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "H&S Šampón na vlasy",
@@ -3468,8 +3468,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20696717_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Felix Kapsičky pre mačky",
@@ -3484,8 +3484,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00122054_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Domestos Dezinfekčný prostriedok",
@@ -3500,8 +3500,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/05001580_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Savo Dezinfekčný sprej",
@@ -3516,8 +3516,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8594005390225_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Sifo Granulovaný čistič odpadov",
@@ -3532,8 +3532,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8585003920545_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Silan Aviváž",
@@ -3548,8 +3548,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20612528_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Persil Prací prášok al. gél",
@@ -3564,8 +3564,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20684004_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Viečka na poháre",
@@ -3580,8 +3580,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20923606_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Viečka na poháre Twist",
@@ -3596,8 +3596,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20923663_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Viečka na poháre Omnia",
@@ -3612,8 +3612,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20923711_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Viečka na poháre Twist",
@@ -3628,8 +3628,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20923719_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Viečka na poháre",
@@ -3644,8 +3644,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20923721_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Viečka na poháre Omnia",
@@ -3660,8 +3660,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20923491_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Hrniec na zaváranie",
@@ -3676,8 +3676,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20820908_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Poháre na zaváranie",
@@ -3692,8 +3692,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/540_6_20zn2_20827639",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Poháre na zaváranie",
@@ -3708,8 +3708,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/315_4_20zn_20827637",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Poháre na zaváranie",
@@ -3724,8 +3724,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/200_6_20zn2_20827583",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tronic LCD tabuľa na písanie",
@@ -3740,8 +3740,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627777707_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Crelando Kufrík na maľovanie",
@@ -3756,8 +3756,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627779053_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kidland Detský instantný fotoaparát",
@@ -3772,8 +3772,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627576270_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Kidland Detský fotoaparát",
@@ -3788,8 +3788,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627576287_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Platinet Bluetooth reproduktor",
@@ -3804,8 +3804,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20930830_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "mebus LED čelovka",
@@ -3820,8 +3820,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4017805376533_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Liv & Bo LED senzorové svietidlo",
@@ -3836,8 +3836,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066635051875_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Liv & Bo Upínacia LED lampa",
@@ -3852,8 +3852,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627164903_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Platinet Osobná váha",
@@ -3868,8 +3868,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20931090_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Stojan na odev",
@@ -3884,8 +3884,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410092274_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Obal na odev",
@@ -3900,8 +3900,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410080783_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rohožka rozmery: 80 x 120 cm",
@@ -3916,8 +3916,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20759981_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rohožka rozmery: 40 x 60 cm",
@@ -3932,8 +3932,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20759897_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rohožka rozmery: 60 x 80 cm",
@@ -3948,8 +3948,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20759793_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Classic Olejová sviečka",
@@ -3964,8 +3964,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/DE1128730_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-Classic Olejová sviečka",
@@ -3980,8 +3980,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/DE1128734_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Regál na obuv",
@@ -3996,8 +3996,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410073433_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Sedlo na bicykel",
@@ -4012,8 +4012,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627468469_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Poťah na sedlo",
@@ -4028,8 +4028,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627186530_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Montážny stojan na bicykel",
@@ -4044,8 +4044,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627186486_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Pumpa s manometrom",
@@ -4060,8 +4060,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627454196_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Súprava na čistenie bicykla",
@@ -4076,8 +4076,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_20834530_P.jpg",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Taška s náradím na bicykel",
@@ -4092,8 +4092,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627713866_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Minipumpa s manometrom",
@@ -4108,8 +4108,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627713873_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Multifunkčné náradie na bicykel",
@@ -4124,8 +4124,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627713859_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Duše na bicykel",
@@ -4140,8 +4140,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627167072_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Mazivo na reťaz",
@@ -4156,8 +4156,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627732829_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Čistič na reťaz",
@@ -4172,8 +4172,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627732805_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Intenzívny čistič",
@@ -4188,8 +4188,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627732799_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Sprej na opravu defektov",
@@ -4204,8 +4204,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627732850_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Čistič na elektrobicykle",
@@ -4220,8 +4220,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627732836_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Silikónový olej",
@@ -4236,8 +4236,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627732843_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Čistič bŕzd",
@@ -4252,8 +4252,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627732782_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Tachometer na bicykel",
@@ -4268,8 +4268,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632043002_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Taška na telefón na bicykel",
@@ -4284,8 +4284,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627713880_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Držiak na telefón",
@@ -4300,8 +4300,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627713897_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Taška na bicykel",
@@ -4316,8 +4316,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627212192_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Športové okuliare Premium",
@@ -4332,8 +4332,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627708350_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Športové ponožky",
@@ -4348,8 +4348,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627544637_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Sedlový blatník",
@@ -4364,8 +4364,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627186660_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Lepiaca súprava",
@@ -4380,8 +4380,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627186615_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Ventilové adaptéry",
@@ -4396,8 +4396,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627186622_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Rukoväte na korman bicykla",
@@ -4412,8 +4412,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627186592_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Brzdové obloženia",
@@ -4428,8 +4428,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627724787_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Držiak na fľašu",
@@ -4444,8 +4444,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627724794_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Špirálový káblový zámok",
@@ -4460,8 +4460,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627724756_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Cyklistické rukavice",
@@ -4476,8 +4476,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627284526_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential LED svietidlá na bicykel",
@@ -4492,8 +4492,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_20808259_P.jpg",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Ochranný obal na bicykel",
@@ -4508,8 +4508,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627425103_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Reflexný pás",
@@ -4524,8 +4524,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627468421_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Poťah na batoh",
@@ -4540,8 +4540,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627468414_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Vesta",
@@ -4556,8 +4556,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627468407_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Poťah na prilbu",
@@ -4572,8 +4572,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627468384_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Elektronický terč",
@@ -4588,8 +4588,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_20655099_P.jpg",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Newcential Kolobežka",
@@ -4604,8 +4604,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627663109_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Policajné auto",
@@ -4620,8 +4620,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20876489_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "DOLU Toy Factory Traktor s prívesom",
@@ -4636,8 +4636,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8690089081469_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bburago Model auta 1:32",
@@ -4652,8 +4652,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00110105_P-2",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Puzzle",
@@ -4668,8 +4668,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8590878671669_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Paw Patrol Plyšová hračka",
@@ -4684,8 +4684,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/681147010895_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Batwheels Chlapčenské tielka",
@@ -4700,8 +4700,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134536_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Batwheels Chlapčenské boxerky",
@@ -4716,8 +4716,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134475_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Batwheels Chlapčenské pyžamo",
@@ -4732,8 +4732,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_20891725_P.jpg",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Batwheels Chlapčenské šortky",
@@ -4748,8 +4748,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134352_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Batwheels Chlapčenské tričká",
@@ -4764,8 +4764,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134291_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gabbys Dollhouse Dievčenské ponožky",
@@ -4780,8 +4780,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073135038_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gabbys Dollhouse Dievčenské tielka",
@@ -4796,8 +4796,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134918_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gabbys Dollhouse Dievčenské nohavičky",
@@ -4812,8 +4812,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134970_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gabbys Dollhouse Dievčenské pyžamo",
@@ -4828,8 +4828,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134857_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gabbys Dollhouse Dievčenské šortky",
@@ -4844,8 +4844,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134734_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gabbys Dollhouse Dievčenské tričká",
@@ -4860,8 +4860,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134673_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Batwheels Chlapčenské ponožky",
@@ -4876,8 +4876,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4040073134598_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Pokémon Kartičky",
@@ -4892,8 +4892,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20920129_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Pokémon Zberateľský album",
@@ -4908,8 +4908,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20923064_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Stitch Plyšová hračka",
@@ -4924,8 +4924,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20785247_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Plyšová hračka",
@@ -4940,8 +4940,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00076606_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Pánske boxerky",
@@ -4956,8 +4956,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/CZ20886158_23P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Batoh",
@@ -4972,8 +4972,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367650765_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Športová taška",
@@ -4988,8 +4988,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367650802_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Pánske tričko",
@@ -5004,8 +5004,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/DE20892929_23P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Pánske funkčné šortky",
@@ -5020,8 +5020,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367651045_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Pánske tepláky",
@@ -5036,8 +5036,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367651014_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Dámske tričko",
@@ -5052,8 +5052,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367650796_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Dámske tepláky",
@@ -5068,8 +5068,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/DE20892927_23P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nike Pánske funkčné tričko",
@@ -5084,8 +5084,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367651069_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gin Tonic Dámska obuv",
@@ -5100,8 +5100,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4251617640844_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Gin Tonic Pánska obuv",
@@ -5116,8 +5116,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4251617640943_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Pánske pyžamo",
@@ -5132,8 +5132,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4062646067546_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Dámske pyžamo",
@@ -5148,8 +5148,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4062646067201_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Dámske tričko",
@@ -5164,8 +5164,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4058416052744_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Pánske tričko",
@@ -5180,8 +5180,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4058416052836_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Pánske teplákové šortky",
@@ -5196,8 +5196,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4058416053017_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Pánska polokošeľa",
@@ -5212,8 +5212,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4058416052928_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Dámske legíny",
@@ -5228,8 +5228,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/DE20882113_23P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Pánska obuv",
@@ -5244,8 +5244,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4251617641674_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Dámska obuv",
@@ -5260,8 +5260,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4251617641575_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Pánske boxerky",
@@ -5276,8 +5276,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4058940419013_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Dámske členkové ponožky",
@@ -5292,8 +5292,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4062646067478_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bruno Banani Pánske členkové ponožky",
@@ -5308,8 +5308,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4062646067850_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Vankúš rozmery: 70 x 90 cm",
@@ -5324,8 +5324,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20932260_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Vankúš rozmery: 50 x 70 cm",
@@ -5340,8 +5340,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20932237_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Prikrývka",
@@ -5356,8 +5356,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20932183_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Liv & Bo Napínacia plachta rozmery: 140 - 160 x 200 cm",
@@ -5372,8 +5372,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627674143_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Liv & Bo Napínacia plachta rozmery: 90 - 100 x 200 cm",
@@ -5388,8 +5388,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627674228_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Liv & Bo Napínacia plachta rozmery: 180 - 200 x 200 cm",
@@ -5404,8 +5404,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627674181_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Matrac rozmery: 80 x 200 x 15 cm",
@@ -5420,8 +5420,8 @@
     "image": "https://media.kaufland.com/images/PPIM/KMO/SK300_20683041_P.jpg",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Matrac rozmery: 90 x 200 x 15 cm",
@@ -5436,8 +5436,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/3800122513344_3800122513368",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Liv & Bo Posteľná bielizeň",
@@ -5452,8 +5452,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627674389_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Liv & Bo Návleky na vankúš",
@@ -5468,8 +5468,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627682117_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Liv & Bo Zatemňovacie závesy",
@@ -5484,8 +5484,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627639883_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Dioptrické okuliare",
@@ -5500,8 +5500,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4005847281304_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "LED dioptrické okuliare",
@@ -5516,8 +5516,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4005847261207_SK_P-1",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Pánska gumová obuv",
@@ -5532,8 +5532,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20909748_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Dámska gumová obuv",
@@ -5548,8 +5548,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20909745_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Townland Pánske tielko",
@@ -5564,8 +5564,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627660795_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Townland Pánske ponožky",
@@ -5580,8 +5580,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627711749_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Oyanda Dámske ponožky",
@@ -5596,8 +5596,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627711817_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Oyanda Dámske ponožky",
@@ -5612,8 +5612,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627276507_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Townland Pánske ponožky",
@@ -5628,8 +5628,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627276576_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Spišské párky",
@@ -5644,8 +5644,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00057944_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Baron Vysočina saláma",
@@ -5660,8 +5660,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00209715_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Knieža klobása",
@@ -5676,8 +5676,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00209717_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Z lásky k tradícii Staroslovenská šunka",
@@ -5692,8 +5692,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588006510966_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Šariš Svetlé pivo 10 %",
@@ -5708,8 +5708,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20925933_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rajo Acidko Zakysané mlieko",
@@ -5724,8 +5724,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8585002530004_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Babička Kyslá smotana",
@@ -5740,8 +5740,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588000057139_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Maškrtko Maxi Kyslomliečny dezert",
@@ -5751,13 +5751,13 @@
     "price_str": "0.39 €",
     "original_price": "0.55 €",
     "discount_pct": 29,
-    "category": "Ostatné",
-    "type": "",
+    "category": "Mliečne výrobky",
+    "type": "jogurt",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586015912177_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Zvolenský Jogurtový nápoj",
@@ -5772,8 +5772,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586000512610_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "K-ZLT_Logo Tvaroh nízkotučný hrudkovitý",
@@ -5788,8 +5788,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00139670_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rajo Smotana na šľahanie",
@@ -5804,8 +5804,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8585002520005_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Rajo Probia Nature Jogurt",
@@ -5820,8 +5820,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00410462_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Koliba Salámový syr Polotvrdý zrejúci syr neúdený",
@@ -5836,8 +5836,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00073320_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Z lásky k tradícii Niva syr s plesňou",
@@ -5852,8 +5852,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00098764_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Nika Polotvrdý zrejúci syr",
@@ -5863,13 +5863,13 @@
     "price_str": "1.89 €",
     "original_price": "2.63 €",
     "discount_pct": 28,
-    "category": "Ostatné",
+    "category": "Syry",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588006476606_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Slatinský chlieb celozrnný",
@@ -5884,8 +5884,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/02913880_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Koliba Mozzarella strúhaná",
@@ -5900,8 +5900,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588008293478_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "RADOMA Treska Exklusiv",
@@ -5916,8 +5916,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00065536_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Huspenina",
@@ -5927,13 +5927,13 @@
     "price_str": "3.49 €",
     "original_price": "4.45 €",
     "discount_pct": 21,
-    "category": "Ostatné",
+    "category": "Mäso & ryby",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00131974_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Vinica Halušky zemiakové",
@@ -5948,8 +5948,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586008300011_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tatrakon Chilli toasty alebo tat.zmes",
@@ -5964,8 +5964,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00022546_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Novofruct Utopence",
@@ -5975,13 +5975,13 @@
     "price_str": "2.79 €",
     "original_price": "3.99 €",
     "discount_pct": 30,
-    "category": "Ostatné",
+    "category": "Mäso & ryby",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00027723_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tomata Paradajkový pretlak",
@@ -5996,8 +5996,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00049187_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Ady Čalamáda",
@@ -6007,13 +6007,13 @@
     "price_str": "1.19 €",
     "original_price": "1.75 €",
     "discount_pct": 32,
-    "category": "Ostatné",
+    "category": "Trvanlivé potraviny",
     "type": "",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00057472_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "TOMATA Kečup",
@@ -6028,8 +6028,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586003765440_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Tatrakon Morca-Della",
@@ -6044,8 +6044,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8584008190236_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Novofruct Karotka s hráškom",
@@ -6060,8 +6060,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/03002331_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Namex Tradičná chuť Biele lupienky",
@@ -6076,8 +6076,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00136118_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Thymos Kakao",
@@ -6087,13 +6087,13 @@
     "price_str": "1.29 €",
     "original_price": "1.59 €",
     "discount_pct": 18,
-    "category": "Ostatné",
-    "type": "",
+    "category": "Nápoje",
+    "type": "kakao",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586000922839_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Figaro cukríky Doxy Roksy s ovocnou príchuťou",
@@ -6108,8 +6108,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8585000207533_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Oblátky",
@@ -6124,8 +6124,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588000200078_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Marína alebo Indián Sušienky",
@@ -6140,8 +6140,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586002353778_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Miva Arašidové chrumky",
@@ -6156,8 +6156,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588000124213_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Bercoff Ovocný čaj",
@@ -6172,8 +6172,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20344195_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Movino Túžba Víno",
@@ -6183,13 +6183,13 @@
     "price_str": "2.49 €",
     "original_price": "3.99 €",
     "discount_pct": 37,
-    "category": "Ostatné",
-    "type": "",
+    "category": "Nápoje",
+    "type": "víno",
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588006477610_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Matyšák Hroznová šťava",
@@ -6204,8 +6204,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586020780853_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Zlatý Bažant Radler nealko",
@@ -6220,8 +6220,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00133351_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Fatra Minerálna voda",
@@ -6236,8 +6236,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00133854_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Baldovská Nápoj z min. vody",
@@ -6252,8 +6252,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8586000731394_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Koniferum Borovička",
@@ -6268,8 +6268,8 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8585001321337_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   },
   {
     "name": "Trvanlivé mlieko polotučné",
@@ -6284,7 +6284,7 @@
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8588006522471_SK_P",
     "url": "",
     "unit": "",
-    "valid_from": "",
-    "valid_until": ""
+    "valid_from": "2026-05-21",
+    "valid_until": "2026-05-27"
   }
 ]

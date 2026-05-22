@@ -1,15 +1,21 @@
 #!/usr/bin/env python3
 """
-scrape_all.py — run all three store scrapers in parallel and report results.
+scrape_all.py — run all store scrapers in parallel and report results.
 
 Usage
 -----
-  python scrape_all.py           # refresh all stores
-  python scrape_all.py kaufland  # refresh one store only
-  python scrape_all.py tesco coop
+  python scrape_all.py                    # refresh all stores
+  python scrape_all.py kaufland           # refresh one store only
+  python scrape_all.py lidl coop kaufland # refresh several stores
 
-Lidl and Billa are fetched live by server.py on every request and don't
-have a standalone scraper — they don't need to be refreshed here.
+Stores with standalone scrapers (handled here):
+  lidl, kaufland, coop, tesco
+
+Stores fetched live by server.py on every request (no scraper needed):
+  billa
+
+After running, restart server.py to load the fresh data.
+NOTE: category/type fixes in server.py only take effect after a re-scrape.
 """
 
 import json
@@ -22,20 +28,25 @@ from datetime import datetime
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 SCRAPERS = {
+    "lidl": {
+        "script":  "scrape_lidl.py",
+        "output":  "lidl_products.json",
+        "utf8":    True,   # handles reconfigure internally; -X utf8 for safety
+    },
     "kaufland": {
         "script":  "scrape_kaufland.py",
         "output":  "kaufland_products.json",
         "utf8":    False,
     },
+    "coop": {
+        "script":  "scrape_coop.py",
+        "output":  "coop_products.json",
+        "utf8":    True,
+    },
     "tesco": {
         "script":  "scrape_tesco.py",
         "output":  "tesco_products.json",
         "utf8":    False,
-    },
-    "coop": {
-        "script":  "scrape_coop.py",
-        "output":  "coop_products.json",
-        "utf8":    True,   # needs -X utf8 on Windows
     },
 }
 
@@ -133,11 +144,11 @@ def run_scrapers(targets: list[str]) -> None:
 
     print(f"\n{'='*60}")
     if total_ok == len(procs):
-        print(f"  Všetky scrapery hotové.  Celkom: {total_products} produktov.")
-        print(f"  Reštartujte server.py pre načítanie nových dát.")
+        print(f"  All scrapers done.  Total: {total_products} products.")
+        print(f"  Restart server.py to load the fresh data.")
     else:
         failed = [n for n in procs if exit_codes.get(n, 1) != 0]
-        print(f"  {total_ok}/{len(procs)} hotových.  Zlyhalo: {', '.join(failed)}")
+        print(f"  {total_ok}/{len(procs)} done.  Failed: {', '.join(failed)}")
     print(f"{'='*60}\n")
 
 

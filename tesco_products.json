@@ -201,8 +201,8 @@
     "discount_pct": 0,
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/a6a13c1e-9311-4f0f-a58d-65cfb40d3c9c/20260514000247106_hellmanns_2005105013495_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2005105013495",
-    "category": "Ostatné",
-    "type": "",
+    "category": "Mäso & ryby",
+    "type": "vajcia",
     "unit": "210 ml",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -218,7 +218,7 @@
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/3f4812ea-4249-44ab-9c0d-170471755c51/20260514000259458_slahacka-spray-kapucin_2002120723794_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2002120723794",
     "category": "Mliečne výrobky",
-    "type": "smotana",
+    "type": "vajcia",
     "unit": "250 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -234,7 +234,7 @@
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/62154451-787e-4fa8-9f24-0a0cff897746/20260514000251444_kral-syrov-hermelinek-80g_2002014143504_1.png",
     "url": "https://www.tesco.sk/akciove-ponuky/akciove-produkty/produkt/115788",
     "category": "Syry",
-    "type": "syr",
+    "type": "vajcia",
     "unit": "80 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -250,7 +250,7 @@
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/286b33ae-1a3f-4839-8c28-96b9d0490cb5/20260514000251436_lucina-cerstvy-syr-280g_2005111270506_1.png",
     "url": "https://www.tesco.sk/akciove-ponuky/akciove-produkty/produkt/115785",
     "category": "Syry",
-    "type": "nátierka",
+    "type": "vajcia",
     "unit": "280 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -266,7 +266,7 @@
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/de0d3f85-3e46-4b73-9da1-5df03117f210/20260514000240209_milko-grecky-jogurt_2002121050476_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2002121050476",
     "category": "Mliečne výrobky",
-    "type": "mlieko",
+    "type": "vajcia",
     "unit": "140 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -282,7 +282,7 @@
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/07a31d2f-e96f-4ad8-8448-28078727a74a/20260514000251425_banovecke-korbace_2002016893452_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2002016893452",
     "category": "Syry",
-    "type": "syr",
+    "type": "vajcia",
     "unit": "80 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -298,7 +298,7 @@
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/e85afdb6-8c76-4359-9273-08e500119254/20260514000242172_pribinacek-krupicka_2005105007478_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2005105007478",
     "category": "Mliečne výrobky",
-    "type": "jogurt",
+    "type": "vajcia",
     "unit": "140 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -314,7 +314,7 @@
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/3e9e541a-6b20-4dd2-991b-1195e0d4ee1d/20260514000252409_tvaroh-ochuteny_2002120409660_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2002120409660",
     "category": "Mliečne výrobky",
-    "type": "tvaroh",
+    "type": "vajcia",
     "unit": "250 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -330,7 +330,7 @@
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/3664ff30-7977-4604-aca4-2df4be8bfbbb/20260514000244457_probia-drink_2002020330696_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2002020330696",
     "category": "Nápoje",
-    "type": "",
+    "type": "vajcia",
     "unit": "430 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -345,8 +345,8 @@
     "discount_pct": 0,
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/6abe9e2e-11a6-488e-8240-468a7c8eb471/20260514000238279_rama_2002013103943_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2002013103943",
-    "category": "Ostatné",
-    "type": "",
+    "category": "Mäso & ryby",
+    "type": "vajcia",
     "unit": "400 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -1209,8 +1209,8 @@
     "discount_pct": 0,
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/9a03c106-76f6-4a26-a184-7a253b4e3057/20260514000300563_ilavsky-parizsky-salat_2005105582260_1.png",
     "url": "https://www.tesco.sk/akciove-ponuky/akciove-produkty/produkt/115898",
-    "category": "Mäso & ryby",
-    "type": "",
+    "category": "Ovocie & zelenina",
+    "type": "šalát",
     "unit": "500 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -1257,8 +1257,8 @@
     "discount_pct": 0,
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/2e8462e9-c5b9-413e-8f86-a04ff61bd76c/20260514000245274_radoma-protein-kuraci-salat_2005111275602_1.png",
     "url": "https://www.tesco.sk/akciove-ponuky/akciove-produkty/produkt/115737",
-    "category": "Mäso & ryby",
-    "type": "",
+    "category": "Ovocie & zelenina",
+    "type": "šalát",
     "unit": "140 g",
     "valid_from": "2026-05-19",
     "valid_until": "2026-05-26"
@@ -2041,8 +2041,8 @@
     "discount_pct": 0,
     "image": "https://digitalcontent.api.tesco.com/v2/media/dotcom-hu/1a908924-fe26-45ff-9af7-03e8e2518971/20260514000244461_hame-dojcenska-vyziva_2002120588849_1.png",
     "url": "https://potravinydomov.itesco.sk/groceries/sk-SK/products/2002120588849",
-    "category": "Trvanlivé potraviny",
-    "type": "šunka",
+    "category": "Nápoje",
+    "type": "minerálna voda",
     "unit": "190 g",
     "valid_from": "2026-05-11",
     "valid_until": "2026-05-25"

@@ -563,6 +563,250 @@ def try_schwarz_flyer(products: list, seen: set) -> int:
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
+#  Stage 4 — kompaszliav.sk supplement (leaflet food items via their OCR)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+_KOMPAS_BASE = "https://kompaszliav.sk"
+
+# Category slugs to fetch from kompaszliav.sk filtered to Lidl.
+# These cover weekly food promotions that aren't in Lidl's online catalog.
+_KOMPAS_FOOD_SLUGS = [
+    "mlieko", "bezlaktozove-mlieko", "jogurt", "maslo", "smotana", "tvaroh",
+    "maso", "sunka", "salama", "klobasa", "ryba",
+    "chlieb", "pecivo", "sladke-pecivo",
+    "ryza", "cestoviny",
+    "ovocie", "zelenina",
+    "kava", "jacobs", "instantna-kava", "caj", "pivo", "vino", "limonada", "voda",
+    "cokolada", "oblatka", "susienky", "chipsy",
+    "olej", "olivovy-olej",
+    "vajcia", "mrazene", "hotove-jedlo",
+]
+
+_KOMPAS_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept":          "text/html,*/*",
+    "Accept-Language": "sk-SK,sk;q=0.9",
+    "Accept-Encoding": "gzip, deflate",
+    "Referer":         "https://kompaszliav.sk/",
+}
+
+_KOMPAS_PRICE_RE = re.compile(r"(\d[\d\s]*[,\.]\d{2})\s*€")
+_KOMPAS_DATE_RE  = re.compile(
+    r"(\d{1,2}\.\s*\d{1,2}\.(?:\s*\d{4})?)"
+    r"\s*[-–]\s*"
+    r"(\d{1,2}\.\s*\d{1,2}\.(?:\s*\d{4})?)"
+)
+
+
+def _kompas_fetch_html(url: str) -> str:
+    from urllib.parse import urlsplit, urlunsplit, quote
+    parts = urlsplit(url)
+    url   = urlunsplit((parts.scheme, parts.netloc,
+                        quote(parts.path, safe="/%"), parts.query, parts.fragment))
+    try:
+        req = urllib.request.Request(url, headers=_KOMPAS_HEADERS)
+        with urllib.request.urlopen(req, context=_SSL_CTX, timeout=20) as r:
+            raw = r.read()
+            if r.headers.get("Content-Encoding", "") == "gzip":
+                raw = gzip.decompress(raw)
+            return raw.decode("utf-8", errors="replace")
+    except Exception:
+        return ""
+
+
+def _kompas_parse_products(html: str) -> list[dict]:
+    """
+    Parse kompaszliav.sk product-card HTML for Lidl products only.
+
+    Card structure:
+      <a class="product-card" href="...">
+        <div class="product-card__header">
+          <div class="store-wrapper"><img alt="logo - {Store}"></div>
+          <img alt="{Name}" src="{image}">
+        </div>
+        <div class="product-card__content">
+          <div class="product-store">{Store}</div>
+          <div class="product-availability">{dates}</div>
+          <span class="product-price">{price}</span>
+          <div class="product-card__monitoring-data"><span>{Name}</span></div>
+        </div>
+      </a>
+    """
+    from html.parser import HTMLParser
+
+    class _Parser(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.products: list[dict] = []
+            self._in_card = False
+            self._cur: dict | None = None
+            self._ctx = ""
+            self._img_idx = 0
+
+        @staticmethod
+        def _cls(attrs_d):
+            return set((attrs_d.get("class") or "").split())
+
+        def handle_starttag(self, tag, attrs):
+            a = dict(attrs)
+            c = self._cls(a)
+            if tag == "a" and "product-card" in c and not self._in_card:
+                href = a.get("href", "")
+                self._in_card = True
+                self._cur = {"link": href, "store": "", "name": "", "valid_from": "",
+                             "valid_until": "", "price_str": "", "image": ""}
+                self._img_idx = 0
+                return
+            if not self._in_card or self._cur is None:
+                return
+            if tag == "div":
+                if "product-store" in c:              self._ctx = "store"
+                elif "product-availability" in c:     self._ctx = "avail"
+                elif "product-card__monitoring-data" in c: self._ctx = "name"
+            elif tag == "span" and "product-price" in c: self._ctx = "price"
+            elif tag == "img":
+                src = a.get("src", "")
+                alt = (a.get("alt") or a.get("title") or "").strip()
+                if self._img_idx == 0:
+                    store = re.sub(r"^logo\s*-\s*", "", alt, flags=re.I).strip()
+                    if store: self._cur["store"] = store
+                elif self._img_idx == 1:
+                    full = src if src.startswith("http") else _KOMPAS_BASE + src
+                    self._cur["image"] = full
+                    if not self._cur["name"] and alt:
+                        self._cur["name"] = alt
+                self._img_idx += 1
+
+        def handle_endtag(self, tag):
+            if self._in_card and tag == "a":
+                self._in_card = False
+                self._ctx = ""
+                self._save()
+                self._cur = None
+            elif tag in ("div", "span"):
+                self._ctx = ""
+
+        def handle_data(self, data):
+            if not self._in_card or not self._cur or not self._ctx:
+                return
+            t = data.strip()
+            if not t: return
+            if self._ctx == "store":   self._cur["store"] = t
+            elif self._ctx == "avail":
+                m = _KOMPAS_DATE_RE.match(t)
+                if m:
+                    self._cur["valid_from"]  = m.group(1).strip()
+                    self._cur["valid_until"] = m.group(2).strip()
+            elif self._ctx == "price": self._cur["price_str"] = t
+            elif self._ctx == "name":  self._cur["name"] = t
+
+        def _save(self):
+            c = self._cur
+            if not c: return
+            name = c["name"].strip()
+            if not name: return
+            try:
+                pv = float(c["price_str"].replace("€","").replace(",",".").replace("\xa0","").strip())
+            except ValueError:
+                return
+            if pv <= 0: return
+            self.products.append({
+                "store":       c["store"],
+                "name":        name,
+                "price":       pv,
+                "price_str":   c["price_str"],
+                "valid_from":  c["valid_from"],
+                "valid_until": c["valid_until"],
+                "image":       c["image"],
+                "link":        c["link"],
+            })
+
+    p = _Parser()
+    p.feed(html)
+    return [x for x in p.products if x["store"].lower() in ("lidl", "")]
+
+
+def _kompas_to_product(item: dict) -> dict | None:
+    """Convert a kompaszliav.sk product dict to our standard schema."""
+    # Strip leading promotional markers kompaszliav uses (e.g. "** Jacobs Krönung")
+    raw_name = re.sub(r"^[\s*#!]+", "", item["name"])
+    name = _clean(raw_name)
+    if not name:
+        return None
+
+    # Parse dates: kompaszliav uses "18.5." or "18.5.2026" format
+    def _iso(s: str) -> str:
+        s = s.strip().replace(" ", "")
+        # "18.5.2026" or "18.5."
+        m = re.match(r"(\d{1,2})\.(\d{1,2})\.(\d{4})?", s)
+        if not m:
+            return ""
+        d, mo, yr = m.groups()
+        yr = yr or str(date.today().year)
+        return f"{yr}-{int(mo):02d}-{int(d):02d}"
+
+    vf  = _iso(item.get("valid_from",  ""))
+    vu  = _iso(item.get("valid_until", ""))
+
+    image = item.get("image", "")
+    url   = item.get("link",  "https://kompaszliav.sk/predajcovia/lidl")
+
+    return _make_product(
+        name         = name,
+        price_val    = item["price"],
+        old_price    = 0,
+        pct_disc     = 0,
+        image        = image,
+        url          = url,
+        category_raw = "",
+        valid_from   = vf,
+        valid_until  = vu,
+    )
+
+
+def try_kompas_supplement(products: list, seen: set) -> int:
+    """
+    Stage 4: Scrape kompaszliav.sk for Lidl food category pages.
+    Adds products that are in the physical weekly leaflet (OCR-extracted)
+    but not in Lidl's online catalog.
+    Returns count of newly added products.
+    """
+    print("\n── Stage 4: kompaszliav.sk food supplement ──")
+    import time as _time
+
+    added  = 0
+    errors = 0
+
+    for slug in _KOMPAS_FOOD_SLUGS:
+        url  = f"{_KOMPAS_BASE}/produkty/{slug}?store=lidl"
+        html = _kompas_fetch_html(url)
+        if not html:
+            errors += 1
+            continue
+
+        items = _kompas_parse_products(html)
+        for item in items:
+            prod = _kompas_to_product(item)
+            if not prod:
+                continue
+            key = prod["name"][:50].lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            products.append(prod)
+            added += 1
+
+        _time.sleep(0.3)   # polite throttle
+
+    print(f"  ✓ kompaszliav.sk: {added} nových potravinových produktov"
+          f"  ({errors} kategórií zlyhalo)")
+    return added
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
 #  Entry point
 # ═══════════════════════════════════════════════════════════════════════════════
 
@@ -579,8 +823,224 @@ def scrape() -> list[dict]:
     # Stage 3 — Schwarz leaflets API (non-food items)
     try_schwarz_flyer(products, seen)
 
+    # Stage 4 — kompaszliav.sk supplement (leaflet food items via their OCR)
+    # This catches Cenový líder food items (Olivový olej, Bezlaktózové mlieko,
+    # Jacobs Krönung, …) and fresh-counter items that are not in Lidl's online
+    # catalog at all.  kompaszliav.sk extracts them via OCR from the Schwarz
+    # leaflet page images.
+    try_kompas_supplement(products, seen)
+
     print(f"\n  ✓ Lidl total: {len(products)} unique products scraped")
     return products
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#  Stage 4 — Parse Cenový líder products from flyer keyWords
+# ═══════════════════════════════════════════════════════════════════════════════
+# The weekly flyer's Cenový líder pages contain OCR text with product names
+# and superscript price digits (⁰¹²³⁴⁵⁶⁷⁸⁹).
+#
+# Limitation: Lidl's online search returns "no results" for Cenový líder food
+# items (Jacobs Krönung, Olivový olej, Bezlaktózové mlieko) — they exist only
+# in the physical in-store leaflet, not in Lidl's online catalog.
+#
+# What we CAN reliably extract:
+#   - Sub-€1 items: superscript IS the full price (e.g. ⁸⁹ → 0.89 €)
+#   - Names + discount percentages for all items (even where price is unknown)
+# What we CANNOT extract:
+#   - Multi-euro items where only the cents digit is in the superscript (e.g. Jacobs
+#     Krönung 7.49 € shows only ⁴⁹ in OCR — the integer "7" is lost)
+
+_SUPERSCRIPT_MAP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
+
+def _decode_superscripts(text: str) -> str:
+    """Replace superscript digit chars with regular ASCII equivalents."""
+    return text.translate(_SUPERSCRIPT_MAP)
+
+
+def _parse_kw_products(keywords_by_page: list[tuple[int, str]]) -> list[dict]:
+    """
+    Extract (name, price, discount_pct, valid_from, valid_until) tuples from
+    a list of (page_number, keyword_text) pairs.
+
+    Pattern in keyWords:
+      -34 Jacobs Krönung Mletá Káva ⁴⁹  -18 Bezlaktózové Mlieko 15 Tuku ⁸⁹
+      Discount numbers are negative integers in normal digits.
+      Prices are superscript cents — full price when < 1 €, decimal only otherwise.
+    """
+    results = []
+    disc_re  = re.compile(r'-\d{1,3}')   # e.g. -34, -18
+    sup_re   = re.compile(r'[⁰¹²³⁴⁵⁶⁷⁸⁹]+')  # one or more superscript digits
+    # Words to skip as "noise" from the OCR boilerplate text
+    _NOISE = {
+        'ponuka', 'tovaru', 'letáku', 'platí', 'vypredania', 'chyby', 'tlači',
+        'ceny', 'sú', 'firma', 'lidl', 'vyhradzuje', 'právo', 'zmien',
+        'baleniach', 'variantoch', 'ponúkaného', 'odber', 'možný', 'obvyklom',
+        'región', 'dlhodobo', 'zlacnené', 'prehľad', 'zlacnených', 'vybraných',
+        'produktov', 'ktoré', 'boli', 'priebehu', 'týždňov', 'období',
+        'potvrdzuje', 'výskum', 'agentúry', 'nms', 'market', 'research',
+        'slovakia', 'vykonaný', 'dňoch', 'reprezentatívnej', 'vzorke',
+        'cenový', 'líder', 'znižuje', 'bežné', 'supercena', 'ušetrite',
+        'iba', 'kus', 'ďalších', 'teraz', 'platnosti', 'akciových', 'cien',
+        'zistených', 'zberom', 'dňa', 'odporúčanej', 'maloobchodnej',
+        'predajnej', 'cene', 'nms', 'porovnaní', 'produktom', 'štandardne',
+        'ponúkanej', 'veľkosti', 'jednotkovej', 'jednotka',
+    }
+
+    for _page_no, kw_raw in keywords_by_page:
+        kw = _decode_superscripts(kw_raw).strip()
+        # Split on discount markers to get segments like "34 Jacobs Krönung Mletá Káva 49"
+        # We work on the full text and look for patterns: [discount] Name [price_cents]
+        segments = re.split(r'(?=-\d{1,3}\s)', kw)
+        for seg in segments:
+            seg = seg.strip()
+            if not seg:
+                continue
+            # Extract discount
+            dm = disc_re.match(seg)
+            if dm:
+                discount = abs(int(dm.group()))
+                rest = seg[dm.end():].strip()
+            else:
+                discount = 0
+                rest = seg
+
+            # Extract trailing price (2-3 digits at end of the name segment,
+            # before the next product name or end of text)
+            # After decoding superscripts, price looks like normal digits
+            # We look for a 1-3 digit number at the end
+            price_m = re.search(r'\s(\d{1,3})\s*$', rest)
+            if price_m:
+                cents_str = price_m.group(1)
+                name_raw  = rest[:price_m.start()].strip()
+                cents     = int(cents_str)
+                # Heuristic: if cents value ≤ 99, it might be the full price in cents
+                # (sub-€1 item) or the decimal part of a multi-euro price.
+                # We can't tell for sure — we store what we have.
+                price_full = cents / 100  # treat as full price initially
+            else:
+                name_raw  = rest.strip()
+                price_full = None
+                cents      = None
+
+            # Clean name: remove noise words and short tokens
+            name_words = [w for w in name_raw.split()
+                          if w.lower() not in _NOISE and len(w) >= 2
+                          and not w.isdigit()]
+            name = ' '.join(name_words).strip()
+            if len(name) < 5:
+                continue
+
+            results.append({
+                'name':         name,
+                'price':        price_full,
+                'discount_pct': discount,
+                'cents_only':   cents,   # just the decimal cents (may be partial)
+            })
+
+    return results
+
+
+def try_cenovy_lider_keywords(products: list, seen: set) -> int:
+    """
+    Stage 4: Parse weekly flyer's Cenový líder pages (keyWords) to extract
+    food items not available in the search API.
+
+    NOTE: Lidl's online search returns zero results for these products — they
+    exist only in the physical in-store leaflet.  We extract what we can:
+    - Sub-€1 items: superscript IS the full price (⁸⁹ → 0.89 €)
+    - Multi-€ items: only the cents part is captured (⁴⁹ → ?.49 €) — skipped
+
+    Returns count of new products added.
+    """
+    schwarz_hdrs = {
+        "User-Agent": _HEADERS["User-Agent"],
+        "Accept":     "application/json",
+        "Referer":    "https://www.lidl.sk/",
+    }
+
+    print("\n── Stage 4: Cenový líder keyWords (sub-€1 items) ──")
+
+    valid_from = valid_until = ""
+    weekly_kw_pages: list[tuple[int, str]] = []
+
+    try:
+        today    = date.today()
+        week_mon = today - timedelta(days=today.weekday())
+        slug     = (f"online-letak-platny-od-"
+                    f"{week_mon.day:02d}-{week_mon.month:02d}-{week_mon.year}")
+        wf = _fetch_json(
+            f"https://endpoints.leaflets.schwarz/v4/flyer?flyer_identifier={slug}",
+            extra_headers=schwarz_hdrs,
+        )
+        wf_flyer = wf.get("flyer", wf)
+        valid_from  = (wf_flyer.get("offerStartDate", "") or "")[:10]
+        valid_until = (wf_flyer.get("offerEndDate",   "") or "")[:10]
+
+        for i, p in enumerate(wf_flyer.get("pages", [])):
+            kw_raw = p.get("keyWords", "")
+            # Only process pages that are Cenový líder / long-term reduction sections
+            if not kw_raw:
+                continue
+            try:
+                kw = kw_raw.encode("latin-1").decode("utf-8")
+            except Exception:
+                kw = kw_raw
+            if "Dlhodobo Zlacnené" in kw or "Cenový Líder" in kw:
+                weekly_kw_pages.append((i + 1, kw))
+
+        print(f"  Weekly flyer ({slug}): {len(weekly_kw_pages)} Cenový líder pages")
+    except Exception as e:
+        print(f"  ⚠  Weekly flyer fetch: {e}")
+        return 0
+
+    if not weekly_kw_pages:
+        print("  ✗ No Cenový líder pages found in weekly flyer")
+        return 0
+
+    kw_products = _parse_kw_products(weekly_kw_pages)
+    added = 0
+
+    for kp in kw_products:
+        name      = kp["name"]
+        price_val = kp["price"]
+        cents     = kp["cents_only"]
+
+        # Only add items where we can reliably determine the price:
+        # - price is between 0.15 € and 0.99 € (clearly sub-€1)
+        # - name is meaningful (≥ 4 chars after cleaning)
+        if price_val is None or price_val < 0.15 or price_val > 0.99:
+            continue
+        if len(name) < 4:
+            continue
+
+        key = name[:50].lower()
+        if key in seen:
+            continue
+        seen.add(key)
+
+        p = _make_product(
+            name         = name,
+            price_val    = price_val,
+            old_price    = 0,
+            pct_disc     = kp["discount_pct"],
+            image        = "",
+            url          = "https://www.lidl.sk",
+            category_raw = "",
+            valid_from   = valid_from,
+            valid_until  = valid_until,
+        )
+        if p:
+            products.append(p)
+            added += 1
+            print(f"    + {name[:55]:<55}  {price_val:.2f} €"
+                  f"  (disc {kp['discount_pct']}%)")
+
+    print(f"  ✓ Stage 4: {added} new sub-€1 products from keyWords")
+    if added == 0:
+        print("  ℹ  Note: multi-euro Cenový líder items (Jacobs Krönung, Olivový olej, etc.)")
+        print("     are NOT in Lidl's online catalog — they cannot be scraped automatically.")
+    return added
 
 
 def deduplicate(products: list[dict]) -> list[dict]:

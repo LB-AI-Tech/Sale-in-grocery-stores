@@ -28,7 +28,17 @@ Output
 coop_products.json  —  list of product dicts in the shared server.py schema.
 """
 
-import gzip, io, json, os, re, sys, urllib.request, urllib.error, ssl
+import gzip, io, json, os, re, sys, time, urllib.request, urllib.error, ssl
+from html.parser import HTMLParser
+from datetime import date as _date
+
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+os.environ["PYTHONIOENCODING"] = "utf-8"
 
 # ── reuse normalize_category from server.py ──────────────────────────────────
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -70,6 +80,44 @@ _HEADERS = {
 _SSL_CTX = ssl.create_default_context()
 _SSL_CTX.check_hostname = False
 _SSL_CTX.verify_mode    = ssl.CERT_NONE
+
+# ── kompaszliav.sk constants ──────────────────────────────────────────────────
+
+_KOMPAS_BASE = "https://kompaszliav.sk"
+
+_KOMPAS_SSL = ssl.create_default_context()
+_KOMPAS_SSL.check_hostname = False
+_KOMPAS_SSL.verify_mode    = ssl.CERT_NONE
+
+_KOMPAS_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept":          "text/html,application/xhtml+xml,*/*",
+    "Accept-Language": "sk-SK,sk;q=0.9",
+    "Accept-Encoding": "gzip, deflate",
+}
+
+_KOMPAS_COOP_SLUGS = [
+    # Dairy
+    "mlieko", "bezlaktozove-mlieko", "jogurt", "maslo", "smotana", "tvaroh", "syry",
+    # Meat & deli
+    "maso", "kuracie-maso", "hovadzie-maso",
+    "sunka", "salama", "klobasa", "varene-maso", "ryba",
+    # Bread & grains
+    "chlieb", "pecivo", "sladke-pecivo", "ryza", "cestoviny",
+    # Drinks
+    "kava", "caj", "pivo", "vino", "limonada", "voda", "dzus",
+    # Sweets & snacks
+    "cokolada", "sladkosti", "oblatka", "susienky", "chipsy", "slane-pecivo",
+    # Condiments & oils
+    "olej", "olivovy-olej", "omacka", "korenie",
+    # Produce & frozen
+    "ovocie", "zelenina", "mrazene", "hotove-jedlo",
+    # Other
+    "vajcia", "konzervy",
+]
 
 # Words to strip when cleaning product names (matched case-insensitively via .lower())
 _NOISE_WORDS = {
@@ -121,9 +169,53 @@ def _fetch_bytes(url: str, extra_headers: dict | None = None) -> bytes:
 
 # ── Leaflet discovery ─────────────────────────────────────────────────────────
 
+def _parse_html_dates(html: str) -> tuple[str, str]:
+    """
+    Extract validity window from the COOP pdfflip list page HTML.
+
+    The page contains spans like:
+        <span>21. 05. - 27. 05 .2026</span>
+    or   <span>21. 5. 2026 - 27. 5. 2026</span>
+
+    Returns (valid_from, valid_until) as ISO date strings ("YYYY-MM-DD")
+    or ("", "") if no match.
+    """
+    # Pattern A: "DD. MM. - DD. MM .YYYY"  (year on end only, space before dot allowed)
+    m = re.search(
+        r'(\d{1,2})\.\s+(\d{1,2})\.\s*-\s*(\d{1,2})\.\s+(\d{1,2})\s*\.?\s*(\d{4})',
+        html,
+    )
+    if m:
+        d1, mo1, d2, mo2, yr = m.groups()
+        return (
+            f"{yr}-{int(mo1):02d}-{int(d1):02d}",
+            f"{yr}-{int(mo2):02d}-{int(d2):02d}",
+        )
+
+    # Pattern B: "DD. MM. YYYY - DD. MM. YYYY"
+    m2 = re.search(
+        r'(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\s*[-–]\s*(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})',
+        html,
+    )
+    if m2:
+        d1, mo1, yr1, d2, mo2, yr2 = m2.groups()
+        return (
+            f"{yr1}-{int(mo1):02d}-{int(d1):02d}",
+            f"{yr2}-{int(mo2):02d}-{int(d2):02d}",
+        )
+    return "", ""
+
+
 def _get_leaflets() -> list[dict]:
     """Parse /sk/pdfflip/list for dFlip source attributes → leaflet records."""
     html = _fetch_bytes(BASE_URL + LIST_PATH).decode("utf-8", "replace")
+
+    # Extract dates from the page HTML (more reliable than PDF OCR)
+    html_valid_from, html_valid_until = _parse_html_dates(html)
+    if html_valid_from:
+        print(f"    Dátumy z HTML: {html_valid_from} – {html_valid_until}")
+    else:
+        print("    Dátumy z HTML: nenájdené")
 
     # <div class="_df_thumb" id="df_intro_thumb_1311"
     #      source="https://…/pdf_1311.pdf"
@@ -136,10 +228,12 @@ def _get_leaflets() -> list[dict]:
     )
     result = [
         {
-            "id":        lid,
-            "pdf_url":   src.strip(),
-            "thumb_url": thumb.strip(),
-            "name":      name.strip() or f"COOP {lid}",
+            "id":          lid,
+            "pdf_url":     src.strip(),
+            "thumb_url":   thumb.strip(),
+            "name":        name.strip() or f"COOP {lid}",
+            "html_valid_from":  html_valid_from,
+            "html_valid_until": html_valid_until,
         }
         for lid, src, thumb, name in leaflets
     ]
@@ -390,7 +484,16 @@ def scrape_leaflet(leaflet: dict) -> list[dict]:
 
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
         valid_from, valid_until = _extract_dates(pdf)
-        print(f"    Platnosť: {valid_from} – {valid_until}  |  Strany: {len(pdf.pages)}")
+        # Fallback: use dates extracted from the HTML page if PDF OCR fails
+        if not valid_from:
+            valid_from  = leaflet.get("html_valid_from",  "")
+            valid_until = leaflet.get("html_valid_until", "")
+            if valid_from:
+                print(f"    Platnosť (z HTML): {valid_from} – {valid_until}  |  Strany: {len(pdf.pages)}")
+            else:
+                print(f"    Platnosť: nenájdená  |  Strany: {len(pdf.pages)}")
+        else:
+            print(f"    Platnosť (z PDF): {valid_from} – {valid_until}  |  Strany: {len(pdf.pages)}")
 
         for page_num, page in enumerate(pdf.pages):
             page_products = _parse_page(page, leaflet, valid_from, valid_until)
@@ -401,25 +504,261 @@ def scrape_leaflet(leaflet: dict) -> list[dict]:
     return all_products
 
 
+# ── kompaszliav.sk Stage-1 helpers ───────────────────────────────────────────
+
+class _KompasCardParser(HTMLParser):
+    """
+    Parses <a class="product-card"> elements from kompaszliav.sk.
+
+    Key card structure:
+      <a href="..." class="product-card ">
+        <div class="product-card__header">
+          <img alt="logo - {StoreName}">
+          <img src="{img}" alt="{ProductName}">
+        </div>
+        <div class="product-card__content">
+          <div class="product-store">{StoreName}</div>
+          <div class="product-availability">{ValidFrom} - {ValidTo}</div>
+          <span class="product-price">{Price}</span>
+          <div class="product-card__monitoring-data"><span>{ProductName}</span></div>
+        </div>
+      </a>
+
+    NOTE: <img> is a void element — handle_endtag is never called for it.
+    Cards never nest, so we close the card on the first </a> tag.
+    """
+
+    def __init__(self):
+        super().__init__()
+        self.products: list[dict] = []
+        self._in_card = False
+        self._cur: dict | None = None
+        self._ctx  = ""        # "store" | "avail" | "price" | "name"
+        self._img_idx = 0
+
+    @staticmethod
+    def _cls(attrs_d: dict) -> set:
+        return set((attrs_d.get("class") or "").split())
+
+    def handle_starttag(self, tag, attrs):
+        attrs_d = dict(attrs)
+        cls     = self._cls(attrs_d)
+
+        if tag == "a" and "product-card" in cls and not self._in_card:
+            href = attrs_d.get("href", "")
+            self._in_card = True
+            self._cur = {
+                "link":        href if href.startswith("http") else _KOMPAS_BASE + href,
+                "store":       "",
+                "name":        "",
+                "valid_from":  "",
+                "valid_until": "",
+                "price_str":   "",
+                "price":       0.0,
+                "image":       "",
+            }
+            self._img_idx = 0
+            return
+
+        if not self._in_card or self._cur is None:
+            return
+
+        if tag == "div":
+            if "product-store" in cls:
+                self._ctx = "store"
+            elif "product-availability" in cls:
+                self._ctx = "avail"
+            elif "product-card__monitoring-data" in cls:
+                self._ctx = "name"
+        elif tag == "span":
+            if "product-price" in cls:
+                self._ctx = "price"
+        elif tag == "img":
+            src = attrs_d.get("src", "")
+            alt = (attrs_d.get("alt") or attrs_d.get("title") or "").strip()
+            if self._img_idx == 0:
+                store_name = re.sub(r"^logo\s*-\s*", "", alt, flags=re.I).strip()
+                if store_name:
+                    self._cur["store"] = store_name
+            elif self._img_idx == 1:
+                full = src if src.startswith("http") else _KOMPAS_BASE + src
+                self._cur["image"] = full
+                if not self._cur["name"] and alt:
+                    self._cur["name"] = alt
+            self._img_idx += 1
+
+    def handle_endtag(self, tag):
+        if self._in_card and tag == "a":
+            self._in_card = False
+            self._ctx     = ""
+            self._finalise()
+            self._cur = None
+            return
+        if tag in ("div", "span"):
+            self._ctx = ""
+
+    def handle_data(self, data):
+        if not self._in_card or self._cur is None or not self._ctx:
+            return
+        text = data.strip()
+        if not text:
+            return
+        if self._ctx == "store":
+            self._cur["store"] = text
+        elif self._ctx == "avail":
+            m = re.match(
+                r"(\d{1,2}\.\s*\d{1,2}\.(?:\s*\d{4})?)"
+                r"\s*[-–]\s*"
+                r"(\d{1,2}\.\s*\d{1,2}\.(?:\s*\d{4})?)",
+                text,
+            )
+            if m:
+                self._cur["valid_from"]  = m.group(1).strip()
+                self._cur["valid_until"] = m.group(2).strip()
+        elif self._ctx == "price":
+            self._cur["price_str"] = text
+        elif self._ctx == "name":
+            self._cur["name"] = text
+
+    def _finalise(self):
+        c = self._cur
+        if not c:
+            return
+        name = c["name"].strip()
+        try:
+            price_val = float(
+                c["price_str"].replace("€", "").replace(",", ".").replace("\xa0", "").strip()
+            )
+        except ValueError:
+            price_val = 0.0
+        if not name or price_val <= 0:
+            return
+        self.products.append({
+            "store":       c["store"],
+            "name":        name,
+            "price":       price_val,
+            "price_str":   c["price_str"],
+            "valid_from":  c["valid_from"],
+            "valid_until": c["valid_until"],
+            "image":       c["image"],
+            "link":        c["link"],
+        })
+
+
+def _kompas_fetch_html(url: str) -> str:
+    """Fetch a kompaszliav.sk page; handles gzip and Slovak URL encoding."""
+    from urllib.parse import urlsplit, urlunsplit, quote
+    parts = urlsplit(url)
+    safe_path = quote(parts.path, safe="/%")
+    url = urlunsplit((parts.scheme, parts.netloc, safe_path, parts.query, parts.fragment))
+    try:
+        req = urllib.request.Request(url, headers=_KOMPAS_HEADERS)
+        with urllib.request.urlopen(req, context=_KOMPAS_SSL, timeout=20) as resp:
+            raw = resp.read()
+            if resp.headers.get("Content-Encoding", "") == "gzip":
+                raw = gzip.decompress(raw)
+            return raw.decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        if e.code not in (404, 410):
+            print(f"    HTTP {e.code}")
+        return ""
+    except Exception as e:
+        print(f"    ✗ {e}")
+        return ""
+
+
+def _kompas_iso(s: str) -> str:
+    """Convert kompas date string like '21.5.' or '27.5.2026' to ISO 'YYYY-MM-DD'."""
+    s = s.strip().replace(" ", "")
+    m = re.match(r"(\d{1,2})\.(\d{1,2})\.(\d{4})?", s)
+    if not m:
+        return ""
+    d, mo, yr = m.groups()
+    yr = yr or str(_date.today().year)
+    return f"{yr}-{int(mo):02d}-{int(d):02d}"
+
+
+def _kompas_to_coop_product(item: dict) -> dict | None:
+    """Convert a kompaszliav.sk card dict to a COOP product dict."""
+    # Strip leading promotional markers (e.g. "** Jacobs Krönung")
+    raw_name = re.sub(r"^[\s*#!]+", "", item["name"])
+    name = raw_name.strip()
+    if not name or item["price"] <= 0:
+        return None
+    valid_from  = _kompas_iso(item.get("valid_from",  ""))
+    valid_until = _kompas_iso(item.get("valid_until", ""))
+    price = round(item["price"], 2)
+    return {
+        "store":          "COOP",
+        "name":           name,
+        "brand":          "",
+        "price":          price,
+        "price_str":      f"{price:.2f} €".replace(".", ","),
+        "original_price": "",
+        "discount_pct":   0,
+        "image":          item.get("image", ""),
+        "url":            item.get("link", LETAK_URL),
+        "category":       normalize_category("", name),
+        "type":           normalize_type("", name),
+        "unit":           "",
+        "valid_from":     valid_from,
+        "valid_until":    valid_until,
+        "leaflet_id":     "kompas",
+        "leaflet_name":   "kompaszliav.sk",
+    }
+
+
+def try_kompas_coop(products: list[dict], seen: set) -> int:
+    """
+    Stage 1 — primary data source.
+    Scrapes all COOP Jednota products from kompaszliav.sk across food/drink slugs.
+    Adds new products to `products` and tracks keys in `seen`.
+    Returns the number of products added.
+    """
+    print("\n  ── Stage 1: kompaszliav.sk (COOP Jednota) ──")
+    added = 0
+    seen_slugs: set[str] = set()
+
+    for slug in _KOMPAS_COOP_SLUGS:
+        if slug in seen_slugs:
+            continue
+        seen_slugs.add(slug)
+        url = f"{_KOMPAS_BASE}/produkty/{slug}?store=coop-jednota"
+        print(f"    {slug} … ", end="", flush=True)
+        html = _kompas_fetch_html(url)
+        if not html:
+            print("empty")
+            continue
+        parser = _KompasCardParser()
+        parser.feed(html)
+        n_new = 0
+        for item in parser.products:
+            prod = _kompas_to_coop_product(item)
+            if not prod:
+                continue
+            key = (prod["name"][:60].lower(), round(prod["price"], 2))
+            if key not in seen:
+                seen.add(key)
+                products.append(prod)
+                n_new += 1
+        added += n_new
+        print(f"{n_new} new  (total {len(products)})")
+        time.sleep(0.3)
+
+    print(f"  → Stage 1 done: {added} COOP products from kompaszliav.sk")
+    return added
+
+
 # ── Main scraping entry point ─────────────────────────────────────────────────
 
 def scrape() -> list[dict]:
-    print("  → COOP: načítavam zoznam letákov …")
-    leaflets = _get_leaflets()
-    if not leaflets:
-        print("  ✗ COOP: žiadne letáky nenájdené na stránke")
-        return []
-    print(f"    Nájdené letáky: {[l['name'] + ' #' + l['id'] for l in leaflets]}")
+    products: list[dict] = []
+    seen: set[tuple] = set()
 
-    all_products: list[dict] = []
-    for leaflet in leaflets:
-        try:
-            products = scrape_leaflet(leaflet)
-            all_products.extend(products)
-        except Exception as e:
-            print(f"  ✗ COOP {leaflet['name']}: {e}")
+    # kompaszliav.sk — single source of truth (clean OCR names, images, dates)
+    try_kompas_coop(products, seen)
 
-    return all_products
+    return products
 
 
 def deduplicate(products: list[dict]) -> list[dict]:

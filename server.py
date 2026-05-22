@@ -556,9 +556,15 @@ _CAT_RULES = [
         "zlatý bažant", "šariš", "topvar", "gambrinus", "kozel ",
         "heineken", "carlsberg", "stella artois", "corona ",
         "leffe", "hoegaarden", "paulaner",
-        # Wine brands
+        "kelt ",           # Kelt 10% — Slovak lager brand
+        "starobrno",       # Starobrno — Czech beer brand
+        # Wine brands & varieties
         "hubert club", "vitis galéria", "topolčianky", "château",
         "frizzante", "prosecco", "sekt ", "lambrusco",
+        "cuvée",           # wine blend (Cuvée biele)
+        "tramín",          # Tramín červený — grape variety
+        "rulandsk",        # Rulandské šedé/biele — grape variety
+        "welschriesling", "muškát", "rizling",  # more grape varieties
         # Spirit brands
         "nicolaus vodka", "ballantine", "jameson", "jack daniel",
         "jim beam", "beefeater", "captain morgan", "bacardi",
@@ -578,15 +584,20 @@ _CAT_RULES = [
         "red bull", "redbull", "monster energy", "hell energy",
         # Generic drink words
         "pivo ", "pivu", "pivné",
-        "víno ", "vína ", "vínový", "šumivé víno",
+        "víno ", "vína ", " víno", " vína", "vínový", "vínny", "šumivé víno",  # " víno"/" vína" = end-of-string
         "vodka", "whisky", "whiskey", "likér", "rum ", "gin ",
         "džús", "šťava ovocná", "nektár",
-        "minerálna voda", "perlivá voda",
+        "minerálna voda", "perlivá voda", "pramenitá voda",
+        "jemne perlivá", "neperlivá voda", "dojčenská",  # water variants
+        "budiš",           # Budiš mineral water brand
+        "kláštorn",        # Kláštorná Kalcia water brand
+        "mattoni",         # Mattoni sparkling water brand
         "limonáda", "tonik ", "isotonický",
+        "cola",            # Royal Crown Cola and other cola drinks
         "sirup ", "mošt ", "smoothie",
-        "čaj ", "zelený čaj", "ovocný čaj", "bylinný čaj",
+        "čaj ", " čaj", "zelený čaj", "ovocný čaj", "bylinný čaj",  # " čaj" catches end-of-string
         "káva", "espresso", "cappuccino", "instantná káva", "inst.káva",
-        "kakao ", "horúca čokoláda",
+        "kakao", "horúca čokoláda",   # "kakao" without trailing space
         "nápoj", "beer", "wine", "juice", "beverage",
         # Additional brands / keywords
         "energeťák",               # Slovak slang for energy drink
@@ -597,7 +608,11 @@ _CAT_RULES = [
         "radegast",
         "semtex ",
         "corgoň",
-        "veltín", "veltínske",
+        "veltín", "veltlínsk",     # Veltlín / Veltlínske zelené
+        "gemerka",                 # Gemerka mineral water brand
+        "chardonnay", "shiraz", "zinfandel", "pinot", "tempranillo",  # wine varieties
+        "segafredo",               # Segafredo coffee brand
+        "qapka",                   # Qapka flavored water brand
         "liehovina",
         "pramenitá voda",
         "jana ",
@@ -608,8 +623,10 @@ _CAT_RULES = [
     # ── Cheese — before Pekáreň/Mliečne so "syrový" doesn't leak into dairy
     ("Syry", [
         "semihard cheese",   # raw Billa category
-        " syr ", "syr.", "syrov", "syrový", "syrové",   # space-guarded
+        " syr ", " syr", "syr.", "syrov", "syrový", "syrové",  # " syr" catches end-of-string
         "eidam", "gouda", "camembert", "brie",
+        "balsýr",      # Balsýr soft cheese brand
+        "mascarpone",  # Italian cream cheese
         "mozzarella", "mozarella", "mozarel",
         "čedar", "cheddar", "parmezan", "parmezán",
         "oštiepok", "parenica", "niva ", "hermelín",
@@ -632,10 +649,14 @@ _CAT_RULES = [
         "chlieb", "chleba",
         # Rolls & buns
         "rohlík", "rožok", "žemľa", "žemle", "hamburgerov",
+        "kajzerk", "kaizerka",   # Kajzerka / Kaizerka (Kaiser roll, both spellings)
         "bageta", "bagetka", "baguette", "ciabatta",
         "pita chlieb", "bagel", "briošk",
         # Sweet bakery
-        "vianočka", "závin ", "záviň",
+        "vianočka", "závin", "záviň",  # závin without trailing space
+        "škoricov",   # škoricová rolka — cinnamon roll
+        "bábovka",    # bundt cake
+        "calzone",    # Calzone kapsa (filled pastry)
         "buchty", "buchtiček", "buchtič",
         "makovník", "orechový závin", "tvarohový závin",
         "slimák ",     # swirl/snail-shaped filled pastry
@@ -675,7 +696,7 @@ _CAT_RULES = [
         "smotana", "šľahačka", "šľahačkov",
         "smotana na šľahanie", "smotana na varenie", "kyslá smotana",
         # Butter / margarine
-        "maslo ", "maslov",
+        "maslo", "maslov",         # "maslo" without trailing space catches end-of-string
         "hera 250", "rama ", "flora ",
         # Tvaroh / quark
         "tvaroh", "tvarohov",
@@ -685,6 +706,12 @@ _CAT_RULES = [
         "rajo ", "zott ", "tami tatranské", "olma ", "meggle",
         "milk", "yogurt", "yoghurt", "cream", "butter", "dairy",
         # Additional dairy brands & products
+        "termix",                    # Termix tvaroh dessert by Kunín
+        "skyr",                      # Icelandic-style fermented dairy
+        "kyslomliečny",              # kyslomliečny výrobok = fermented dairy
+        "müller ",                   # Müller Cremoso and other Müller dairy products
+        "maškrtko",                  # Maškrtko Maxi kyslomliečny dezert
+        "puding",                    # puding (dairy-based dessert)
         "madeta",                    # Czech dairy brand (Lipánek, etc.)
         "lipánek",                   # Madeta yogurt/dessert for kids
         "pribináček",                # Danone quark snack
@@ -726,18 +753,32 @@ _CAT_RULES = [
         "čokoláda", "čokol", " čoko",
         # Candy
         "cukrík", "bonbón", "bonboniér", "lízank", "žuvačk", "pralinky",
+        "dražé",  # dragée (Orbit dražé, chocolate dragées)
+        "mentos", "tic tac",  # breath-mint candy brands
         # Chips & savoury snacks
         "chipsy", "lupienky", "krekry", "popcorn",
         "nachos", "tortilla chip", "pringles",
         "super ring",
         # Bars & biscuits
         "tyčink",      # tyčinka (sing.) and tyčinky (pl.) — snack sticks
-        "sušienky", "keks",
-        "oblátk", "oplatky", "wafer",   # oblátk covers both oblátka (sg.) and oblátky (pl.)
+        "sušienky", "sušenky", "keks",   # sušenky = Czech/mixed form used by some sources
+        "oblátk", "oblátok", "oplatky", "oplátky", "wafer",  # all wafer spellings
+        "knoppers",      # Knoppers wafer brand
+        "studentsk",     # Studentská pečeť wafer brand
+        "miňonky",       # Miňonky chocolate treats (Orion brand)
+        "bebe ",         # BeBe Dobré ráno biscuit brand
+        " stix", "stix ", # SLOVAKIA STIX — pretzel sticks
+        "delissa",       # Delissa chocolate snack bar (Billa)
+        "zubíci",        # Zubíci — Pilos tooth-shaped biscuit snack
+        "sorbetov",      # Sorbetové kornútiky — sorbet ice cream cones
+        "duetky",        # Nelapek Duetky — filled wafer bites
+        "zlatušky",      # Zlatušky — Czech wafer cookies
+        "vajíčko s",     # Vajíčko s prekvapením (Kinder Surprise style)
         # Nuts (snack context)
         "oriešky ", "arašid", "mandle ",
         # Ice cream
-        "zmrzlin", "nanuk ", "magnum ", "häagen", "zmrzlinov",
+        "zmrzlin", "nanuk", "magnum ", "häagen", "zmrzlinov",  # nanuk without trailing space
+        "twister",       # Twister ice lolly brand
         "chocolate", "candy", "sweet", "snack", "cookie", "biscuit",
         # Additional confectionery brands & products
         "lindt",       # Lindt Excellence / Lindor
@@ -764,9 +805,12 @@ _CAT_RULES = [
         # Vegetables
         "paradajk", "cherry paradajk",
         "rajčiak",     # tomato (Slovak variant spelling)
-        "uhorka", "paprik", "šalát ", "špenát", "kapust", "brokolica",
+        "uhork",               # uhork covers uhorka (sg.) and uhorky (pl.)
+        "paprik", "šalát", "špenát", "kapust", "brokolica",  # šalát without trailing space
+        "kivi", "šampiňón",    # kiwi variant spelling; šampiňóny (mushrooms)
         "karfiol", "mrkva", "cibuľ", "cesnak", "zeler",
-        "hrášok", "kukurica", "kel ", "repa ", "reďkovk",
+        "hrášok", "kukurica", "kel ", "repa ", "reďkovk", "redkovk",  # radish (both spellings)
+        "limeta",   # lime
         "baklažán", "cuketa", "pór ", "petržlen",
         "špargľ",      # asparagus
         "chren", "kaleráb", "rukola", "mangold",
@@ -779,6 +823,7 @@ _CAT_RULES = [
         "kešu",        # cashews
         "zemiak",      # potatoes (zemiaky)
         "olivy",       # olives
+        "cvikla",      # beetroot
         "bahlsen",     # Bahlsen nut/fruit snack mixes
     ]),
 
@@ -800,7 +845,7 @@ _CAT_RULES = [
         "kurc",      # kurcí etc.
         "hydinov", "hydina",
         # Duck
-        "kačac",     # kačacie, kačacia, kačacím…
+        "kačac", "kačic",  # kačacie / kačica (both vowel forms)
         # Turkey
         "morčaci",
         # Rabbit
@@ -813,7 +858,7 @@ _CAT_RULES = [
         "gašpark",   # gašparky — small smoked sausages
         "jaternic",  # jaternice — Czech-style offal sausage
         "prosciutto",
-        "údeni", "údenin", "údenky",
+        "úden",   # covers údený/údená/údenie/údeniny/údenky
         # Generic meat words
         "mäso ", "mäsov", "steak", "stehno",
         "rezň", "rezne",   # rezne = schnitzels (plural without háček variant)
@@ -831,7 +876,18 @@ _CAT_RULES = [
         "salame ",     # Italian-style salami
         "bacon ",      # bacon (English loanword used on packaging)
         "tlačenk",     # tlačenka — head cheese / brawn
+        "huspenin",    # huspenina — head cheese (brawn) in aspic
         "pražma",      # sea bream (morská ryba)
+        "filé",        # fish fillet (Nowaco Filé porcie)
+        "mortadell",   # Mortadella Medvedík and other mortadella products
+        "sekán", "sekaná",  # sekaná (meatloaf) — both forms
+        "teľac",       # teľací (veal) — Teľací burger
+        "vysočin",     # Vysočina — Czech salami brand
+        "utopenc",     # utopence — pickled sausages
+        "debrecínka",  # Debreciner sausage (short form not covered by "debrecínsk")
+        "ščipák",      # Ščipák humenský — smoked specialty from Humenné
+        "vajcia",      # eggs (fresh eggs belong with meat/fish in SK supermarkets)
+        "sviečková",   # beef in cream sauce — ready meal
     ]),
 
     # ── Frozen
@@ -848,15 +904,20 @@ _CAT_RULES = [
         "múka ", "krupica", "ovsené vločky", "müsli", "cereáli",
         "granola", "corn flakes",
         # Oils / fats
-        "olivový olej", "repkový olej", "slnečnicový olej",
+        "olivový olej", "olej olivový",  # both word orders
+        "repkový olej", "slnečnicový olej",
+        "extra virgin", "extra panenský",  # olive oil quality labels (Franz Josef, Fratelli…)
+        "mantova",         # Fratelli Mantova olive oil brand
         "borges", "raciol",
         # Condiments / sauces
-        "ocot ", "kečup", "horčica", "majonéza",
+        "ocot", "kečup", "horčica", "horčičn",  # ocot without trailing space; horčičn covers horčičné semienko
+        "majonéza", "čalamáda",   # pickled vegetables
+        "omáčka",     # general sauce (Tradičná kvalita Omáčka…)
         "sójová omáčka", "worcester", "tabasco", "pesto",
         "paradajkový pretlak", "paradajková pasta",
         # Seasonings / bouillon
-        "vegeta", "podravka", "knorr", "maggi", "bujón", "vývar",
-        "ochucovadlo", "korenie mix",
+        "vegeta", "podravka", "knorr", "maggi", "vitana", "bujón", "vývar",
+        "ochucovadlo", "korenie mix", "kotányi", "thymos",  # spice brands
         # Canned / preserved
         "konzerv", "konzervovaný",
         "v olivovom oleji", "vo vlastnej šťave", "v majonéze",
@@ -871,8 +932,10 @@ _CAT_RULES = [
         # Preserved meats / pâtés (Hamé etc.)
         "hamé", "paštéta", "májka al", "svačinka al",
         # Other shelf-stable
-        "instant", "polievka v prášku",
+        "instant", "polievka v prášku", "carpathia",  # Carpathia instant soup
         "ideál", "bask ryža",
+        "gaštanov",    # gaštanové pyré (chestnut purée)
+        "pektín", "sirupfix", "želírovac",  # DR.OETKER jam/jelly making
         "pasta", "rice", "oil", "flour", "sauce", "soup", "canned",
     ]),
 ]
@@ -896,12 +959,22 @@ _TYPE_RULES = [
         "kozel ", "heineken", "budvar", "budweiser", "staropramen",
         "pilsner urquell", "carlsberg", "stella artois", "leffe",
         "hoegaarden", "paulaner", "radegast", "urpiner",
+        "kelt ",           # Kelt 10%
+        "starobrno",       # Starobrno
         "pivo ", "pivu", "pivné", "beer", "lager", "ale ",
     ]),
     ("víno", [
-        "víno ", "vína ", "vínový", "šumivé víno", "prosecco", "frizzante",
+        "víno ", "vína ", " víno", " vína", "vínový", "vínny", "šumivé víno",
+        "prosecco", "frizzante",
         "sekt ", "lambrusco", "hubert club", "vitis galéria",
         "topolčianky", "château", "wine",
+        "cuvée",           # blended wine
+        "tramín",          # Tramín červený
+        "rulandsk",        # Rulandské šedé/biele
+        "welschriesling", "muškát", "rizling",
+        "chardonnay", "shiraz", "zinfandel", "pinot", "tempranillo",
+        "ribessa",         # Ribessa ríbezľové víno
+        "movino",          # Movino wine brand
     ]),
     ("liehovina", [
         "vodka", "whisky", "whiskey", "likér", "rum ", "gin ",
@@ -916,7 +989,11 @@ _TYPE_RULES = [
     ]),
     ("minerálna voda", [
         "minerálna voda", "perlivá voda", "pramenitá voda",
+        "jemne perlivá", "neperlivá voda", "dojčenská",
         "magnesia", "jana ", "rajec ", "oravská voda", "zlatíčko",
+        "budiš",           # Budiš mineral water
+        "kláštorn",        # Kláštorná Kalcia
+        "mattoni",         # Mattoni
     ]),
     ("džús", [
         "džús", "šťava ovocná", "nektár", "juice",
@@ -929,9 +1006,9 @@ _TYPE_RULES = [
         "dolce gusto", "tassimo", "espresso", "cappuccino", "instantná káva",
     ]),
     ("čaj", [
-        "čaj ", "tea", "zelený čaj", "ovocný čaj", "bylinný čaj", "popradský",
+        "čaj ", " čaj", "tea", "zelený čaj", "ovocný čaj", "bylinný čaj", "popradský",
     ]),
-    ("kakao", ["kakao ", "horúca čokoláda"]),
+    ("kakao", ["kakao", "horúca čokoláda"]),   # kakao without trailing space
     ("limonáda", [
         "coca-cola", "pepsi ", "kofola", "fanta ", "sprite ",
         "limonáda", "tonik ", "smoothie", "sirup ",
@@ -952,9 +1029,12 @@ _TYPE_RULES = [
     ("šunka", ["šunk", "prosciutto", "ham"]),
     ("klobása", [
         "klobás", "salám", "salámov", "salama", "frankfurtsk",
-        "debrecínsk", "safalád", "gašpark", "špekáčik",
+        "debrecínsk", "debrecínka",  # both Debreciner forms
+        "safalád", "gašpark", "špekáčik",
+        "ščipák",      # Ščipák humenský
         "chorizo", "salame ", "sausage",
     ]),
+    ("vajcia",   ["vajcia", "vajce"]),
     ("slanina", ["slanin", "bacon "]),
     ("tlačenka", ["tlačenk"]),
     ("párky", ["párky", "párok", "hot dog"]),
@@ -972,14 +1052,16 @@ _TYPE_RULES = [
     ("jogurt", [
         "jogurt", "joghurt", "kariéka", "jogobella", "pilos ",
         "actimel", "activia", "grécky typ", "gréc. typ",
+        "skyr",          # Icelandic-style fermented dairy
+        "kyslomliečny",  # fermented dairy product
         "danone fantasia", "pribináček", "yogurt", "yoghurt",
     ]),
     ("maslo", [
-        "maslo ", "maslov", "hera ", "rama ", "flora ",
+        "maslo", "maslov", "hera ", "rama ", "flora ",  # maslo without trailing space
         "pro aktiv", "margarín", "butter",
     ]),
     ("smotana", ["smotana", "šľahačka", "kyslá smotana", "cream"]),
-    ("tvaroh", ["tvaroh", "tvarohov"]),
+    ("tvaroh", ["tvaroh", "tvarohov", "termix"]),  # Termix is a tvaroh dessert
     ("kefír", ["kefír", "acidofiln", "acidko"]),
     ("nátierka", [
         "nátierka", "lučina", "bánovecká", "syrokrém", "smotanella",
@@ -1018,8 +1100,9 @@ _TYPE_RULES = [
         "čokoláda", "čokol", " čoko", "chocolate",
     ]),
     ("zmrzlina", [
-        "zmrzlin", "nanuk ", "magnum ", "häagen", "zmrzlinov",
+        "zmrzlin", "nanuk", "magnum ", "häagen", "zmrzlinov",  # nanuk without trailing space
         "nanuková torta", "veto ", "ice cream",
+        "twister",         # Twister ice lolly
     ]),
     ("chipsy", [
         "chipsy", "lupienky", "pringles", "lay's", "lays",
@@ -1027,21 +1110,28 @@ _TYPE_RULES = [
         "nachos", "tortilla chip", "crisps",
     ]),
     ("oblátka", [
-        "oblátk", "oplatky", "wafer", "tatranky", "horalky",
+        "oblátk", "oplatky", "oplátky", "wafer", "tatranky", "horalky",
         "fidorka", "manner ", "bez mila",
+        "knoppers",    # Knoppers wafer-biscuit
+        "studentsk",   # Studentská pečeť wafers
     ]),
-    ("sušienka", ["sušienky", "keks", "cookie", "biscuit", "bahlsen", "piškóty"]),
+    ("sušienka", ["sušienky", "sušenky", "keks", "cookie", "biscuit", "bahlsen", "piškóty",
+                  "bebe ",    # BeBe Dobré ráno soft biscuits
+                  ]),
     ("tyčinka",  ["tyčink", "corny ", "brumík"]),
-    ("bonbón",   ["cukrík", "bonbón", "bonboniér", "lízank", "haribo", "jojo ", "candy"]),
+    ("bonbón",   ["cukrík", "bonbón", "bonboniér", "lízank", "haribo", "jojo ", "candy",
+                  "dražé", "mentos", "tic tac",
+                  "miňonky",   # Miňonky chocolate drops
+                  ]),
     ("orechy",   ["oriešky ", "arašid", "mandle ", "pistáci", "kešu", "nuts"]),
     ("popcorn",  ["popcorn"]),
 
     # ── Produce ────────────────────────────────────────────────────────────────
     ("paradajky", ["paradajk", "cherry paradajk", "rajčiak", "tomato"]),
     ("paprika",   ["paprik", "pepper"]),
-    ("šalát",     ["šalát ", "lettuce", "rukola", "mangold"]),
+    ("šalát",     ["šalát", "lettuce", "rukola", "mangold"]),  # šalát without trailing space
     ("špenát",    ["špenát", "spinach"]),
-    ("uhorka",    ["uhorka", "cucumber"]),
+    ("uhorka",    ["uhork", "cucumber"]),   # uhork covers uhorka and uhorky
     ("brokolica", ["brokolica", "karfiol", "broccoli", "cauliflower"]),
     ("kapusta",   ["kapust", "kel ", "cabbage"]),
     ("mrkva",     ["mrkva", "carrot"]),
